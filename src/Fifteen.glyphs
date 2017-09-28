@@ -21966,7 +21966,7 @@ unicode = 222B;
 },
 {
 glyphname = product;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:22:45 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -22003,7 +22003,36 @@ width = 1000;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 -300 LINE",
+"350 -300 LINE",
+"350 1000 LINE",
+"200 1000 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 -300 LINE",
+"800 -300 LINE",
+"800 1000 LINE",
+"650 1000 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 850 LINE",
+"900 850 LINE",
+"900 1000 LINE",
+"100 1000 LINE"
+);
+}
+);
+width = 1000;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
