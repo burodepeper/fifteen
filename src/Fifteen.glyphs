@@ -4562,7 +4562,7 @@ unicode = 015A;
 },
 {
 glyphname = Scaron;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:49:27 +0000";
 layers = (
 {
 components = (
@@ -4578,8 +4578,17 @@ layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 800;
 },
 {
+components = (
+{
+name = S;
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, 150, 150}";
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+width = 800;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
@@ -5992,7 +6001,7 @@ unicode = 0179;
 },
 {
 glyphname = Zcaron;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:49:03 +0000";
 layers = (
 {
 components = (
@@ -6008,8 +6017,17 @@ layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 900;
 },
 {
+components = (
+{
+name = Z;
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, 200, 150}";
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+width = 900;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
@@ -11856,7 +11874,7 @@ unicode = 015B;
 },
 {
 glyphname = scaron;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:49:37 +0000";
 layers = (
 {
 components = (
@@ -11872,8 +11890,17 @@ layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 700;
 },
 {
+components = (
+{
+name = s;
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, 100, 0}";
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+width = 700;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
@@ -13572,7 +13599,7 @@ unicode = 017A;
 },
 {
 glyphname = zcaron;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:49:15 +0000";
 layers = (
 {
 components = (
@@ -13588,8 +13615,17 @@ layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 700;
 },
 {
+components = (
+{
+name = z;
+},
+{
+name = caron;
+transform = "{1, 0, 0, 1, 100, 0}";
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+width = 700;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
