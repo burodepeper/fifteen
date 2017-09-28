@@ -26023,7 +26023,7 @@ unicode = 0060;
 },
 {
 glyphname = hungarumlaut;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:46:15 +0000";
 layers = (
 {
 components = (
@@ -26039,6 +26039,16 @@ layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 600;
 },
 {
+components = (
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, -40, 0}";
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 220, 0}";
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
 width = 600;
 },
