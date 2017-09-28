@@ -1,8 +1,5 @@
 {
 .appVersion = "1066";
-DisplayStrings = (
-"/Ydieresis"
-);
 date = "2017-09-17 17:00:05 +0000";
 designer = "David van Gemeren";
 disablesAutomaticAlignment = 1;
@@ -24520,7 +24517,7 @@ unicode = 2117;
 {
 color = 0;
 glyphname = trademark;
-lastChange = "2017-09-26 09:33:30 +0000";
+lastChange = "2017-09-28 20:02:32 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -24579,7 +24576,58 @@ width = 1050;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 1000 LINE",
+"400 1000 LINE",
+"400 1100 LINE",
+"100 1100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 600 LINE",
+"300 600 LINE",
+"300 1000 LINE",
+"200 1000 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 600 LINE",
+"600 600 LINE",
+"600 1100 LINE",
+"500 1100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"670 770 LINE",
+"730 670 LINE",
+"790 770 LINE",
+"940 1050 LINE",
+"850 1100 LINE",
+"730 880 LINE",
+"600 1100 LINE",
+"510 1050 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"850 600 LINE",
+"950 600 LINE",
+"950 1100 LINE",
+"850 1100 LINE"
+);
+}
+);
+width = 1050;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
