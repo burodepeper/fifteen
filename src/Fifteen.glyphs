@@ -1,5 +1,8 @@
 {
 .appVersion = "1066";
+DisplayStrings = (
+"/Ydieresis"
+);
 date = "2017-09-17 17:00:05 +0000";
 designer = "David van Gemeren";
 disablesAutomaticAlignment = 1;
@@ -5852,7 +5855,7 @@ unicode = 0176;
 },
 {
 glyphname = Ydieresis;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 20:01:24 +0000";
 layers = (
 {
 components = (
@@ -5868,8 +5871,17 @@ layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 900;
 },
 {
+components = (
+{
+name = Y;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 200, 150}";
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+width = 900;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
