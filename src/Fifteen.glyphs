@@ -24419,7 +24419,7 @@ unicode = 00A6;
 },
 {
 glyphname = dagger;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:07:23 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -24447,6 +24447,26 @@ width = 600;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
+paths = (
+{
+closed = 1;
+nodes = (
+"225 450 LINE",
+"375 450 LINE",
+"375 1100 LINE",
+"225 1100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 825 LINE",
+"500 825 LINE",
+"500 975 LINE",
+"100 975 LINE"
+);
+}
+);
 width = 600;
 },
 {
@@ -24458,29 +24478,16 @@ unicode = 2020;
 },
 {
 glyphname = daggerdbl;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-28 19:08:02 +0000";
 layers = (
 {
+components = (
+{
+name = dagger;
+}
+);
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 paths = (
-{
-closed = 1;
-nodes = (
-"250 450 LINE",
-"350 450 LINE",
-"350 1100 LINE",
-"250 1100 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"100 850 LINE",
-"500 850 LINE",
-"500 950 LINE",
-"100 950 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -24494,7 +24501,23 @@ nodes = (
 width = 600;
 },
 {
+components = (
+{
+name = dagger;
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
+paths = (
+{
+closed = 1;
+nodes = (
+"100 575 LINE",
+"500 575 LINE",
+"500 725 LINE",
+"100 725 LINE"
+);
+}
+);
 width = 600;
 },
 {
