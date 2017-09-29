@@ -41,6 +41,7 @@
   - `upDownArrow` (Bold, U+2195)
   - `leftRightArrow` (Bold, U+2194)
   - `Omega` (Bold, U+03A9)
+  - `Delta` (Bold, U+0394)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)

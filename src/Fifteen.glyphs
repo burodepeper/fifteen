@@ -14075,7 +14075,7 @@ unicode = 00BA;
 {
 color = 3;
 glyphname = Delta;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-29 01:53:08 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -14106,7 +14106,30 @@ width = 800;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"160 -150 LINE",
+"400 670 LINE",
+"640 -150 LINE",
+"775 -150 LINE",
+"515 850 LINE",
+"285 850 LINE",
+"25 -150 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 -150 LINE",
+"680 -150 LINE",
+"680 0 LINE",
+"120 0 LINE"
+);
+}
+);
+width = 800;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
