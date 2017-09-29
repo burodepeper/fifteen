@@ -26,6 +26,7 @@
   - `dotaccentcomb` (Bold, U+0307)
   - `Ydierisis` (Bold, U+0178)
   - `trademark` (Bold, U+2122)
+  - `radical` (Bold, U+221A)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
