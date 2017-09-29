@@ -27,6 +27,7 @@
   - `Ydierisis` (Bold, U+0178)
   - `trademark` (Bold, U+2122)
   - `radical` (Bold, U+221A)
+  - `ogonek` (Bold, U+02DB)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
