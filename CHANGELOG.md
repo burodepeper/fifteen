@@ -29,6 +29,7 @@
   - `radical` (Bold, U+221A)
   - `ogonek` (Bold, U+02DB)
   - `breve` (Bold, U+02D8)
+  - `published` (Regular, U+2117)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
