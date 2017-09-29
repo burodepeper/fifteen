@@ -34,3 +34,4 @@
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
   - `dotaccent` (Regular, U+02D9)
+  - `arrows` (Regular, U+2191, U+2197, U+2192, U+2198, U+2193, U+2199, U+2190, U+2196, U+2194, U+2195)
