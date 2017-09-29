@@ -42,6 +42,9 @@
   - `leftRightArrow` (Bold, U+2194)
   - `Omega` (Bold, U+03A9)
   - `Delta` (Bold, U+0394)
+  - `partialdiff` (Bold, U+2202)
+  - `lessequal` (Bold, U+2264)
+  - `greaterequal` (Bold, U+2265)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
@@ -50,3 +53,4 @@
   - `superiors` (Bold, U+2070, U+2071, U+2072, U+2073, U+2074, U+2075, U+2076, U+2077, U+2078, U+2079)
   - `inferiors` (Bold, U+2080, U+2081, U+2082, U+2083, U+2084, U+2085, U+2086, U+2087, U+2088, U+2089)
   - `fractions` (Bold, U+2189, U+00BC, U+00BE, U+2150, U+2151, U+2152, U+2153, U+2155, U+2156, U+2157, U+2158, U+2159, U+215A, U+215B, U+215C, U+215D, U+215E, U+215F)
+  - `lessequal` (Regular, U+2264)
