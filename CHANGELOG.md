@@ -40,6 +40,7 @@
   - `northWestArrow` (Bold, U+2196)
   - `upDownArrow` (Bold, U+2195)
   - `leftRightArrow` (Bold, U+2194)
+  - `Omega` (Bold, U+03A9)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
