@@ -12,7 +12,7 @@ The image below gives an idea how this vertical centering works. It takes a litt
 
 [![](images/vertical-grid-example.png)](images/vertical-grid-example.png)
 
-### Differences with monospaces fonts
+### Differences with monospaced fonts
 
 The biggest difference with monospaced fonts is the horizontal rhythm of the characters. Due to its nature, monospaced fonts produce a rigid two dimensional grid on a page. This has certain advantages, but it also creates a distorted shape of many characters. The lowercase `i` has difficulty filling its box, and the `m` becomes a blob at smaller sizes. Due to these constraints, certain characters automatically start to look alike, because there's not enough 'resolution' to distinguish between them. Another disadvantage is the fact the kerning can't be used to optimize combinations or sequences of characters.
 
