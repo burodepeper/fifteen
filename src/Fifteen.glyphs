@@ -1,5 +1,8 @@
 {
 .appVersion = "1069";
+DisplayStrings = (
+"/commaturnedabovecomb"
+);
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
@@ -32138,7 +32141,7 @@ unicode = 0303;
 {
 color = 3;
 glyphname = commaturnedabovecomb;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-30 23:52:39 +0000";
 layers = (
 {
 anchors = (
@@ -32176,7 +32179,27 @@ width = 400;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 800 LINE",
+"300 800 LINE",
+"300 1000 LINE",
+"100 1000 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 1000 LINE",
+"220 1000 LINE",
+"300 1200 LINE",
+"200 1200 LINE"
+);
+}
+);
+width = 400;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
