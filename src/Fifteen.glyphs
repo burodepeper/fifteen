@@ -1,8 +1,5 @@
 {
 .appVersion = "1069";
-DisplayStrings = (
-"/commaturnedabovecomb"
-);
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
@@ -32139,9 +32136,8 @@ width = 600;
 unicode = 0303;
 },
 {
-color = 3;
 glyphname = commaturnedabovecomb;
-lastChange = "2017-09-30 23:52:39 +0000";
+lastChange = "2017-09-30 23:53:00 +0000";
 layers = (
 {
 anchors = (
@@ -32209,9 +32205,8 @@ width = 600;
 unicode = 0312;
 },
 {
-color = 3;
 glyphname = commaaccentcomb;
-lastChange = "2017-09-30 22:49:21 +0000";
+lastChange = "2017-09-30 23:53:15 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -32402,7 +32397,7 @@ unicode = 0335;
 },
 {
 glyphname = strokelongcomb;
-lastChange = "2017-09-25 00:58:25 +0000";
+lastChange = "2017-09-30 23:54:40 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -32421,7 +32416,18 @@ width = 1100;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 275 LINE",
+"1000 275 LINE",
+"1000 425 LINE",
+"100 425 LINE"
+);
+}
+);
+width = 1100;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
@@ -32847,9 +32853,8 @@ width = 600;
 unicode = 00AF;
 },
 {
-color = 0;
 glyphname = ogonek;
-lastChange = "2017-09-29 00:52:22 +0000";
+lastChange = "2017-09-30 23:53:19 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -32974,9 +32979,8 @@ width = 600;
 unicode = 02DC;
 },
 {
-color = 3;
 glyphname = tonos;
-lastChange = "2017-09-29 03:51:09 +0000";
+lastChange = "2017-09-30 23:53:24 +0000";
 layers = (
 {
 components = (
@@ -33009,9 +33013,8 @@ width = 400;
 unicode = 0384;
 },
 {
-color = 3;
 glyphname = tonos.case;
-lastChange = "2017-09-29 03:51:15 +0000";
+lastChange = "2017-09-30 23:53:28 +0000";
 layers = (
 {
 components = (
@@ -33043,21 +33046,41 @@ width = 400;
 );
 },
 {
-color = 3;
 glyphname = dieresistonos;
-lastChange = "2017-09-29 03:53:48 +0000";
+lastChange = "2017-09-30 23:54:25 +0000";
 layers = (
 {
-components = (
+layerId = "833FD172-3601-4257-8297-A103CE2A393F";
+paths = (
 {
-name = dieresiscomb;
+closed = 1;
+nodes = (
+"75 850 LINE",
+"125 850 LINE",
+"125 1000 LINE",
+"75 1000 LINE"
+);
 },
 {
-name = tonos;
+closed = 1;
+nodes = (
+"375 850 LINE",
+"425 850 LINE",
+"425 1000 LINE",
+"375 1000 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"225 850 LINE",
+"275 850 LINE",
+"275 1050 LINE",
+"225 1050 LINE"
+);
 }
 );
-layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+width = 500;
 },
 {
 anchors = (
@@ -33103,15 +33126,36 @@ nodes = (
 width = 500;
 },
 {
-components = (
+layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
+paths = (
 {
-name = dieresiscomb;
+closed = 1;
+nodes = (
+"50 850 LINE",
+"150 850 LINE",
+"150 1000 LINE",
+"50 1000 LINE"
+);
 },
 {
-name = tonos;
+closed = 1;
+nodes = (
+"350 850 LINE",
+"450 850 LINE",
+"450 1000 LINE",
+"350 1000 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 850 LINE",
+"300 850 LINE",
+"300 1050 LINE",
+"200 1050 LINE"
+);
 }
 );
-layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
 width = 500;
 }
 );
