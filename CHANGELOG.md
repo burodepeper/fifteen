@@ -55,3 +55,8 @@
   - `inferiors` (Bold, U+2080, U+2081, U+2082, U+2083, U+2084, U+2085, U+2086, U+2087, U+2088, U+2089)
   - `fractions` (Bold, U+2189, U+00BC, U+00BE, U+2150, U+2151, U+2152, U+2153, U+2155, U+2156, U+2157, U+2158, U+2159, U+215A, U+215B, U+215C, U+215D, U+215E, U+215F)
   - `lessequal` (Regular, U+2264)
+  - `Abreve` (Regular, U+0102)
+  - `Amacron` (Regular, U+0100)
+  - `Aogonek` (Regular, U+0104)
+  - `Jcircumflex` (Regular, U+0134)
+  - `tcaron` (Regular, U+0165)
