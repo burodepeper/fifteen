@@ -1,7 +1,9 @@
 {
 .appVersion = "1069";
-date = "2017-09-17 17:00:05 +0000";
+copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
+date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
+designerURL = www.burodepeper.nl;
 disablesAutomaticAlignment = 1;
 familyName = Fifteen;
 fontMaster = (
@@ -32122,7 +32124,9 @@ parenright = -100;
 };
 };
 };
+manufacturer = "David van Gemeren";
+manufacturerURL = "https://github.com/burodepeper";
 unitsPerEm = 1500;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
