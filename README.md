@@ -44,3 +44,7 @@ Fifteen is constantly being developed as I use it during my normal work. Your fe
 ### Webfont (via CDN)
 
 TODO: jsDelivr (via NPM)
+
+## License
+
+Fifteen is released under the [MIT License](LICENSE]).
