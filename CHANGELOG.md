@@ -45,6 +45,7 @@
   - `partialdiff` (Bold, U+2202)
   - `lessequal` (Bold, U+2264)
   - `greaterequal` (Bold, U+2265)
+  - Add basic Greek characters (Regular, U+0374, U+0375, U+037E, U+0384 to U+038A, U+038C, U+038E to U+03A1, U+03A3 to  U+03CF, U+03D7)
 - Glyphs updated
   - `notequal` (Regular, U+2260)
   - `lslash` (Regular, U+0142)
