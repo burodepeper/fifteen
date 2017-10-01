@@ -1,5 +1,8 @@
 {
 .appVersion = "1069";
+DisplayStrings = (
+"/kgreenlandic"
+);
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
@@ -11159,7 +11162,7 @@ unicode = 006B;
 },
 {
 glyphname = kgreenlandic;
-lastChange = "2017-09-26 17:36:40 +0000";
+lastChange = "2017-10-01 00:04:35 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -11176,22 +11179,42 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"200 280 LINE",
 "510 -30 LINE",
 "580 40 LINE",
 "270 350 LINE",
 "580 660 LINE",
 "510 730 LINE",
-"200 420 LINE",
 "130 350 LINE"
 );
 }
 );
-width = 600;
+width = 650;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 0 LINE",
+"250 0 LINE",
+"250 700 LINE",
+"100 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"510 -30 LINE",
+"615 75 LINE",
+"340 350 LINE",
+"615 625 LINE",
+"510 730 LINE",
+"130 350 LINE"
+);
+}
+);
+width = 650;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
