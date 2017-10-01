@@ -15286,8 +15286,9 @@ width = 600;
 unicode = 017C;
 },
 {
+export = 0;
 glyphname = unifb01;
-lastChange = "2017-09-30 23:41:36 +0000";
+lastChange = "2017-10-01 00:11:04 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -15409,8 +15410,9 @@ width = 600;
 unicode = FB01;
 },
 {
+export = 0;
 glyphname = unifb02;
-lastChange = "2017-09-30 23:44:39 +0000";
+lastChange = "2017-10-01 00:11:07 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
