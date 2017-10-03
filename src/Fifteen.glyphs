@@ -122,7 +122,7 @@ xHeight = 700;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2017-09-27 07:53:03 +0000";
+lastChange = "2017-10-03 17:01:00 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -142,10 +142,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"200 200 LINE",
+"200 100 LINE",
+"600 100 LINE",
 "600 200 LINE",
-"600 300 LINE",
-"200 300 LINE"
+"200 200 LINE"
 );
 }
 );
@@ -169,10 +169,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"300 175 LINE",
-"500 175 LINE",
-"500 325 LINE",
-"300 325 LINE"
+"230 75 LINE",
+"595 75 LINE",
+"595 225 LINE",
+"230 225 LINE"
 );
 }
 );
