@@ -28,9 +28,20 @@ The example below shows the difference between Hack (of which I am part of the d
 
 Fifteen currently offers a basic set of glyphs (well over 200), in Regular and Bold, that should suffice for most programming needs in Western languages.
 
-In addition, the Regular weight holds a total of over 400 glyphs.
+In addition, the Regular weight holds about 1000 glyphs.
 
 [![](images/character-set.png)](images/character-set.png)
+
+| Character Set | Glyphs | Compliance |
+| --- | --- | --- |
+| ASCII | 95/95 | **100%** |
+| Windows 1252 | 207/217 | 95.4% |
+| Mac Roman | 223/242 | 92.1% |
+| WGL4 | ?/? | ? |
+| MES-1 | 313/335 | 93.4% |
+| Google Fonts Core | 205/216 | 94.9% |
+| Google Fonts Plus | 340/371 | 91.6% |
+| Google Fonts Pro | 85/145 | 58.6% |
 
 ## Under development
 
