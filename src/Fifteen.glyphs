@@ -31107,9 +31107,9 @@ width = 400;
 unicode = 00AA;
 },
 {
-color = 0;
+color = 4;
 glyphname = ordmasculine;
-lastChange = "2017-10-07 21:59:05 +0000";
+lastChange = "2017-10-09 15:25:29 +0000";
 layers = (
 {
 components = (
@@ -31161,18 +31161,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"50 600 LINE",
+"0 600 LINE",
 "150 600 LINE",
 "150 800 LINE",
-"50 800 LINE"
+"0 800 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "250 600 LINE",
-"350 600 LINE",
-"350 800 LINE",
+"400 600 LINE",
+"400 800 LINE",
 "250 800 LINE"
 );
 }
