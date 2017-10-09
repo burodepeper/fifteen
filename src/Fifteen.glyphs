@@ -50462,9 +50462,9 @@ width = 800;
 unicode = 00B1;
 },
 {
-color = 3;
+color = 4;
 glyphname = approxequal;
-lastChange = "2017-10-07 22:03:11 +0000";
+lastChange = "2017-10-09 20:14:04 +0000";
 layers = (
 {
 components = (
@@ -50495,8 +50495,18 @@ layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
 width = 900;
 },
 {
+components = (
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, 200}";
+},
+{
+name = asciitilde;
+transform = "{1, 0, 0, 1, 0, -200}";
+}
+);
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+width = 900;
 }
 );
 unicode = 2248;
