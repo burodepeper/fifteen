@@ -1,8 +1,5 @@
 {
 .appVersion = "1069";
-DisplayStrings = (
-"/fi/fl/f_f/f_f_i/f_f_l"
-);
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
@@ -51736,9 +51733,9 @@ width = 700;
 unicode = 222B;
 },
 {
-color = 3;
+color = 4;
 glyphname = Ohm;
-lastChange = "2017-10-07 22:04:57 +0000";
+lastChange = "2017-10-09 20:36:15 +0000";
 layers = (
 {
 components = (
@@ -51771,9 +51768,9 @@ width = 1200;
 unicode = 2126;
 },
 {
-color = 3;
+color = 4;
 glyphname = increment;
-lastChange = "2017-10-01 04:14:50 +0000";
+lastChange = "2017-10-09 20:36:15 +0000";
 layers = (
 {
 components = (
