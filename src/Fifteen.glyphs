@@ -73072,7 +73072,7 @@ unicode = 00A9;
 {
 color = 3;
 glyphname = registered;
-lastChange = "2017-10-08 21:45:45 +0000";
+lastChange = "2017-10-09 15:29:21 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -73209,10 +73209,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"350 700 LINE",
-"400 700 LINE",
-"400 1000 LINE",
-"350 1000 LINE"
+"300 650 LINE",
+"400 650 LINE",
+"400 1050 LINE",
+"300 1050 LINE"
 );
 },
 {
@@ -73225,13 +73225,13 @@ nodes = (
 "520 928 OFFCURVE",
 "498 950 OFFCURVE",
 "470 950 CURVE",
-"470 1000 LINE",
-"525 1000 OFFCURVE",
-"570 955 OFFCURVE",
-"570 900 CURVE SMOOTH",
-"570 845 OFFCURVE",
-"525 800 OFFCURVE",
-"470 800 CURVE"
+"470 1050 LINE",
+"550 1050 OFFCURVE",
+"620 980 OFFCURVE",
+"620 900 CURVE SMOOTH",
+"620 820 OFFCURVE",
+"550 750 OFFCURVE",
+"470 750 CURVE"
 );
 },
 {
@@ -73239,26 +73239,26 @@ closed = 1;
 nodes = (
 "400 950 LINE",
 "470 950 LINE",
-"470 1000 LINE",
-"400 1000 LINE"
+"470 1050 LINE",
+"400 1050 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "470 850 LINE",
-"470 800 LINE",
-"400 800 LINE",
+"470 750 LINE",
+"400 750 LINE",
 "400 850 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"490 830 LINE",
-"560 700 LINE",
-"510 700 LINE",
-"450 810 LINE"
+"500 830 LINE",
+"600 650 LINE",
+"500 650 LINE",
+"400 830 LINE"
 );
 }
 );
