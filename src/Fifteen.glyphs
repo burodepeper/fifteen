@@ -1,8 +1,5 @@
 {
 .appVersion = "1069";
-DisplayStrings = (
-"/lessequal/greaterequal/Omega/Delta"
-);
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
@@ -31362,9 +31359,9 @@ width = 900;
 unicode = 0393;
 },
 {
-color = 3;
+color = 4;
 glyphname = Delta;
-lastChange = "2017-10-07 22:06:27 +0000";
+lastChange = "2017-10-09 20:19:52 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -31422,7 +31419,30 @@ width = 800;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"160 -150 LINE",
+"400 790 LINE",
+"640 -150 LINE",
+"685 -150 LINE",
+"435 850 LINE",
+"365 850 LINE",
+"115 -150 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"150 -150 LINE",
+"650 -150 LINE",
+"650 -100 LINE",
+"150 -100 LINE"
+);
+}
+);
+width = 800;
 }
 );
 unicode = 0394;
@@ -32569,9 +32589,9 @@ width = 600;
 unicode = 03A8;
 },
 {
-color = 3;
+color = 4;
 glyphname = Omega;
-lastChange = "2017-10-07 22:05:38 +0000";
+lastChange = "2017-10-09 20:21:11 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -32685,7 +32705,58 @@ width = 1200;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"700 -140 LINE",
+"925 -95 OFFCURVE",
+"1100 110 OFFCURVE",
+"1100 350 CURVE SMOOTH",
+"1100 625 OFFCURVE",
+"875 850 OFFCURVE",
+"600 850 CURVE SMOOTH",
+"325 850 OFFCURVE",
+"100 625 OFFCURVE",
+"100 350 CURVE SMOOTH",
+"100 109 OFFCURVE",
+"273 -93 OFFCURVE",
+"500 -140 CURVE",
+"500 -90 LINE",
+"300 -40 OFFCURVE",
+"150 140 OFFCURVE",
+"150 350 CURVE SMOOTH",
+"150 600 OFFCURVE",
+"355 800 OFFCURVE",
+"600 800 CURVE SMOOTH",
+"850 800 OFFCURVE",
+"1050 600 OFFCURVE",
+"1050 350 CURVE SMOOTH",
+"1050 139 OFFCURVE",
+"901 -43 OFFCURVE",
+"700 -90 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 -150 LINE",
+"500 -150 LINE",
+"500 -100 LINE",
+"100 -100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"700 -150 LINE",
+"1100 -150 LINE",
+"1100 -100 LINE",
+"700 -100 LINE"
+);
+}
+);
+width = 1200;
 }
 );
 unicode = 03A9;
