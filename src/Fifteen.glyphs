@@ -47612,7 +47612,7 @@ unicode = 0024;
 {
 color = 4;
 glyphname = dong;
-lastChange = "2017-10-08 22:08:20 +0000";
+lastChange = "2017-10-09 21:01:40 +0000";
 layers = (
 {
 components = (
@@ -49758,37 +49758,108 @@ width = 800;
 unicode = 00A3;
 },
 {
-color = 3;
+color = 4;
 glyphname = won;
-lastChange = "2017-10-07 07:49:55 +0000";
+lastChange = "2017-10-09 21:13:32 +0000";
 layers = (
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"50 325 LINE",
+"1100 325 LINE",
+"1100 375 LINE",
+"50 375 LINE"
+);
 },
 {
-components = (
-{
-name = W;
+closed = 1;
+nodes = (
+"315 -150 LINE",
+"385 -150 LINE",
+"575 600 LINE",
+"765 -150 LINE",
+"835 -150 LINE",
+"1100 850 LINE",
+"1050 850 LINE",
+"800 -50 LINE",
+"590 725 LINE",
+"560 725 LINE",
+"350 -50 LINE",
+"100 850 LINE",
+"50 850 LINE"
+);
 }
 );
+width = 1150;
+},
+{
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 paths = (
 {
 closed = 1;
 nodes = (
 "50 300 LINE",
-"1550 300 LINE",
-"1550 400 LINE",
+"1100 300 LINE",
+"1100 400 LINE",
 "50 400 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 -150 LINE",
+"385 -150 LINE",
+"575 600 LINE",
+"765 -150 LINE",
+"835 -150 LINE",
+"1100 850 LINE",
+"1000 850 LINE",
+"800 100 LINE",
+"605 850 LINE",
+"545 850 LINE",
+"350 100 LINE",
+"150 850 LINE",
+"50 850 LINE"
 );
 }
 );
-width = 1600;
+width = 1150;
 },
 {
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"50 300 LINE",
+"1100 300 LINE",
+"1100 400 LINE",
+"50 400 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 -150 LINE",
+"420 -150 LINE",
+"575 475 LINE",
+"730 -150 LINE",
+"835 -150 LINE",
+"1100 850 LINE",
+"950 850 LINE",
+"780 225 LINE",
+"620 850 LINE",
+"530 850 LINE",
+"370 225 LINE",
+"200 850 LINE",
+"50 850 LINE"
+);
+}
+);
+width = 1150;
 }
 );
 unicode = 20A9;
@@ -74521,9 +74592,9 @@ width = 600;
 unicode = 2021;
 },
 {
-color = 0;
+color = 4;
 glyphname = numero;
-lastChange = "2017-10-07 22:02:50 +0000";
+lastChange = "2017-10-09 20:56:58 +0000";
 layers = (
 {
 components = (
