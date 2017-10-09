@@ -38,9 +38,9 @@ In addition, the Regular weight holds about 1000 glyphs.
 | Windows 1252 | 217/217 | **100%** |
 | Mac Roman | 242/242 | **100%** |
 | WGL4 | ?/? | ? |
-| MES-1 | 334/335 | 99.7% |
+| MES-1 | 335/335 | **100%** |
 | Google Fonts Core | 216/216 | **100%** |
-| Google Fonts Plus | 365/370 | 98.6% |
+| Google Fonts Plus | 366/370 | 98.9% |
 | Google Fonts Pro | 139/145 | 95.9% |
 
 ## Under development
