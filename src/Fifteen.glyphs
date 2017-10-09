@@ -1,5 +1,8 @@
 {
 .appVersion = "1069";
+DisplayStrings = (
+"/lessequal/greaterequal/Omega/Delta"
+);
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
 designer = "David van Gemeren";
@@ -35909,7 +35912,7 @@ unicode = 03D7;
 {
 color = 4;
 glyphname = zero;
-lastChange = "2017-10-09 13:58:33 +0000";
+lastChange = "2017-10-09 20:14:23 +0000";
 layers = (
 {
 components = (
@@ -41758,7 +41761,7 @@ unicode = 002E;
 {
 color = 4;
 glyphname = comma;
-lastChange = "2017-10-07 21:57:21 +0000";
+lastChange = "2017-10-09 20:14:24 +0000";
 layers = (
 {
 components = (
@@ -50259,9 +50262,9 @@ width = 800;
 unicode = 003C;
 },
 {
-color = 3;
+color = 4;
 glyphname = greaterequal;
-lastChange = "2017-10-07 22:03:52 +0000";
+lastChange = "2017-10-09 20:17:42 +0000";
 layers = (
 {
 components = (
@@ -50284,16 +50287,22 @@ layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
 width = 800;
 },
 {
+components = (
+{
+name = lessequal;
+transform = "{-1, 0, 0, 1, 800, 0}";
+}
+);
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+width = 800;
 }
 );
 unicode = 2265;
 },
 {
-color = 3;
+color = 4;
 glyphname = lessequal;
-lastChange = "2017-10-07 22:03:11 +0000";
+lastChange = "2017-10-09 20:17:42 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -50349,7 +50358,29 @@ width = 800;
 },
 {
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 0 LINE",
+"700 0 LINE",
+"700 50 LINE",
+"100 50 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"620 160 LINE",
+"645 200 LINE",
+"215 450 LINE",
+"645 700 LINE",
+"620 740 LINE",
+"120 450 LINE"
+);
+}
+);
+width = 800;
 }
 );
 unicode = 2264;
@@ -50464,7 +50495,7 @@ unicode = 00B1;
 {
 color = 4;
 glyphname = approxequal;
-lastChange = "2017-10-09 20:14:04 +0000";
+lastChange = "2017-10-09 20:14:16 +0000";
 layers = (
 {
 components = (
