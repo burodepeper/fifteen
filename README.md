@@ -1,61 +1,112 @@
 # Fifteen
 
-**Very much still under construction**
+Fifteen is a proportionally sized typeface optimized for source code. It was initially developed as an experiment in font metrics and has since evolved as my personal typeface for both source code and identity. As such, it is still very much under active construction and receives frequent updates.
 
-Fifteen is a proportionally sized typeface optimized for source code. It is an experiment.
+![](images/sample-regular.png)
 
-![](images/javascript-cat.png)
+![](images/sample-bold.png)
 
-Fifteen is designed on a 15px tall grid (unusually large), with a small x-height (unusually small), and relatively wide glyph boxes (unusual). It is not designed to cram as much code in as little space as possible. It also does not align its glyphs to a baseline (as is traditional), but instead vertically centers everything. To distinguish between different groups of characters, various consistently used heights are used that act as 'colors'.
+![](images/sample-light.png)
 
-The image below gives an idea how this vertical centering works. It takes a little getting used to, because we're used to seeing all glyphs, in particular the uppercase and lowercase letters, aligned to a baseline. This centered approach however, allows all characters to be neatly aligned with various forms of punctuation and parentheses, both of which are very often used in programming.
+## A typeface designed for source code
 
-[![](images/vertical-grid-example.png)](images/vertical-grid-example.png)
+Fifteen needs a little time to get used to. It differs from traditional typefaces for source code in two distinct ways: it is proportionally sized, and it doesn't strictly use the baseline to align the characters to.
 
-### Differences with monospaced fonts
+Reading source code in characters that are aligned in a grid (as monospaced typefaces are) has its advantages, which is why it is the default approach. It has certain disadvantages too though that simply can't be solved within a monospaced grid. The limited space within the fixed size of a glyph box restricts the possibilities to make clear distinctions between similar looking characters (i.e. uppercase O vs. the number 0). Besides cramming as much information in a limited area, that fixed size also dictates the horizontal rhythm of your code. It makes it harder to read code as a natural language. Proportionally sized typefaces have the potential to solve these two issues. The primary downside to them is losing the ability to align your code, apart from leading whitespace, which is obviously not an issue.
 
-The biggest difference with monospaced fonts is the horizontal rhythm of the characters. Due to its nature, monospaced fonts produce a rigid two dimensional grid on a page. This has certain advantages, but it also creates a distorted shape of many characters. The lowercase `i` has difficulty filling its box, and the `m` becomes a blob at smaller sizes. Due to these constraints, certain characters automatically start to look alike, because there's not enough 'resolution' to distinguish between them. Another disadvantage is the fact the kerning can't be used to optimize combinations or sequences of characters.
+<div style='display: flex; justify-content: center'>
+![](images/sample-code.png)
+</div>
 
-By dropping this limitation, and instead adapting a variable width of characters, a much more natural feel can be created.
-The downside is that code alignment becomes practically impossible, and tabular data becomes tricky if lines contain other data as well.
-It remains a matter of preference obviously.
+Fifteen is designed on a 15px tall grid, of which 7px are used for the x-height, with a stroke width of 1px for Regular (1.5px for Bold, and 0.5px for Light). The glyphs themselves are constructed from simple geometric shapes, to stay close to the conceptual shape of their respective characters; i.e. an o is a circle.
 
-The example below shows the difference between Hack (of which I am part of the development, and which used to be my default), Input Mono (which I've grown fond of as an alternative to Hack), and Fifteen. The examples are shown with the settings that I had applied to them. What strikes me most is that the amount of visible code is roughly the same (though I feel Fifteen needs a little extra vertical breathing room), but that the larger punctuation make Fifteen a lot easier to read.
+However, the thing you either love or hate about Fifteen, is the vertical alignment of the characters; or rather, the fact that numbers and capitals aren't aligned to the baseline. Instead, (almost) everything is vertically centered, creating visually pleasing horizontal kebabs of code.
 
-[![](images/javascript-cat-comparison.png)](images/javascript-cat-comparison.png)
+![](images/sample-alignment.png)
 
-## Character set
+## Character sets and font variants
 
-Fifteen currently offers a basic set of glyphs (well over 200), in Regular and Bold, that should suffice for most programming needs in Western languages.
+Regarding characters: ASCII > Latin > Greek &amp; Cyrillic
 
-In addition, the Regular weight holds about 1000 glyphs.
+Regarding weights: Regular > Bold > Light
 
-[![](images/character-set.png)](images/character-set.png)
+I have plans for making tests (of the ASCII subset) for a monospaced, italics, and one classically aligned to the baseline. These tests have low priority though.
 
-| Character Set | Glyphs | Compliance |
-| --- | --- | --- |
-| ASCII | 95/95 | **100%** |
-| Windows 1252 | 217/217 | **100%** |
-| Mac Roman | 242/242 | **100%** |
-| WGL4 | ?/? | ? |
-| MES-1 | 335/335 | **100%** |
-| Google Fonts Core | 216/216 | **100%** |
-| Google Fonts Plus | 366/370 | 98.9% |
-| Google Fonts Pro | 139/145 | 95.9% |
+Fifteen currently comes in at a little over a thousand glyphs, most of them available in Regular, Bold and Light. The table below displays various character sets and how well they are covered.
 
-## Under development
+| Character Set | Glyphs | Regular | Bold | Light | Compliance |
+| --- | --- | --- | --- | --- | --- |
+| [ASCII]() | 95 | 95 | 95 | 95 | **100%** |
+| [Windows 1252]() | 217 | 217 | 217 | 217 | **100%** |
+| [Mac Roman]() | 242 | 242 | 242 | 242 | **100%** |
+| [WGL4]() | ... | ... | ... | ... | ... |
+| [MES-1]() | 335 | 335 | 335 | 335 | **100%** |
+| [Google Fonts Core]() | 216 | 216 | 216 | 216 | **100%** |
+| [Google Fonts Plus]() | 370 | 366 | 366 | 366 | 98.9% |
+| [Google Fonts Pro]() | 145 | 139 | 139 | 139 | 95.9% |
 
-Fifteen is constantly being developed as I use it during my normal work. Your feedback is appreciated. PRs are welcome, but please discuss your intentions before submitting a patch, as this project isn't set up as collaborative effort (yet).
+\*) These numbers are (somewhat) accurate as of 2017-10-10
 
-## Downloads
+## Downloads and webfont
 
-- Desktop usage: [download the .ttf files](build/ttf/Fifteen.zip), and install as your normally would.
-- Webfont usage: use the latest version via the CDN (recommended, see below), or [download the .woff and .woff2 files](build/web/Fifteen-Web.zip), and do your thing.
+Check the [releases](https://github.com/burodepeper/fifteen/releases) page for the most recent 'official' builds. You can find versions for both desktop and webfont usage there.
 
-### Webfont (via CDN)
+If you want the latest of the latest, you can find the most recent builds in the [build](https://github.com/burodepeper/fifteen/tree/master/build) directory. Note that these builds will most likely contain bugs and glitches.
+
+### Webfont via CDN
 
 TODO: jsDelivr (via NPM)
 
+## Development
+
+Fifteen is primarily developed as my personal typeface, and most considerations made are based on my environment and obviously heavily opinionated. I tend to tweak things almost on a daily basis, to get it _just right_.
+
+I've made it publicly available, both in source and usage, because I believe it has grown to a point where it could be interesting to others. I welcome and appreciate your feedback and suggestions.
+
+### Contributions
+
+If you are interested in contributing to this project, I very much welcome you, but please contact me first via this repo. Because of the personal nature of this project, it would be a shame if your contribution wouldn't be used.
+
+Fifteen is designed and developed using [Glyphs](https://www.glyphsapp.com) which is a prerequisite for working from source.
+
+### Focus of further development
+
+Below is a summary of my current aims and interests.
+
+- [ ] **Maintenance**
+  - [ ] Share glyph bearings (instead of kerning) and improve additional kerning
+  - [ ] Better re-use of components
+- [ ] **Glyph Design**
+  - [ ] **Character set compliancy**
+    - [ ] WGL4
+    - [ ] Google Fonts Plus
+    - [ ] Google Fonts Pro
+  - [ ] **ASCII improvements**
+    - [ ] `S` (U+0053): curved endings
+    - [ ] `s` (U+0073): more like new `S`
+    - [ ] `a` (U+0061): less detail, less 'tail'
+    - [ ] `7` (U+0037): stem less to the left
+    - [ ] `B`, `D`, `E`, `F`, `H`, `L`, `P`, `R`, `T` without serifs, as test so serifs can be used for non-ASCII similarities
+    - [ ] `W` (U+0057): less wide
+    - [ ] `w` (U+0077): less wide
+  - [ ] Greek
+  - [ ] Cyrillic
+  - [ ] **Alternatives** for:
+    - [ ] `a`: circle with small stem
+    - [ ] `g`: old-fashioned g
+    - [ ] `i`: with a 'tail'
+- [ ] **Variants**
+  - [ ] Mono (experiment with ASCII at first, perhaps a larger subset at a later stage)
+  - [ ] Baseline (ASCII characters aligned to baseline, as a test)
+  - [ ] Italic (just ASCII at first)
+  - [ ] Bold Italic
+
+### Known issues
+
+- Glyphs with (complex) diacritics will most likely be clipped in certain software, especially on Windows.
+
 ## License
 
-Fifteen is released under the [MIT License](LICENSE]).
+Fifteen is released under the [MIT License](LICENSE).
+
+While not strictly part of the license, if you intend to use Fifteen in a substantial way, I obviously like to hear about it.
