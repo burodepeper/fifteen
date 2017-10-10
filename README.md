@@ -34,14 +34,14 @@ Fifteen currently comes in at a little over a thousand glyphs, most of them avai
 
 | Character Set | Glyphs | Regular | Bold | Light | Compliance |
 | --- | --- | --- | --- | --- | --- |
-| [ASCII]() | 95 | 95 | 95 | 95 | **100%** |
-| [Windows 1252]() | 217 | 217 | 217 | 217 | **100%** |
-| [Mac Roman]() | 242 | 242 | 242 | 242 | **100%** |
-| [WGL4]() | ... | ... | ... | ... | ... |
-| [MES-1]() | 335 | 335 | 335 | 335 | **100%** |
-| [Google Fonts Core]() | 216 | 216 | 216 | 216 | **100%** |
-| [Google Fonts Plus]() | 370 | 366 | 366 | 366 | 98.9% |
-| [Google Fonts Pro]() | 145 | 139 | 139 | 139 | 95.9% |
+| ASCII | 95 | 95 | 95 | 95 | **100%** |
+| Windows 1252 | 217 | 217 | 217 | 217 | **100%** |
+| Mac Roman | 242 | 242 | 242 | 242 | **100%** |
+| WGL4 | ... | ... | ... | ... | ... |
+| MES-1 | 335 | 335 | 335 | 335 | **100%** |
+| Google Fonts Core | 216 | 216 | 216 | 216 | **100%** |
+| Google Fonts Plus | 370 | 366 | 366 | 366 | 98.9% |
+| Google Fonts Pro | 145 | 139 | 139 | 139 | 95.9% |
 
 \*) These numbers are (somewhat) accurate as of 2017-10-10
 
