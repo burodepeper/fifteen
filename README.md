@@ -32,18 +32,18 @@ I have plans for making tests (of the ASCII subset) for a monospaced, italics, a
 
 Fifteen currently comes in at a little over a thousand glyphs, most of them available in Regular, Bold and Light. The table below displays various character sets and how well they are covered.
 
-| Character Set | Glyphs | Regular | Bold | Light | Compliance |
+| Character Set | Glyphs | Regular | Bold | Light | Coverage |
 | --- | --- | --- | --- | --- | --- |
 | ASCII | 95 | 95 | 95 | 95 | **100%** |
 | Windows 1252 | 217 | 217 | 217 | 217 | **100%** |
 | Mac Roman | 242 | 242 | 242 | 242 | **100%** |
-| WGL4 | ... | ... | ... | ... | ... |
+| WGL4 | 655 | 642 | 549 | 519 | 87.0% |
 | MES-1 | 335 | 335 | 335 | 335 | **100%** |
 | Google Fonts Core | 216 | 216 | 216 | 216 | **100%** |
-| Google Fonts Plus | 370 | 366 | 366 | 366 | 98.9% |
-| Google Fonts Pro | 145 | 139 | 139 | 139 | 95.9% |
+| Google Fonts Plus | 370 | 370 | 370 | 370 | **100%** |
+| Google Fonts Pro | 145 | 141 | 139 | 139 | 96.3% |
 
-\*) These numbers are (somewhat) accurate as of 2017-10-10
+\*) These numbers are (somewhat) accurate as of 2017-10-11
 
 ## Downloads and webfont
 
