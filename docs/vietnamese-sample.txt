@@ -1,0 +1,34 @@
+Source: https://github.com/jech/cedilla/blob/master/vietnamese-sample.text
+
+Vietnamese, from a translation of Goerge Orwell's 1984.  (Prepared by
+François-René Rideau.)
+
+ Đó là một ngày tháng tư sáng lạnh, vừa lúc đồng hồ điểm báo mười ba trăm.
+ Cằm rụt xuống ngực để mong tránh gió ác, Winston Smith lướt nhanh qua cửa kính
+ của khu Nhà Chiến Thắng nhưng không đủ nhanh để ngăn một luồng bụi cát lùa vào
+ theo anh.
+
+ Hành lang hôi mùi cải luộc chiếu nát. Nơi một phía đầu tường thấy phô một
+ tấm bích chương mầu, quá lớn để mang trang trí trong nhà. Nó hình dung một
+ gương mặt kếch xù, rộng hơn một thước : mặt một người đàn ông chừng bốn mươi
+ nhăm tuổi, có râu đen dày và nét đẹp cứng cáp. Winston leo lên cầu thang.
+ Thử thang máy vô ích. Thuở thịnh nhất thỉnh thoảng máy mới chạy, nữa là bây
+ giờ điện lại bị cúp vào ban ngày. Biện pháp này thuộc phong trào tiết kiệm
+ sửa soạn “Tuần lễ Hận thù”. Căn phòng của Winston ở tận lầu bẩy, anh đã ba
+ mươi chín tuổi lại mắc chứng loét giãn tĩnh mạch nơi đầu gối phải, nên anh đi
+ chậm chạp, dừng nghỉ nhiều lần giữa cầu thang. Tại mỗi thềm, trước lồng thang
+ máy, tấm bích chương với gương mặt kếch xù từ tường nhìn ra. Đấy là một loại
+ tranh được bố trí sao cho cặp mắt tuồng như theo dõi từng cử động bên ngoài.
+ BÁC ĐANG NHÌN BẠN, dưới bức tranh có lời ghi như vậy.
+
+
+The abstract of a scientific paper.  (Prepared by Raphaël Montelatici.)
+
+ Tóm tắt : Chúng tôi trình bày một bản đầu tiên của chương trình dịch
+ Objective Caml của chúng tôi ; được gọi là CamIL, dành cho .NET.  Mục
+ đích của chúng tôi là tìm hiểu xem thế hệ mới này của các máy ảo và
+ môi trường chạy có thể giúp ta dịch những chương trình ML và chạy
+ chúng với tốc độ hợp lý không.  Yêu cầu chính của chúng tôi là phải
+ tương thích với ngôn ngữ ban đầu, và các đặc tính lập trình chuyên sâu
+ của nó (các giá trị hàm, các ngoại lệ, các modules tham biến hóa, các
+ đối tượng).
