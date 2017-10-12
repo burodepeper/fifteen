@@ -1,7 +1,8 @@
 {
 .appVersion = "1072";
 DisplayStrings = (
-"/En-cy/a-cy  /be-cy/ie-cy/er-cy/ie-cy/ge-cy/u-cy  /pe-cy/u-cy/es-cy/te-cy/yeru-cy/en-cy/en-cy/yeru-cy/ha-cy  /ve-cy/o-cy/el-cy/en-cy \012/Es-cy/te-cy/o-cy/ia-cy/el-cy  /o-cy/en-cy , /de-cy/u-cy/em-cy  /ve-cy/ie-cy/el-cy/ii-cy/ka-cy/ii-cy/ha-cy  /pe-cy/o-cy/el-cy/en-cy ,\012/Ii-cy  /ve-cy/de-cy/a-cy/el-cy/softsign-cy  /ge-cy/el-cy/ia-cy/de-cy/ie-cy/el-cy .  /Pe-cy/er-cy/ie-cy/de-cy  /en-cy/ii-cy/em-cy  /sha-cy/ii-cy/er-cy/o-cy/ka-cy/o-cy \012/Er-cy/ie-cy/ka-cy/a-cy  /en-cy/ie-cy/es-cy/el-cy/a-cy/es-cy/ia-cy ; /be-cy/ie-cy/de-cy/en-cy/yeru-cy/iishort-cy  /che-cy/io-cy/el-cy/en-cy \012/Pe-cy/o-cy  /en-cy/ie-cy/iishort-cy  /es-cy/te-cy/er-cy/ie-cy/em-cy/ii-cy/el-cy/es-cy/ia-cy  /o-cy/de-cy/ii-cy/en-cy/o-cy/ka-cy/o-cy .\012\012/Tau/eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /epsilontonos/delta/omega/sigma/alpha/nu  /epsilon/lambda/lambda/eta/nu/iota/kappa/etatonos \012/tau/omicron  /sigma/pi/iotatonos/tau/iota  /phi/tau/omega/chi/iota/kappa/omicrontonos  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012/Mu/omicron/nu/alphatonos/chi/eta  /epsilontonos/gamma/nu/omicron/iota/alpha  /eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012\012"
+"/En-cy/a-cy  /be-cy/ie-cy/er-cy/ie-cy/ge-cy/u-cy  /pe-cy/u-cy/es-cy/te-cy/yeru-cy/en-cy/en-cy/yeru-cy/ha-cy  /ve-cy/o-cy/el-cy/en-cy \012/Es-cy/te-cy/o-cy/ia-cy/el-cy  /o-cy/en-cy , /de-cy/u-cy/em-cy  /ve-cy/ie-cy/el-cy/ii-cy/ka-cy/ii-cy/ha-cy  /pe-cy/o-cy/el-cy/en-cy ,\012/Ii-cy  /ve-cy/de-cy/a-cy/el-cy/softsign-cy  /ge-cy/el-cy/ia-cy/de-cy/ie-cy/el-cy .  /Pe-cy/er-cy/ie-cy/de-cy  /en-cy/ii-cy/em-cy  /sha-cy/ii-cy/er-cy/o-cy/ka-cy/o-cy \012/Er-cy/ie-cy/ka-cy/a-cy  /en-cy/ie-cy/es-cy/el-cy/a-cy/es-cy/ia-cy ; /be-cy/ie-cy/de-cy/en-cy/yeru-cy/iishort-cy  /che-cy/io-cy/el-cy/en-cy \012/Pe-cy/o-cy  /en-cy/ie-cy/iishort-cy  /es-cy/te-cy/er-cy/ie-cy/em-cy/ii-cy/el-cy/es-cy/ia-cy  /o-cy/de-cy/ii-cy/en-cy/o-cy/ka-cy/o-cy .\012\012/Tau/eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /epsilontonos/delta/omega/sigma/alpha/nu  /epsilon/lambda/lambda/eta/nu/iota/kappa/etatonos \012/tau/omicron  /sigma/pi/iotatonos/tau/iota  /phi/tau/omega/chi/iota/kappa/omicrontonos  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012/Mu/omicron/nu/alphatonos/chi/eta  /epsilontonos/gamma/nu/omicron/iota/alpha  /eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012\012",
+"alfabet\012\012"
 );
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
@@ -15145,7 +15146,7 @@ unicode = 1E92;
 {
 color = 4;
 glyphname = a;
-lastChange = "2017-10-11 07:36:15 +0000";
+lastChange = "2017-10-12 00:27:32 +0000";
 layers = (
 {
 anchors = (
@@ -15175,8 +15176,8 @@ target = "{0, 13}";
 },
 {
 horizontal = 1;
-origin = "{5, 3}";
-target = "{5, 4}";
+origin = "{8, 3}";
+target = "{5, 3}";
 },
 {
 origin = "{0, 2}";
@@ -15261,23 +15262,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"300 500 LINE",
-"300 553 OFFCURVE",
-"345 598 OFFCURVE",
-"400 600 CURVE",
-"400 700 LINE",
-"290 698 OFFCURVE",
-"200 608 OFFCURVE",
-"200 500 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"400 600 LINE",
+"350 600 LINE",
 "500 600 LINE",
 "500 700 LINE",
-"400 700 LINE"
+"350 700 LINE"
 );
 },
 {
@@ -15304,6 +15292,19 @@ nodes = (
 "600 80 OFFCURVE",
 "680 0 OFFCURVE",
 "800 0 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"280 570 LINE",
+"300 590 OFFCURVE",
+"325 600 OFFCURVE",
+"350 600 CURVE",
+"350 700 LINE",
+"295 700 OFFCURVE",
+"245 675 OFFCURVE",
+"210 640 CURVE"
 );
 }
 );
@@ -15342,10 +15343,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"400 550 LINE",
+"350 550 LINE",
 "485 550 LINE",
 "485 700 LINE",
-"400 700 LINE"
+"350 700 LINE"
 );
 },
 {
@@ -15372,19 +15373,6 @@ nodes = (
 "530 150 OFFCURVE",
 "500 150 CURVE",
 "500 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"290 700 OFFCURVE",
-"200 610 OFFCURVE",
-"200 500 CURVE",
-"350 500 LINE",
-"350 530 OFFCURVE",
-"370 550 OFFCURVE",
-"400 550 CURVE",
-"400 700 LINE"
 );
 },
 {
@@ -15423,6 +15411,19 @@ nodes = (
 "605 700 OFFCURVE",
 "700 610 OFFCURVE",
 "700 490 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 535 LINE",
+"325 545 OFFCURVE",
+"335 550 OFFCURVE",
+"350 550 CURVE",
+"350 700 LINE",
+"295 700 OFFCURVE",
+"245 680 OFFCURVE",
+"210 640 CURVE"
 );
 }
 );
@@ -15471,23 +15472,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"390 650 LINE",
+"340 650 LINE",
 "510 650 LINE",
 "510 700 LINE",
-"390 700 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"250 515 LINE",
-"250 590 OFFCURVE",
-"310 650 OFFCURVE",
-"390 650 CURVE",
-"390 700 LINE",
-"285 700 OFFCURVE",
-"200 615 OFFCURVE",
-"200 515 CURVE"
+"340 700 LINE"
 );
 },
 {
@@ -15518,6 +15506,19 @@ nodes = (
 "650 85 OFFCURVE",
 "735 0 OFFCURVE",
 "840 0 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"240 615 LINE",
+"265 635 OFFCURVE",
+"300 650 OFFCURVE",
+"340 650 CURVE",
+"340 700 LINE",
+"290 700 OFFCURVE",
+"240 680 OFFCURVE",
+"210 645 CURVE"
 );
 }
 );
@@ -17367,7 +17368,7 @@ unicode = 01FD;
 {
 color = 4;
 glyphname = b;
-lastChange = "2017-10-10 15:34:05 +0000";
+lastChange = "2017-10-12 00:27:27 +0000";
 layers = (
 {
 hints = (
@@ -19661,7 +19662,7 @@ unicode = 0259;
 {
 color = 4;
 glyphname = f;
-lastChange = "2017-10-10 19:22:53 +0000";
+lastChange = "2017-10-12 00:27:27 +0000";
 layers = (
 {
 components = (
@@ -27812,7 +27813,7 @@ unicode = 017F;
 {
 color = 4;
 glyphname = t;
-lastChange = "2017-10-11 07:35:57 +0000";
+lastChange = "2017-10-12 00:27:27 +0000";
 layers = (
 {
 hints = (
@@ -87899,6 +87900,7 @@ bracketright = -100;
 };
 f = {
 "@MMK_R_o" = -50;
+"@MMK_R_a" = -50;
 };
 j = {
 "@MMK_R_o" = 50;
