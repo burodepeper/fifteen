@@ -1,8 +1,7 @@
 {
 .appVersion = "1072";
 DisplayStrings = (
-"/En-cy/a-cy  /be-cy/ie-cy/er-cy/ie-cy/ge-cy/u-cy  /pe-cy/u-cy/es-cy/te-cy/yeru-cy/en-cy/en-cy/yeru-cy/ha-cy  /ve-cy/o-cy/el-cy/en-cy \012/Es-cy/te-cy/o-cy/ia-cy/el-cy  /o-cy/en-cy , /de-cy/u-cy/em-cy  /ve-cy/ie-cy/el-cy/ii-cy/ka-cy/ii-cy/ha-cy  /pe-cy/o-cy/el-cy/en-cy ,\012/Ii-cy  /ve-cy/de-cy/a-cy/el-cy/softsign-cy  /ge-cy/el-cy/ia-cy/de-cy/ie-cy/el-cy .  /Pe-cy/er-cy/ie-cy/de-cy  /en-cy/ii-cy/em-cy  /sha-cy/ii-cy/er-cy/o-cy/ka-cy/o-cy \012/Er-cy/ie-cy/ka-cy/a-cy  /en-cy/ie-cy/es-cy/el-cy/a-cy/es-cy/ia-cy ; /be-cy/ie-cy/de-cy/en-cy/yeru-cy/iishort-cy  /che-cy/io-cy/el-cy/en-cy \012/Pe-cy/o-cy  /en-cy/ie-cy/iishort-cy  /es-cy/te-cy/er-cy/ie-cy/em-cy/ii-cy/el-cy/es-cy/ia-cy  /o-cy/de-cy/ii-cy/en-cy/o-cy/ka-cy/o-cy .\012\012/Tau/eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /epsilontonos/delta/omega/sigma/alpha/nu  /epsilon/lambda/lambda/eta/nu/iota/kappa/etatonos \012/tau/omicron  /sigma/pi/iotatonos/tau/iota  /phi/tau/omega/chi/iota/kappa/omicrontonos  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012/Mu/omicron/nu/alphatonos/chi/eta  /epsilontonos/gamma/nu/omicron/iota/alpha  /eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012\012",
-"alfabet\012\012"
+"/En-cy/a-cy  /be-cy/ie-cy/er-cy/ie-cy/ge-cy/u-cy  /pe-cy/u-cy/es-cy/te-cy/yeru-cy/en-cy/en-cy/yeru-cy/ha-cy  /ve-cy/o-cy/el-cy/en-cy \012/Es-cy/te-cy/o-cy/ia-cy/el-cy  /o-cy/en-cy , /de-cy/u-cy/em-cy  /ve-cy/ie-cy/el-cy/ii-cy/ka-cy/ii-cy/ha-cy  /pe-cy/o-cy/el-cy/en-cy ,\012/Ii-cy  /ve-cy/de-cy/a-cy/el-cy/softsign-cy  /ge-cy/el-cy/ia-cy/de-cy/ie-cy/el-cy .  /Pe-cy/er-cy/ie-cy/de-cy  /en-cy/ii-cy/em-cy  /sha-cy/ii-cy/er-cy/o-cy/ka-cy/o-cy \012/Er-cy/ie-cy/ka-cy/a-cy  /en-cy/ie-cy/es-cy/el-cy/a-cy/es-cy/ia-cy ; /be-cy/ie-cy/de-cy/en-cy/yeru-cy/iishort-cy  /che-cy/io-cy/el-cy/en-cy \012/Pe-cy/o-cy  /en-cy/ie-cy/iishort-cy  /es-cy/te-cy/er-cy/ie-cy/em-cy/ii-cy/el-cy/es-cy/ia-cy  /o-cy/de-cy/ii-cy/en-cy/o-cy/ka-cy/o-cy .\012\012/Tau/eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /epsilontonos/delta/omega/sigma/alpha/nu  /epsilon/lambda/lambda/eta/nu/iota/kappa/etatonos \012/tau/omicron  /sigma/pi/iotatonos/tau/iota  /phi/tau/omega/chi/iota/kappa/omicrontonos  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012/Mu/omicron/nu/alphatonos/chi/eta  /epsilontonos/gamma/nu/omicron/iota/alpha  /eta  /gamma/lambda/omegatonos/sigma/sigma/alpha  /mu/omicron/upsilon  /sigma/tau/iota/sigmafinal  /alpha/mu/mu/omicron/upsilon/delta/iota/epsilontonos/sigmafinal  /tau/omicron/upsilon  /Omicron/mu/etatonos/rho/omicron/upsilon .\012\012"
 );
 copyright = "Copyright © 2017 by David van Gemeren. MIT license, check repository for details";
 date = "2017-09-30 21:41:33 +0000";
@@ -31289,7 +31288,7 @@ unicode = FB02;
 {
 color = 4;
 glyphname = ordfeminine;
-lastChange = "2017-10-09 14:34:30 +0000";
+lastChange = "2017-10-12 00:29:39 +0000";
 layers = (
 {
 components = (
@@ -31522,7 +31521,7 @@ unicode = 00AA;
 {
 color = 4;
 glyphname = ordmasculine;
-lastChange = "2017-10-09 15:25:29 +0000";
+lastChange = "2017-10-12 00:29:39 +0000";
 layers = (
 {
 components = (
@@ -31630,20 +31629,123 @@ width = 400;
 unicode = 00BA;
 },
 {
+color = 4;
 glyphname = nmod;
-lastChange = "2017-10-11 05:40:40 +0000";
+lastChange = "2017-10-12 00:34:13 +0000";
 layers = (
 {
+components = (
+{
+name = _halfcircle_300;
+}
+);
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 800;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 400 LINE",
+"150 400 LINE",
+"150 850 LINE",
+"100 850 LINE"
+);
 },
 {
+closed = 1;
+nodes = (
+"350 400 LINE",
+"400 400 LINE",
+"400 850 LINE",
+"350 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 850 LINE",
+"150 850 LINE",
+"150 1000 LINE",
+"100 1000 LINE"
+);
+}
+);
+width = 500;
+},
+{
+components = (
+{
+name = _halfcircle_300;
+}
+);
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
-width = 800;
+paths = (
+{
+closed = 1;
+nodes = (
+"100 400 LINE",
+"200 400 LINE",
+"200 850 LINE",
+"100 850 LINE"
+);
 },
 {
+closed = 1;
+nodes = (
+"300 400 LINE",
+"400 400 LINE",
+"400 850 LINE",
+"300 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"150 1000 LINE",
+"200 850 LINE",
+"100 850 LINE",
+"100 1000 LINE"
+);
+}
+);
+width = 500;
+},
+{
+components = (
+{
+name = _halfcircle_300;
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
-width = 800;
+paths = (
+{
+closed = 1;
+nodes = (
+"50 400 LINE",
+"200 400 LINE",
+"200 850 LINE",
+"50 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"300 400 LINE",
+"450 400 LINE",
+"450 850 LINE",
+"300 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 1050 LINE",
+"200 850 LINE",
+"50 850 LINE",
+"50 1050 LINE"
+);
+}
+);
+width = 500;
 }
 );
 unicode = 207F;
@@ -44588,7 +44690,7 @@ unicode = 00B2;
 {
 color = 4;
 glyphname = threesuperior;
-lastChange = "2017-10-11 06:06:37 +0000";
+lastChange = "2017-10-12 00:29:34 +0000";
 layers = (
 {
 components = (
@@ -46411,7 +46513,7 @@ unicode = 215B;
 {
 color = 4;
 glyphname = threeeighths;
-lastChange = "2017-10-09 15:10:05 +0000";
+lastChange = "2017-10-12 00:29:39 +0000";
 layers = (
 {
 components = (
