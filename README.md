@@ -73,6 +73,16 @@ Below is a summary of my current aims and interests.
 
 - [ ] **Maintenance**
   - [ ] Share glyph bearings (instead of kerning) and improve additional kerning
+  - [ ] Kerning
+    - [ ] AY
+    - [ ] Kv
+    - [ ] Kw
+    - [ ] GYG
+    - [ ] FJ
+    - [ ] KC KG KO
+    - [ ] PJ
+    - [ ] WAW
+    - [ ] Ka
   - [ ] Better re-use of components
 - [ ] **Glyph Design**
   - [ ] **Character set compliancy**
@@ -87,6 +97,7 @@ Below is a summary of my current aims and interests.
     - [ ] `B`, `D`, `E`, `F`, `H`, `L`, `P`, `R`, `T` without serifs, as test so serifs can be used for non-ASCII similarities
     - [ ] `W` (U+0057): less wide
     - [ ] `w` (U+0077): less wide
+    - [ ] align `?` and `!` to x-height
   - [ ] Greek
   - [ ] Cyrillic
   - [ ] **Alternatives** for:
