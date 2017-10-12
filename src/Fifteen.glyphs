@@ -57274,7 +57274,7 @@ unicode = 222B;
 {
 color = 4;
 glyphname = Ohm;
-lastChange = "2017-10-09 20:36:15 +0000";
+lastChange = "2017-10-12 01:43:21 +0000";
 layers = (
 {
 components = (
@@ -57283,7 +57283,7 @@ name = Omega;
 }
 );
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
-width = 600;
+width = 1200;
 },
 {
 components = (
