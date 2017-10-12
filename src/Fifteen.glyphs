@@ -82356,18 +82356,34 @@ width = 400;
 unicode = 02BC;
 },
 {
+color = 4;
 glyphname = commaturnedmod;
-lastChange = "2017-10-11 05:34:30 +0000";
+lastChange = "2017-10-12 01:24:51 +0000";
 layers = (
 {
+components = (
+{
+name = commaturnedabovecomb;
+}
+);
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
 width = 600;
 },
 {
+components = (
+{
+name = commaturnedabovecomb;
+}
+);
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
 width = 600;
 },
 {
+components = (
+{
+name = commaturnedabovecomb;
+}
+);
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
 width = 600;
 }
