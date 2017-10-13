@@ -2311,9 +2311,9 @@ rightKerningGroup = C;
 unicode = 010A;
 },
 {
-color = 4;
+color = 5;
 glyphname = D;
-lastChange = "2017-10-13 00:13:18 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -2489,9 +2489,9 @@ rightKerningGroup = O;
 unicode = 0044;
 },
 {
-color = 4;
+color = 5;
 glyphname = DZcaron;
-lastChange = "2017-10-13 00:15:17 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2540,9 +2540,9 @@ rightMetricsKey = Z;
 unicode = 01C4;
 },
 {
-color = 4;
+color = 5;
 glyphname = Eth;
-lastChange = "2017-10-13 00:15:22 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2589,9 +2589,9 @@ rightMetricsKey = D;
 unicode = 00D0;
 },
 {
-color = 4;
+color = 5;
 glyphname = Dcaron;
-lastChange = "2017-10-13 00:16:00 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2639,9 +2639,9 @@ rightMetricsKey = D;
 unicode = 010E;
 },
 {
-color = 4;
+color = 5;
 glyphname = Dcroat;
-lastChange = "2017-10-13 00:16:44 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2677,9 +2677,9 @@ rightMetricsKey = Eth;
 unicode = 0110;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ddotbelow;
-lastChange = "2017-10-13 00:16:40 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2728,9 +2728,9 @@ rightMetricsKey = D;
 unicode = 1E0C;
 },
 {
-color = 4;
+color = 5;
 glyphname = Dlinebelow;
-lastChange = "2017-10-13 00:17:03 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2779,9 +2779,9 @@ rightMetricsKey = D;
 unicode = 1E0E;
 },
 {
-color = 4;
+color = 5;
 glyphname = Dzcaron;
-lastChange = "2017-10-13 00:17:37 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -2830,9 +2830,9 @@ rightMetricsKey = z;
 unicode = 01C5;
 },
 {
-color = 4;
+color = 5;
 glyphname = E;
-lastChange = "2017-10-13 00:22:31 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 anchors = (
@@ -3020,9 +3020,9 @@ rightKerningGroup = E;
 unicode = 0045;
 },
 {
-color = 4;
+color = 5;
 glyphname = Eacute;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3071,9 +3071,9 @@ rightMetricsKey = E;
 unicode = 00C9;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ebreve;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3122,9 +3122,9 @@ rightMetricsKey = E;
 unicode = 0114;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecaron;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3173,9 +3173,9 @@ rightMetricsKey = E;
 unicode = 011A;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecedillabreve;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3236,9 +3236,9 @@ rightMetricsKey = E;
 unicode = 1E1C;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecircumflex;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3287,9 +3287,9 @@ rightMetricsKey = E;
 unicode = 00CA;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecircumflexacute;
-lastChange = "2017-10-13 00:24:00 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3337,9 +3337,9 @@ rightKerningGroup = E;
 unicode = 1EBE;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecircumflexdotbelow;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3400,9 +3400,9 @@ rightMetricsKey = E;
 unicode = 1EC6;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecircumflexgrave;
-lastChange = "2017-10-13 00:25:14 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3449,9 +3449,9 @@ rightKerningGroup = E;
 unicode = 1EC0;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecircumflexhookabove;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3500,9 +3500,9 @@ rightMetricsKey = E;
 unicode = 1EC2;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ecircumflextilde;
-lastChange = "2017-10-13 00:26:34 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3549,9 +3549,9 @@ rightKerningGroup = E;
 unicode = 1EC4;
 },
 {
-color = 4;
+color = 5;
 glyphname = Edblgrave;
-lastChange = "2017-10-13 00:25:48 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3598,9 +3598,9 @@ rightKerningGroup = E;
 unicode = 0204;
 },
 {
-color = 4;
+color = 5;
 glyphname = Edieresis;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3649,9 +3649,9 @@ rightMetricsKey = E;
 unicode = 00CB;
 },
 {
-color = 4;
+color = 5;
 glyphname = Edotaccent;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3700,9 +3700,9 @@ rightMetricsKey = E;
 unicode = 0116;
 },
 {
-color = 4;
+color = 5;
 glyphname = Edotbelow;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3751,9 +3751,9 @@ rightMetricsKey = E;
 unicode = 1EB8;
 },
 {
-color = 4;
+color = 5;
 glyphname = Egrave;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3802,9 +3802,9 @@ rightMetricsKey = E;
 unicode = 00C8;
 },
 {
-color = 4;
+color = 5;
 glyphname = Ehookabove;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3853,9 +3853,9 @@ rightMetricsKey = E;
 unicode = 1EBA;
 },
 {
-color = 4;
+color = 5;
 glyphname = Einvertedbreve;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3904,9 +3904,9 @@ rightMetricsKey = E;
 unicode = 0206;
 },
 {
-color = 4;
+color = 5;
 glyphname = Emacron;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -3955,9 +3955,9 @@ rightMetricsKey = E;
 unicode = 0112;
 },
 {
-color = 4;
+color = 5;
 glyphname = Emacronacute;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -4018,9 +4018,9 @@ rightMetricsKey = E;
 unicode = 1E16;
 },
 {
-color = 4;
+color = 5;
 glyphname = Emacrongrave;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -4081,9 +4081,9 @@ rightMetricsKey = E;
 unicode = 1E14;
 },
 {
-color = 4;
+color = 5;
 glyphname = Eogonek;
-lastChange = "2017-10-13 00:26:07 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
@@ -4131,9 +4131,9 @@ rightKerningGroup = E;
 unicode = 0118;
 },
 {
-color = 4;
+color = 5;
 glyphname = Etilde;
-lastChange = "2017-10-13 00:23:06 +0000";
+lastChange = "2017-10-13 00:27:31 +0000";
 layers = (
 {
 components = (
