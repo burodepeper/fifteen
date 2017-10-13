@@ -74,36 +74,43 @@ Below is a summary of my current aims and interests.
 - [ ] **Maintenance**
   - [ ] Share glyph bearings (instead of kerning) and improve additional kerning
   - [ ] Kerning
-    - [ ] AY
-    - [ ] Kv
-    - [ ] Kw
-    - [ ] GYG
-    - [ ] FJ
-    - [ ] KC KG KO
-    - [ ] PJ
-    - [ ] WAW
-    - [ ] Ka
+    - [x] AY
+    - [x] Kv
+    - [x] Kw
+    - [x] GYG
+    - [x] FJ
+    - [x] KC KG KO
+    - [x] PJ
+    - [x] WAW
+    - [x] Ka
+    - [x] i++
   - [ ] Better re-use of components
 - [ ] **Glyph Design**
   - [ ] **Character set compliancy**
     - [ ] WGL4
-    - [ ] Google Fonts Plus
+      - [x] Regular
+      - [ ] Bold
+      - [ ] Light
+    - [x] Google Fonts Plus
     - [ ] Google Fonts Pro
+      - [x] Regular
+      - [ ] Bold
+      - [ ] Light
   - [ ] **ASCII improvements**
-    - [ ] `S` (U+0053): curved endings
-    - [ ] `s` (U+0073): more like new `S`
-    - [ ] `a` (U+0061): less detail, less 'tail'
+    - [x] `S` (U+0053): curved endings
+    - [x] `s` (U+0073): more like new `S`
+    - [x] `a` (U+0061): less detail, less 'tail'
     - [ ] `7` (U+0037): stem less to the left
-    - [ ] `B`, `D`, `E`, `F`, `H`, `L`, `P`, `R`, `T` without serifs, as test so serifs can be used for non-ASCII similarities
+    - [x] `B`, `D`, `E`, `F`, `H`, `L`, `P`, `R`, `T` without serifs, as test so serifs can be used for non-ASCII similarities
     - [ ] `W` (U+0057): less wide
     - [ ] `w` (U+0077): less wide
-    - [ ] align `?` and `!` to x-height
+    - [x] align `?` and `!` to x-height
   - [ ] Greek
   - [ ] Cyrillic
   - [ ] **Alternatives** for:
     - [ ] `a`: circle with small stem
     - [ ] `g`: old-fashioned g
-    - [ ] `i`: with a 'tail'
+    - [x] `i`: with a 'tail'
 - [ ] **Variants**
   - [ ] Mono (experiment with ASCII at first, perhaps a larger subset at a later stage)
   - [ ] Baseline (ASCII characters aligned to baseline, as a test)
