@@ -2,8 +2,6 @@
 
 Fifteen is a proportionally sized typeface optimized for source code. It was initially developed as an experiment in font metrics and has since evolved as my personal typeface for both source code and identity. As such, it is still very much under active construction and receives frequent updates.
 
-[![](https://data.jsdelivr.com/v1/package/npm/fifteen/badge)](https://www.jsdelivr.com/package/npm/fifteen)
-
 ![](images/sample-regular.png)
 
 ![](images/sample-bold.png)
@@ -62,6 +60,8 @@ Include the following line in your `<head>` and then use `font-family: "Fifteen-
 ```html
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/fifteen/build/web/Fifteen-Web.css'>
 ```
+
+[![](https://data.jsdelivr.com/v1/package/npm/fifteen/badge)](https://www.jsdelivr.com/package/npm/fifteen)
 
 ## Development
 
