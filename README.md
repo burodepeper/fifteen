@@ -78,8 +78,13 @@ Fifteen is designed and developed using [Glyphs](https://www.glyphsapp.com) whic
 Below is a summary of my current aims and interests.
 
 - [ ] **Maintenance**
-  - [ ] Share glyph bearings (instead of kerning) and improve additional kerning
-  - [ ] Kerning
+  - [ ] Share glyph bearings (instead of kerning)
+  - [ ] Kerning and spacing
+    - [ ] Consecutive `###`
+    - [ ] `sp`, `sh`
+    - [ ] `Wi`
+    - [ ] `pp`
+    - [ ] `□■`
   - [ ] Better re-use of components
   - [ ] Switch to Open Font License?
 - [ ] **Glyph Design**
