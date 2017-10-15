@@ -100,7 +100,7 @@ Below is a summary of my current aims and interests.
     - [x] `S` (U+0053): curved endings
     - [x] `s` (U+0073): more like new `S`
     - [x] `a` (U+0061): less detail, less 'tail'
-    - [ ] `7` (U+0037): stem less to the left
+    - [x] `7` (U+0037): stem less to the left
     - [x] `B`, `D`, `E`, `F`, `H`, `L`, `P`, `R`, `T` without serifs, as test so serifs can be used for non-ASCII similarities
     - [ ] `W` (U+0057): less wide
     - [ ] `w` (U+0077): less wide

@@ -1,0 +1,76 @@
+map eval splice filter reduce
+function method
+Array array
+if (true || false) {
+True False TRUE FALSE true false
+for (int i = 0; i < 10; i++) {
+while do foreach forEach else elseif finally try catch elif if not
+switch case default with open close
+delete remove create pass status meta update read
+Create Read Update Delete
+innerText innerHTML
++= -= /= <= >= => =< ++ -- == === ~= *= <=>
+|| && AND OR Yes No YES NO
+() {} [] <>
+({ ... }) (( key: value )) ({ 'key': "value" })
+/* */ # Comment <!-- --> // \\
+<| |> #! i++ 9:0 0xFF := </>
+[123, 456, 789.0]
+!==
+this $this
+substr, substring, (substr(?:ing)?)
+new Date()
+setTimeout
+onkeydown onmouseover onresize
+const let var variable $variable
+input // output stdin stdout STDIN STDOUT
+length
+Math
+pattern match
+break continue end
+console.log .warn .error .table
+JSON.stringify()
+class extends inherits implements
+public protected private final abstract trait
+width, height, length
+320px 15pt 50vw 37vh
+class constructor super static __construct
+return yield
+Symbol.iterator
+url URL data Data Query
+Promise fetch resolve reject
+namespace use
+SELECT * FROM `projects` INSERT UPDATE DELETE ALTER ORDER BY WHERE LIMIT
+Database PDO MySQL
+string String int Int integer float Float double
+@var @param @return @throws @property
+void null None
+Exception exception Event event raise Message message
+result $result $query callback throw prepare
+is_null is_callable isset !isset
+call_user_func
+Class::staticMethod();
+return static::$resolvers[$drives] ?? null; !!
+import export from as
+"""Comment""" "Comment" 'Comment' `Comment`
+def lambda
+%r %s %i
+type list typle dict
+def __init__(): return self
+assert append session name title bytes struct memory_limit config
+(optional)
+@{something.else} ${a + b} #{$unit * 6}
+protocol Protocol buffer Buffer feed Feed runtime Runtime
+setup Setup install Install
+setup([r1, r2], [a, b, c])
+TODO FIXME
+U+21AF 0x904B
+http:// https:// file:/// ftp:// http://www.domain.com
+john.doe@fbi.gov <jane.doe@cia.gov>
+:-) ;-) :) :( =) 8) :D :P :p
+# Heading
+> Quote
+![image](images/portrait.jpg)
+* list item
+- [ ] task
+- [x] completed task
