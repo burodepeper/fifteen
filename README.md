@@ -51,9 +51,15 @@ Check the [releases](https://github.com/burodepeper/fifteen/releases) page for t
 
 If you want the latest of the latest, you can find the most recent builds in the [build](https://github.com/burodepeper/fifteen/tree/master/build) directory. Note that these builds will most likely contain bugs and glitches.
 
+The latest stable release (v1.002) contains the subsets ASCII, Latin-1 Supplement and Google Fonts Core for a total of 216 glyphs. If you want the full width, you'll have to build the fonts yourself.
+
 ### Webfont via CDN
 
-TODO: jsDelivr (via NPM)
+Include the following line in your `<head>` and then use `font-family: "Fifteen-Web"` in your CSS. Bold (`font-weight: 700`) and Light (`font-weight: 300`) are included.
+
+```html
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/fifteen/build/web/Fifteen-Web.css'>
+```
 
 ## Development
 
@@ -74,43 +80,24 @@ Below is a summary of my current aims and interests.
 - [ ] **Maintenance**
   - [ ] Share glyph bearings (instead of kerning) and improve additional kerning
   - [ ] Kerning
-    - [x] AY
-    - [x] Kv
-    - [x] Kw
-    - [x] GYG
-    - [x] FJ
-    - [x] KC KG KO
-    - [x] PJ
-    - [x] WAW
-    - [x] Ka
-    - [x] i++
   - [ ] Better re-use of components
+  - [ ] Switch to Open Font License?
 - [ ] **Glyph Design**
   - [ ] **Character set compliancy**
     - [ ] WGL4
-      - [x] Regular
       - [ ] Bold
       - [ ] Light
-    - [x] Google Fonts Plus
     - [ ] Google Fonts Pro
-      - [x] Regular
       - [ ] Bold
       - [ ] Light
   - [ ] **ASCII improvements**
-    - [x] `S` (U+0053): curved endings
-    - [x] `s` (U+0073): more like new `S`
-    - [x] `a` (U+0061): less detail, less 'tail'
-    - [x] `7` (U+0037): stem less to the left
-    - [x] `B`, `D`, `E`, `F`, `H`, `L`, `P`, `R`, `T` without serifs, as test so serifs can be used for non-ASCII similarities
     - [ ] `W` (U+0057): less wide
     - [ ] `w` (U+0077): less wide
-    - [x] align `?` and `!` to x-height
   - [ ] Greek
   - [ ] Cyrillic
   - [ ] **Alternatives** for:
     - [ ] `a`: circle with small stem
     - [ ] `g`: old-fashioned g
-    - [x] `i`: with a 'tail'
 - [ ] **Variants**
   - [ ] Mono (experiment with ASCII at first, perhaps a larger subset at a later stage)
   - [ ] Baseline (ASCII characters aligned to baseline, as a test)
