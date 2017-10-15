@@ -1,0 +1,27 @@
+{
+  "name": "fifteen",
+  "version": "1.0.2",
+  "description": "Proportionally sized typeface optimized for source code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burodepeper/fifteen.git"
+  },
+  "keywords": [
+    "typeface",
+    "font",
+    "source",
+    "code",
+    "proportional",
+    "webfont",
+    "ttf",
+    "regular",
+    "bold",
+    "light"
+  ],
+  "author": "David van Gemeren <david@burodepeper.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burodepeper/fifteen/issues"
+  },
+  "homepage": "https://github.com/burodepeper/fifteen#readme"
+}
