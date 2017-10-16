@@ -17,30 +17,32 @@ innerText innerHTML
 <| |> #! i++ 9:0 0xFF := </>
 [123, 456, 789.0]
 !==
-this $this
+/^(?<handle>@[a-zA-Z0-9]{3,})$/
+/(\(d{4})(?: )([a-zA-Z]{2})?)/g
+this $this _this this. this->
 substr, substring, (substr(?:ing)?)
 new Date()
 setTimeout
 onkeydown onmouseover onresize
 const let var variable $variable
 input // output stdin stdout STDIN STDOUT
-length
-Math
+length size strlen len
+Math PI cos sin tan sqrt
 pattern match
 break continue end
 console.log .warn .error .table
 JSON.stringify()
 class extends inherits implements
 public protected private final abstract trait
-width, height, length
-320px 15pt 50vw 37vh
+width, height, length, auto, inherit
+320px 15pt 50vw 37vh 62.5% calc(100% - 20px);
 class constructor super static __construct
 return yield
 Symbol.iterator
 url URL data Data Query
 Promise fetch resolve reject
 namespace use
-SELECT * FROM `projects` INSERT UPDATE DELETE ALTER ORDER BY WHERE LIMIT
+SELECT DISTINCT * FROM `projects` INSERT UPDATE DELETE ALTER ORDER BY WHERE LIMIT JOIN ASC DESC INNER OUTER LEFT RIGHT `field` = ? id NOT NULL
 Database PDO MySQL
 string String int Int integer float Float double
 @var @param @return @throws @property
@@ -55,7 +57,7 @@ import export from as
 """Comment""" "Comment" 'Comment' `Comment`
 def lambda
 %r %s %i
-type list typle dict
+type list tuple dict
 def __init__(): return self
 assert append session name title bytes struct memory_limit config
 (optional)
@@ -67,7 +69,7 @@ TODO FIXME
 U+21AF 0x904B
 http:// https:// file:/// ftp:// http://www.domain.com
 john.doe@fbi.gov <jane.doe@cia.gov>
-:-) ;-) :) :( =) 8) :D :P :p
+:-) ;-) :) :( =) 8) :D :P :p :<
 # Heading
 > Quote
 ![image](images/portrait.jpg)
