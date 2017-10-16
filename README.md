@@ -87,7 +87,8 @@ Below is a summary of my current aims and interests.
     - [ ] `Wi`
     - [ ] `pp`
     - [ ] `□■`
-    - [ ] `rA`
+    - [ ] `rA` `yA` `vA` `wA`
+    - [ ] `eV`
   - [ ] Better re-use of components
   - [ ] Switch to Open Font License?
 - [ ] **Glyph Design**
