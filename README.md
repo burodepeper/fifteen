@@ -61,6 +61,8 @@ Include the following line in your `<head>` and then use `font-family: "Fifteen-
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/fifteen/build/web/Fifteen-Web.css'>
 ```
 
+[![](https://data.jsdelivr.com/v1/package/npm/fifteen/badge)](https://www.jsdelivr.com/package/npm/fifteen)
+
 ## Development
 
 Fifteen is primarily developed as my personal typeface, and most considerations made are based on my environment and obviously heavily opinionated. I tend to tweak things almost on a daily basis, to get it _just right_.

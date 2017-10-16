@@ -6,6 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/burodepeper/fifteen.git"
   },
+  "jsdelivr": "build/web/Fifteen-Web.css",
   "keywords": [
     "typeface",
     "font",
