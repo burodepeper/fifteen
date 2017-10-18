@@ -89,6 +89,11 @@ Below is a summary of my current aims and interests.
     - [ ] `□■`
     - [ ] `rA` `yA` `vA` `wA` `oA`
     - [ ] `eV` `oV` `oY`
+    - [ ] `Fo`
+    - [ ] `Li`
+    - [ ] `Gl`
+    - [ ] `Ke`
+    - [ ] `As`
   - [ ] Better re-use of components
   - [ ] Switch to Open Font License?
 - [ ] **Glyph Design**
