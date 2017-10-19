@@ -8819,7 +8819,7 @@ unicode = 00D1;
 {
 color = 5;
 glyphname = O;
-lastChange = "2017-10-18 21:11:43 +0000";
+lastChange = "2017-10-19 22:33:17 +0000";
 layers = (
 {
 anchors = (
@@ -11366,7 +11366,7 @@ unicode = 0051;
 {
 color = 5;
 glyphname = R;
-lastChange = "2017-10-18 10:49:34 +0000";
+lastChange = "2017-10-19 22:33:17 +0000";
 layers = (
 {
 anchors = (
@@ -13555,7 +13555,7 @@ unicode = 1E6E;
 {
 color = 5;
 glyphname = U;
-lastChange = "2017-10-19 04:08:33 +0000";
+lastChange = "2017-10-19 22:33:17 +0000";
 layers = (
 {
 anchors = (
@@ -19042,7 +19042,7 @@ unicode = 010B;
 {
 color = 5;
 glyphname = d;
-lastChange = "2017-10-18 12:40:41 +0000";
+lastChange = "2017-10-19 22:32:21 +0000";
 layers = (
 {
 components = (
@@ -20830,7 +20830,7 @@ unicode = 0259;
 {
 color = 5;
 glyphname = f;
-lastChange = "2017-10-16 16:18:22 +0000";
+lastChange = "2017-10-19 22:33:21 +0000";
 layers = (
 {
 components = (
@@ -21796,7 +21796,7 @@ unicode = 1E25;
 {
 color = 5;
 glyphname = i;
-lastChange = "2017-10-19 04:58:14 +0000";
+lastChange = "2017-10-19 22:33:21 +0000";
 layers = (
 {
 components = (
@@ -27283,7 +27283,7 @@ unicode = 0153;
 {
 color = 5;
 glyphname = p;
-lastChange = "2017-10-16 16:18:22 +0000";
+lastChange = "2017-10-19 22:32:22 +0000";
 layers = (
 {
 components = (
@@ -29581,7 +29581,7 @@ unicode = 1E6F;
 {
 color = 5;
 glyphname = u;
-lastChange = "2017-10-19 04:58:14 +0000";
+lastChange = "2017-10-19 22:32:21 +0000";
 layers = (
 {
 anchors = (
@@ -47929,7 +47929,7 @@ unicode = 0031;
 {
 color = 5;
 glyphname = two;
-lastChange = "2017-10-19 05:05:17 +0000";
+lastChange = "2017-10-19 22:33:31 +0000";
 layers = (
 {
 components = (
@@ -57169,7 +57169,7 @@ unicode = 0028;
 {
 color = 5;
 glyphname = parenright;
-lastChange = "2017-10-16 16:18:22 +0000";
+lastChange = "2017-10-19 22:33:31 +0000";
 layers = (
 {
 components = (
@@ -59915,7 +59915,7 @@ unicode = 00A4;
 {
 color = 5;
 glyphname = dollar;
-lastChange = "2017-10-16 16:18:22 +0000";
+lastChange = "2017-10-19 22:33:26 +0000";
 layers = (
 {
 components = (
@@ -62908,7 +62908,7 @@ unicode = 2260;
 {
 color = 5;
 glyphname = greater;
-lastChange = "2017-10-16 16:18:22 +0000";
+lastChange = "2017-10-19 22:33:29 +0000";
 layers = (
 {
 components = (
@@ -99098,6 +99098,24 @@ isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
+},
+{
+interpolationWeight = 175;
+instanceInterpolations = {
+"833FD172-3601-4257-8297-A103CE2A393F" = -0.25;
+"DCFDD359-D3A1-4A9B-975E-26381AFB2AA7" = 1.25;
+};
+name = "Extra Bold";
+weightClass = ExtraBold;
+},
+{
+interpolationWeight = 200;
+instanceInterpolations = {
+"833FD172-3601-4257-8297-A103CE2A393F" = -0.5;
+"DCFDD359-D3A1-4A9B-975E-26381AFB2AA7" = 1.5;
+};
+name = Black;
+weightClass = Black;
 }
 );
 kerning = {
