@@ -1,0 +1,169 @@
+body {
+  font: 15px/20px "Fifteen-Web", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 80px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+a {
+  color: #06c;
+  text-decoration: underline;
+}
+
+  a:hover {
+    font-weight: 700;
+  }
+
+strong {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 60px auto;
+}
+
+.block:not(:last-child) {
+  margin-bottom: 60px;
+}
+
+.site-header {
+  text-align: center;
+}
+
+  .site-header h3 {
+    margin-top: 10px;
+  }
+
+.site-links {
+  text-align: center;
+}
+
+.site-footer {
+  text-align: center;
+}
+
+.sample {
+}
+
+.large.sample {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.medium.sample {
+  font-size: 22.5px;
+  line-height: 30px;
+}
+
+.weights.sample {
+  margin: 0 auto;
+}
+
+  .weights.sample .thin {
+    font-weight: 100;
+  }
+
+  .weights.sample .extra-light {
+    font-weight: 200;
+  }
+
+  .weights.sample .light {
+    font-weight: 300;
+  }
+
+  .weights.sample .regular {
+    font-weight: 400;
+  }
+
+  .weights.sample .medium {
+    font-weight: 500;
+  }
+
+  .weights.sample .semi-bold {
+    font-weight: 600;
+  }
+
+  .weights.sample .bold {
+    font-weight: 700;
+  }
+
+  .weights.sample th {
+    text-align: right;
+  }
+
+  .weights.sample td {
+    padding-left: 20px;
+    text-align: center;
+  }
+
+.code.sample {
+  padding: 10px;
+  width: 520px;
+  margin: 0 auto;
+}
+
+  .darkest.code {
+    background: #000;
+    color: #fff;
+  }
+
+  .darker.code {
+    background: #333;
+    color: #ccc;
+  }
+
+  .dark.code {
+    background: #666;
+    color: #999;
+  }
+
+  .light.code {
+    background: #999;
+    color: #666;
+  }
+
+  .lighter.code {
+    background: #ccc;
+    color: #333;
+  }
+
+  .lightest.code {
+    background: #fff;
+    color: #000;
+  }
+
+.large.sample,
+.medium.sample {
+  text-align: center;
+}
+
+.features {
+  display: flex;
+}
+
+  .features + .features {
+    margin-top: 60px;
+  }
+
+.feature {
+  width: 400px;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+  .feature dt {
+    font-weight: 700;
+    /*font-size: 18px;*/
+    /*line-height: 20px;*/
+    padding-bottom: 20px;
+    text-transform: uppercase;
+  }

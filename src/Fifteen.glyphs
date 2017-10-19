@@ -1,7 +1,10 @@
 {
 .appVersion = "1073";
+DisplayStrings = (
+"made with /heartBlackSuit , /notedbl-musical  and /propellor  by David van Gemeren"
+);
 copyright = "Copyright © 2017 by David van Gemeren";
-date = "2017-10-15 16:37:47 +0000";
+date = "2017-10-19 14:11:26 +0000";
 designer = "David van Gemeren";
 designerURL = "https://www.burodepeper.nl";
 familyName = Fifteen;
@@ -34957,7 +34960,7 @@ unicode = 0422;
 {
 color = 3;
 glyphname = "U-cy";
-lastChange = "2017-10-19 04:57:32 +0000";
+lastChange = "2017-10-19 14:12:09 +0000";
 layers = (
 {
 anchors = (
@@ -34969,7 +34972,6 @@ position = "{400, 850}";
 components = (
 {
 name = y;
-transform = "{1, 0, 0, 1, 0, 150}";
 }
 );
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -99063,6 +99065,10 @@ u = -50;
 "@MMK_R_o" = -50;
 "@MMK_R_v" = -150;
 };
+"@MMK_L_c" = {
+"@MMK_R_o" = -50;
+"te-cy" = -50;
+};
 "@MMK_L_i" = {
 "@MMK_R_l" = 100;
 "@MMK_R_n" = 50;
@@ -99085,9 +99091,9 @@ u = 50;
 "@MMK_R_i" = -50;
 "@MMK_R_v" = -50;
 "@MMK_R_x" = -50;
-oslash = -50;
-"el-cy" = -100;
 "de-cy" = -150;
+"el-cy" = -100;
+oslash = -50;
 "te-cy" = -100;
 };
 "@MMK_L_s" = {
@@ -99113,6 +99119,18 @@ period = -100;
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -50;
 };
+"De-cy" = {
+"a-cy" = -200;
+};
+"Ge-cy" = {
+"@MMK_R_o" = -200;
+};
+"Pe-cy" = {
+"@MMK_R_l" = 100;
+};
+"a-cy" = {
+"@MMK_R_l" = 100;
+};
 backslash = {
 backslash = -200;
 };
@@ -99122,12 +99140,21 @@ bar = -200;
 colon = {
 slash = -100;
 };
+"de-cy" = {
+"@MMK_R_o" = -100;
+"a-cy" = -50;
+"u-cy" = -50;
+};
 equal = {
 greater = -100;
 };
 f = {
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -50;
+};
+"ge-cy" = {
+"@MMK_R_o" = -100;
+"el-cy" = -100;
 };
 hyphen = {
 greater = -100;
@@ -99146,41 +99173,16 @@ numbersign = -200;
 slash = {
 slash = -200;
 };
-"u-cy" = {
-"@MMK_R_o" = -100;
-};
-"@MMK_L_c" = {
-"te-cy" = -50;
-"@MMK_R_o" = -50;
-};
-"ve-cy" = {
-"@MMK_R_o" = -50;
-"de-cy" = -100;
-};
 "te-cy" = {
 "@MMK_R_o" = -50;
 "a-cy" = -100;
 };
-"de-cy" = {
-"u-cy" = -50;
-"a-cy" = -50;
+"u-cy" = {
 "@MMK_R_o" = -100;
 };
-"ge-cy" = {
-"el-cy" = -100;
-"@MMK_R_o" = -100;
-};
-"Pe-cy" = {
-"@MMK_R_l" = 100;
-};
-"a-cy" = {
-"@MMK_R_l" = 100;
-};
-"Ge-cy" = {
-"@MMK_R_o" = -200;
-};
-"De-cy" = {
-"a-cy" = -200;
+"ve-cy" = {
+"@MMK_R_o" = -50;
+"de-cy" = -100;
 };
 };
 "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5" = {
@@ -99244,6 +99246,10 @@ u = 50;
 "@MMK_R_o" = -50;
 "@MMK_R_v" = -150;
 };
+"@MMK_L_c" = {
+"@MMK_R_o" = -50;
+"te-cy" = -50;
+};
 "@MMK_L_i" = {
 "@MMK_R_l" = 100;
 "@MMK_R_n" = 50;
@@ -99269,11 +99275,11 @@ u = 50;
 "@MMK_R_i" = -50;
 "@MMK_R_v" = -50;
 "@MMK_R_x" = -50;
+"de-cy" = -150;
+"el-cy" = -100;
 greater = -50;
 j = -50;
 oslash = -50;
-"de-cy" = -150;
-"el-cy" = -100;
 "te-cy" = -100;
 };
 "@MMK_L_s" = {
@@ -99302,8 +99308,20 @@ period = -100;
 C = {
 "@MMK_R_o" = -50;
 };
+"De-cy" = {
+"a-cy" = -200;
+};
+"Ge-cy" = {
+"@MMK_R_o" = -200;
+};
 P = {
 "@MMK_R_n" = 50;
+};
+"Pe-cy" = {
+"@MMK_R_l" = 100;
+};
+"a-cy" = {
+"@MMK_R_l" = 100;
 };
 aacute = {
 "@MMK_R_l" = 100;
@@ -99317,12 +99335,21 @@ bar = -200;
 colon = {
 slash = -100;
 };
+"de-cy" = {
+"@MMK_R_o" = -100;
+"a-cy" = -50;
+"u-cy" = -50;
+};
 equal = {
 greater = -100;
 };
 f = {
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -50;
+};
+"ge-cy" = {
+"@MMK_R_o" = -100;
+"el-cy" = -100;
 };
 hyphen = {
 greater = -100;
@@ -99347,41 +99374,16 @@ numbersign = -200;
 slash = {
 slash = -200;
 };
-"ve-cy" = {
-"@MMK_R_o" = -50;
-"de-cy" = -100;
-};
 "te-cy" = {
 "@MMK_R_o" = -50;
 "a-cy" = -100;
 };
-"@MMK_L_c" = {
-"te-cy" = -50;
-"@MMK_R_o" = -50;
-};
 "u-cy" = {
 "@MMK_R_o" = -100;
 };
-"de-cy" = {
-"a-cy" = -50;
-"u-cy" = -50;
-"@MMK_R_o" = -100;
-};
-"Pe-cy" = {
-"@MMK_R_l" = 100;
-};
-"ge-cy" = {
-"el-cy" = -100;
-"@MMK_R_o" = -100;
-};
-"a-cy" = {
-"@MMK_R_l" = 100;
-};
-"Ge-cy" = {
-"@MMK_R_o" = -200;
-};
-"De-cy" = {
-"a-cy" = -200;
+"ve-cy" = {
+"@MMK_R_o" = -50;
+"de-cy" = -100;
 };
 };
 "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7" = {
@@ -99446,6 +99448,10 @@ u = 50;
 "@MMK_R_o" = -50;
 "@MMK_R_v" = -150;
 };
+"@MMK_L_c" = {
+"@MMK_R_o" = -50;
+"te-cy" = -50;
+};
 "@MMK_L_i" = {
 "@MMK_R_l" = 100;
 "@MMK_R_n" = 50;
@@ -99471,11 +99477,11 @@ u = 50;
 "@MMK_R_i" = -50;
 "@MMK_R_v" = -50;
 "@MMK_R_x" = -50;
+"de-cy" = -150;
+"el-cy" = -100;
 greater = -50;
 j = -50;
 oslash = -50;
-"el-cy" = -100;
-"de-cy" = -150;
 "te-cy" = -100;
 };
 "@MMK_L_s" = {
@@ -99504,8 +99510,20 @@ period = -100;
 C = {
 "@MMK_R_o" = -50;
 };
+"De-cy" = {
+"a-cy" = -200;
+};
+"Ge-cy" = {
+"@MMK_R_o" = -200;
+};
 P = {
 "@MMK_R_n" = 50;
+};
+"Pe-cy" = {
+"@MMK_R_l" = 100;
+};
+"a-cy" = {
+"@MMK_R_l" = 100;
 };
 aacute = {
 "@MMK_R_l" = 100;
@@ -99519,12 +99537,21 @@ bar = -200;
 colon = {
 slash = -100;
 };
+"de-cy" = {
+"@MMK_R_o" = -100;
+"a-cy" = -50;
+"u-cy" = -50;
+};
 equal = {
 greater = -100;
 };
 f = {
 "@MMK_R_a" = -50;
 "@MMK_R_o" = -50;
+};
+"ge-cy" = {
+"@MMK_R_o" = -100;
+"el-cy" = -100;
 };
 hyphen = {
 greater = -100;
@@ -99549,41 +99576,16 @@ numbersign = -200;
 slash = {
 slash = -200;
 };
-"u-cy" = {
-"@MMK_R_o" = -100;
-};
-"@MMK_L_c" = {
-"te-cy" = -50;
-"@MMK_R_o" = -50;
-};
-"ve-cy" = {
-"@MMK_R_o" = -50;
-"de-cy" = -100;
-};
 "te-cy" = {
 "@MMK_R_o" = -50;
 "a-cy" = -100;
 };
-"de-cy" = {
-"u-cy" = -50;
-"a-cy" = -50;
+"u-cy" = {
 "@MMK_R_o" = -100;
 };
-"ge-cy" = {
-"el-cy" = -100;
-"@MMK_R_o" = -100;
-};
-"Pe-cy" = {
-"@MMK_R_l" = 100;
-};
-"a-cy" = {
-"@MMK_R_l" = 100;
-};
-"Ge-cy" = {
-"@MMK_R_o" = -200;
-};
-"De-cy" = {
-"a-cy" = -200;
+"ve-cy" = {
+"@MMK_R_o" = -50;
+"de-cy" = -100;
 };
 };
 };
@@ -99591,5 +99593,5 @@ manufacturer = "David van Gemeren";
 manufacturerURL = "https://github.com/burodepeper";
 unitsPerEm = 1500;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }

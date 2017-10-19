@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>fifteen | a proportionally sized typeface for source code</title>
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/fifteen/build/web/Fifteen-Web.full.css'>
+    <link rel='stylesheet' href='reset.css'>
+    <link rel='stylesheet' href='styles.css'>
+  </head>
+  <body>
+    <div class='wrapper'>
+      <div class='block'>
+        <header class='site-header'>
+          <h1>fifteen</h1>
+          <h2>a proportionally sized typeface for source code</h2>
+          <h3>(and it's free...)</h3>
+        </header>
+      </div>
+
+      <div class='block'>
+        <nav class='site-links'>
+          <a href='https://github.com/burodepeper/fifteen/releases' target='_blank'>downloads</a> | <a href='https://github.com/burodepeper/fifteen' target='_blank'>documentation and source</a> | <a href='https://github.com/burodepeper/fifteen/issues' target='_blank'>bugs</a> | <a href='mailto:david@burodepeper.nl'>contact</a>
+        </nav>
+      </div>
+
+      <div class='block'>
+        <blockquote class='large sample'>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+abcdefghijklmnopqrstuvwxyz<br>
+<([{ 0123456789 }])><br>
+`-=~!@#$%^&amp;*_+\|/;:,.?
+        </blockquote>
+      </div>
+
+      <div class='block'>
+        <table class='weights sample'>
+          <tr class='thin'>
+            <th>Thin</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+          <tr class='extra-light'>
+            <th>Extra Light</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+          <tr class='light'>
+            <th>Light</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+          <tr class='regular'>
+            <th>Regular</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+          <tr class='medium'>
+            <th>Medium</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+          <tr class='semi-bold'>
+            <th>Semi Bold</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+          <tr class='bold'>
+            <th>Bold</th>
+            <td>abcdefghijklmnopqrstuvwxyz</td>
+            <td>&lt;([{ 0123456789 }])&gt;</td>
+            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+          </tr>
+        </table>
+      </div>
+
+      <div class='block'>
+        <div class='features'>
+          <dl class='feature'>
+            <dt>It's FREE! (and open source)</dt>
+            <dd>fifteen is available for <a href='https://github.com/burodepeper/fifteen/releases' target='_blank'>download</a> as .ttf and webfonts. you may freely use it for whatever private or commercial purpose. check the <a href='https://github.com/burodepeper/fifteen' target='_blank'>documentation</a> and <a href='https://github.com/burodepeper/fifteen/LICENSE' target='_blank'>license</a> for more information.</dd>
+          </dl>
+          <dl class='feature'>
+            <dt>More than just ASCII</dt>
+            <dd>fifteen weighs in at over a thousand glyphs, and contains a wide variety of Latin characters, basic support for Cyrillic and Greek text, and an extended selection of punctuation, currency, mathematical and various symbols.</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class='block'>
+        <blockquote class='medium sample'>
+for ($i = 0; $i <= COUNT; $i++) { numbersCounted[] = $i; }<br>
+pairs = evens.map(v => ({ "even": v, 'odd': v + 1 }))<br>
+def unique_values(self, values): return filter(!!values.indexOf(a))
+        </blockquote>
+      </div>
+
+      <div class='block'>
+        <blockquote class='small code sample darkest'>
+<pre>const callbacks = []
+for (let i = 0; i <= 2; i++) {
+  callbacks[i] = function () { return i * 2 }
+}</pre>
+        </blockquote>
+        <blockquote class='small code sample darker'>
+<pre>odds = evens.map(v => v + 1)
+pairs = evens.map(v => ({ "even": v, 'odd': v + 1 }))
+nums = evens.map((v, i) => v + i)</pre>
+        </blockquote>
+        <blockquote class='small code sample dark'>
+<pre>this.nums.forEach(v => {
+  if (v % 5 === 0) this.fives.push(v)
+})</pre>
+        </blockquote>
+        <blockquote class='small code sample light'>
+<pre>let report = match => {
+  console.log(`Match: ${JSON.stringify(match)}`)
+}</pre>
+        </blockquote>
+        <blockquote class='small code sample lighter'>
+<pre>parser("FOo 1 Bar BaZ 42", [
+  { pattern: /^Bar\s+(\d+)/y, action: match => report(match) },
+  { pattern: /^\s*/y, action: match => {} }
+])</pre>
+        </blockquote>
+        <blockquote class='small code sample lightest'>
+<pre>class Circle extends Shape {
+  constructor(id, x, y, radius) {
+    super(id, x, y)
+    this.radius = radius
+  }
+  static defaultCircle() {
+    return new Circle("default", 0, 0, 100)
+  }
+}</pre>
+        </blockquote>
+      </div>
+
+      <div class='block'>
+        <nav class='site-links'>
+          <a href='https://github.com/burodepeper/fifteen/releases' target='_blank'>downloads</a> | <a href='https://github.com/burodepeper/fifteen' target='_blank'>documentation and source</a> | <a href='https://github.com/burodepeper/fifteen/issues' target='_blank'>bugs</a> | <a href='mailto:david@burodepeper.nl'>contact</a>
+        </nav>
+      </div>
+
+      <div class='block'>
+        <blockquote class='medium sample'>
+¡€£¢∞§¶œ¥åßç∂éîòñü©æΩ≈µ≤≥≠‰¿<br>
+АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЮЯ<br>
+абвгдежзийклмнопрстуфхцчшщьюя<br>
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ<br>
+αβγδεζηθικλμνξοπρσςτυφχψω
+        </blockquote>
+      </div>
+
+      <div class='block'>
+        <div class='features'>
+          <dl class='feature'>
+            <dt>Seven weights</dt>
+            <dd>available in seven weights, with interchangeable metrics:<br>thin (100), extra light (200), light (300), regular (400), medium (500), semi bold (600) and bold (700).</dd>
+          </dl>
+          <dl class='feature'>
+            <dt>Character sets included</dt>
+            <dd>ASCII, Latin-1 Supplement (ISO 8859-1), Latin Extended-A, Windows 1252, Mac Roman, MES-1, WGL4, Google Fonts Core+Plus+Pro; this includes Cyrillic and Greek alphabets</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class='block'>
+        <blockquote class='large sample'>
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG<br>
+the quick brown fox jumps over the lazy dog
+        </blockquote>
+      </div>
+
+      <div class='block'>
+        <blockquote class='medium sample'>
+€1.249,05&nbsp;&nbsp;&nbsp;$369.87&nbsp;&nbsp;&nbsp;email@domain.com&nbsp;&nbsp;&nbsp;+1(0)800-692-7753<br>
+0xFF&nbsp;&nbsp;&nbsp;/* Comment */&nbsp;&nbsp;&nbsp;/^(?&lt;handle&gt;@[a-zA-Z0-9]{3,})$/<br>
+0O l1 Z2 S5 G6 B8 71 lI vy
+        </blockquote>
+      </div>
+
+      <div class='block'>
+        <nav class='site-links'>
+          <a href='https://github.com/burodepeper/fifteen/releases' target='_blank'>downloads</a> | <a href='https://github.com/burodepeper/fifteen' target='_blank'>documentation and source</a> | <a href='https://github.com/burodepeper/fifteen/issues' target='_blank'>bugs</a> | <a href='mailto:david@burodepeper.nl'>contact</a>
+        </nav>
+      </div>
+
+      <div class='block'>
+        <div class='features'>
+          <dl class='feature'>
+            <dt>Proportionally sized</dt>
+            <dd>fifteen is not limited by the confines of monospace in the design of its glyphs. sure, you can no longer neatly align every bit of your code, but you'll find out that you never really needed that in the first place.</dd>
+          </dl>
+          <dl class='feature'>
+            <dt>Vertical alignment</dt>
+            <dd>unlike traditional typefaces, fifteen's capitals aren't aligned to the baseline. instead, everything is vertically aligned around the x-height and neatly encapsulated by the various types of brackets.</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class='block'>
+        <div class='features'>
+          <dl class='feature'>
+            <dt>Large punctuation</dt>
+            <dd>the relatively small x-height gives a lot of breathing room for the type of punctuation that is so abundant in source code.</dd>
+          </dl>
+          <dl class='feature'>
+            <dt>Horizontal rhythm and kerning</dt>
+            <dd>the proportional design, spacing and subtle kerning give your source code the feeling and rhythm of a natural language.</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class='block'>
+        <footer class='site-footer'>
+          <p>&copy; 2017 &mdash; made with &hearts;, &#x266B; and &#x2318; by <a href='https://github.com/burodepeper'>David van Gemeren</a></p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>

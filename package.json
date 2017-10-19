@@ -1,7 +1,7 @@
 {
   "name": "fifteen",
   "version": "1.0.2",
-  "description": "Proportionally sized typeface optimized for source code",
+  "description": "a proportionally sized typeface for source code",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/burodepeper/fifteen.git"

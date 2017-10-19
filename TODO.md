@@ -1,19 +1,65 @@
 # TODO
 
-## General goals
-- [ ] Light variant
-- [ ] Italics for Regular, Bold and Light
-- [ ] Hosting webfont via npmjs.org and jsDelivr
-- [ ] Bold and Light of Greek
-- [ ] Cyrillic alphabet
-
-## Glyphs to be added
-
-## Glyph (re)design
-- [ ] lowercase `w` (U+....)
-- [ ] lowercase `y` (U+....)
-
 ## Kerning
-- [ ] lowercase `a` (U+....) and `l` (U+....) and similar
-- [ ] comma `,` (U+....)
-- [ ] In programming `i++`, the first `+` feels too snug to the i
+
+- [ ] Consecutive `###`
+- [ ] `sp`, `sh`
+- [ ] `Wi`
+- [ ] `pp`
+- [ ] `□■`
+- [ ] `rA` `yA` `vA` `wA` `oA`
+- [ ] `eV` `oV` `oY`
+- [ ] `Fo`
+- [ ] `Li`
+- [ ] `Gl`
+- [ ] `Ke`
+- [ ] `As`
+- [ ] `COUNT`
+- [ ] `LAZY`
+- [ ] `SEVEN`
+- [ ] `ГД`
+- [ ] `n-W`
+
+## Alternate glyphs
+
+- [ ] `a`: circle with small stem
+- [ ] `g`: old-fashioned g
+
+## Improve distinction from ASCII characters
+
+- [ ] `A`
+- [ ] `B`
+- [ ] `E`
+- [ ] `3`
+- [ ] `K`
+- [ ] `M`
+- [ ] `N`
+- [ ] `H`
+- [ ] `O`
+- [ ] `P`
+- [ ] `C`
+- [ ] `T`
+- [ ] `X`
+- [ ] `Y`
+- [ ] `S`
+- [ ] `Z`
+- [ ] `I`
+- [ ] `a`
+- [ ] `e`
+- [ ] `o`
+- [ ] `p`
+- [ ] `c`
+- [ ] `x`
+- [ ] `s`
+- [ ] `i`
+- [ ] `j`
+- [ ] `y`
+- [ ] `u`
+
+## Webfonts
+
+- [ ] Automate buildings subsets with a limited character set to reduce the size of the downloads
+
+## Maintenance
+
+- [ ] Set parameters for position and size of the underline
