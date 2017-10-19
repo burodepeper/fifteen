@@ -1,20 +1,14 @@
 # Fifteen
 
+![](images/fifteen-sample.png)
+
 Fifteen is a proportionally sized typeface optimized for source code. It was initially developed as an experiment in font metrics and has since evolved as my personal typeface for both source code and identity. As such, it is still very much under active construction and receives frequent updates.
-
-![](images/sample-regular.png)
-
-![](images/sample-bold.png)
-
-![](images/sample-light.png)
 
 ## A typeface designed for source code
 
 Fifteen needs a little time to get used to. It differs from traditional typefaces for source code in two distinct ways: it is proportionally sized, and it doesn't strictly use the baseline to align the characters to.
 
 Reading source code in characters that are aligned in a grid (as monospaced typefaces are) has its advantages, which is why it is the default approach. It has certain disadvantages too though that simply can't be solved within a monospaced grid. The limited space within the fixed size of a glyph box restricts the possibilities to make clear distinctions between similar looking characters (i.e. uppercase O vs. the number 0). Besides cramming as much information in a limited area, that fixed size also dictates the horizontal rhythm of your code. It makes it harder to read code as a natural language. Proportionally sized typefaces have the potential to solve these two issues. The primary downside to them is losing the ability to align your code, apart from leading whitespace, which is obviously not an issue.
-
-![](images/sample-code.png)
 
 Fifteen is designed on a 15px tall grid, of which 7px are used for the x-height, with a stroke width of 1px for Regular (1.5px for Bold, and 0.5px for Light). The glyphs themselves are constructed from simple geometric shapes, to stay close to the conceptual shape of their respective characters; i.e. an o is a circle.
 
