@@ -1,0 +1,36 @@
+@media (max-width: 800px) {
+  .hide-on-mobile {
+    display: none;
+  }
+
+  .wrapper {
+    width: auto;
+  }
+
+  .block {
+    padding: 0 20px;
+  }
+
+  .features {
+    display: block;
+  }
+
+  .feature {
+    width: auto;
+    padding: 0;
+  }
+
+  .feature + .feature {
+    margin-top: 60px;
+  }
+
+  .weights.sample td {
+    padding: 0;
+    white-space: nowrap;
+  }
+
+  .code.sample {
+    width: auto;
+    overflow-x: scroll;
+  }
+}

@@ -2,10 +2,12 @@
 <html>
   <head>
     <meta charset='utf-8'>
+    <meta name="viewport" content="initial-scale=1, user-scalable=no">
     <title>fifteen | a proportionally sized typeface for source code</title>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/fifteen/build/web/Fifteen-Web.full.css'>
     <link rel='stylesheet' href='reset.css'>
     <link rel='stylesheet' href='styles.css'>
+    <link rel='stylesheet' href='mobile.css'>
   </head>
   <body>
     <div class='wrapper'>
@@ -25,56 +27,56 @@
 
       <div class='block'>
         <blockquote class='large sample'>
-ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-abcdefghijklmnopqrstuvwxyz<br>
-<([{ 0123456789 }])><br>
-`-=~!@#$%^&amp;*_+\|/;:,.?
+ABC<span class='hide-on-mobile'>D</span>EFG<span class='hide-on-mobile'>HIJKLMNO</span>PQRSTU<span class='hide-on-mobile'>V</span>W<span class='hide-on-mobile'>X</span>Y<span class='hide-on-mobile'>Z</span><br>
+abc<span class='hide-on-mobile'>d</span>efghi<span class='hide-on-mobile'>jklm</span>nop<span class='hide-on-mobile'>q</span>rst<span class='hide-on-mobile'>u</span>v<span class='hide-on-mobile'>w</span>x<span class='hide-on-mobile'>y</span>z<br>
+<(<span class='hide-on-mobile'>[{ </span>0123456789<span class='hide-on-mobile'> </span>}]<span class='hide-on-mobile'>)></span><br>
+<span class='hide-on-mobile'>`-</span>=~!@#$%^&amp;*_+<span class='hide-on-mobile'>\|</span>/<span class='hide-on-mobile'>;</span>:,<span class='hide-on-mobile'>.</span>?
         </blockquote>
       </div>
 
       <div class='block'>
         <table class='weights sample'>
           <tr class='thin'>
-            <th>Thin</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Thin 100</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
           <tr class='extra-light'>
-            <th>Extra Light</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Extra Light 200</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
           <tr class='light'>
-            <th>Light</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Light 300</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
           <tr class='regular'>
-            <th>Regular</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Regular 400</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
           <tr class='medium'>
-            <th>Medium</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Medium 500</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
           <tr class='semi-bold'>
-            <th>Semi Bold</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Semi Bold 600</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
           <tr class='bold'>
-            <th>Bold</th>
-            <td>abcdefghijklmnopqrstuvwxyz</td>
-            <td>&lt;([{ 0123456789 }])&gt;</td>
-            <td>`-=~!@#$%^&amp;*_+\|/;:,.?</td>
+            <th class='hide-on-mobile'>Bold 700</th>
+            <td>abcdefghi<span class='hide-on-mobile'>jklmnopqrstuvwxyz</span></td>
+            <td>&lt;([{<span class='hide-on-mobile'> </span>012345<span class='hide-on-mobile'>6789 }])&gt;</span></td>
+            <td><span class='hide-on-mobile'>`-</span>=~!@#$<span class='hide-on-mobile'>%^&amp;*_+\</span>|/<span>;</span>:,<span class='hide-on-mobile'>.</span>?</td>
           </tr>
         </table>
       </div>
@@ -93,10 +95,10 @@ abcdefghijklmnopqrstuvwxyz<br>
       </div>
 
       <div class='block'>
-        <blockquote class='medium sample'>
-for ($i = 0; $i <= COUNT; $i++) { numbersCounted[] = $i; }<br>
-pairs = evens.map(v => ({ "even": v, 'odd': v + 1 }))<br>
-def unique_values(self, values): return filter(!!values.indexOf(a))
+        <blockquote class='medium sample align-left-on-mobile'>
+for<span class='hide-on-mobile'> </span>($i<span class='hide-on-mobile'> </span>=<span class='hide-on-mobile'> </span>0;<span class='hide-on-mobile'> </span>$i<span class='hide-on-mobile'> </span><=<span class='hide-on-mobile'> </span>C<span class='hide-on-mobile'>OUNT</span>;<span class='hide-on-mobile'> </span>$i++)<span class='hide-on-mobile'> </span>{<span class='hide-on-mobile'> </span>num<span class='hide-on-mobile'>bersCounted</span>[]<span class='hide-on-mobile'> </span>=<span class='hide-on-mobile'> </span>$i;<span class='hide-on-mobile'> </span>}<br>
+pairs = evens.map(v => ({<span class='hide-on-mobile'> </span>"even":<span class='hide-on-mobile'> </span>v,<span class='hide-on-mobile'> </span>'odd':<span class='hide-on-mobile'> </span>v<span class='hide-on-mobile'> </span>+<span class='hide-on-mobile'> </span>1<span class='hide-on-mobile'> </span>}))<br>
+def unique<span class='hide-on-mobile'>_values</span>(self,<span class='hide-on-mobile'> </span>values): return filter(!<span class='hide-on-mobile'>!values.</span>indexOf(a))
         </blockquote>
       </div>
 
@@ -149,11 +151,11 @@ nums = evens.map((v, i) => v + i)</pre>
 
       <div class='block'>
         <blockquote class='medium sample'>
-¡€£¢∞§¶œ¥åßç∂éîòñü©æΩ≈µ≤≥≠‰¿<br>
-АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЮЯ<br>
-абвгдежзийклмнопрстуфхцчшщьюя<br>
-ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ<br>
-αβγδεζηθικλμνξοπρσςτυφχψω
+¡€£¢∞§¶<span class='hide-on-mobile'>œ¥</span>åßç∂é<span class='hide-on-mobile'>îòñü</span>©æΩ≈µ<span class='hide-on-mobile'>≤≥</span>≠‰¿<br>
+АБ<span class='hide-on-mobile'>В</span>ГД<span class='hide-on-mobile'>Е</span>ЖЗИЙКЛ<span class='hide-on-mobile'>МНОПРСТ</span>УФХЦ<span class='hide-on-mobile'>ЧШЩ</span>ЬЮЯ<br>
+аб<span class='hide-on-mobile'>вг</span>дежзи<span class='hide-on-mobile'>йк</span>л<span class='hide-on-mobile'>мнопрст</span>уфхцч<span class='hide-on-mobile'>шщ</span>ьюя<br>
+ΑΒΓΔ<span class='hide-on-mobile'>ΕΖΗ</span>ΘΙΚΛ<span class='hide-on-mobile'>ΜΝ</span>ΞΟΠΡΣ<span class='hide-on-mobile'>ΤΥ</span>ΦΧΨΩ<br>
+αβγδεζηθικλμνξ<span class='hide-on-mobile'>οπρ</span>σς<span class='hide-on-mobile'>τυ</span>φχψω
         </blockquote>
       </div>
 
@@ -179,9 +181,9 @@ the quick brown fox jumps over the lazy dog
 
       <div class='block'>
         <blockquote class='medium sample'>
-€1.249,05&nbsp;&nbsp;&nbsp;$369.87&nbsp;&nbsp;&nbsp;email@domain.com&nbsp;&nbsp;&nbsp;+1(0)800-692-7753<br>
-0xFF&nbsp;&nbsp;&nbsp;/* Comment */&nbsp;&nbsp;&nbsp;/^(?&lt;handle&gt;@[a-zA-Z0-9]{3,})$/<br>
-0O l1 Z2 S5 G6 B8 71 lI vy
+€1.249,05&nbsp; &nbsp;$369.87&nbsp; &nbsp;email@domain.com&nbsp; &nbsp;+1(0)800-692-7753<br>
+0xFF&nbsp;&nbsp;&nbsp;/*&nbsp;Comment&nbsp;*/&nbsp; &nbsp;/^(<span class='hide-on-mobile'>?&lt;handle&gt;</span>@[a-z<span class='hide-on-mobile'>A-Z</span>0-9]{3,})$/<br>
+0O l1 Z2 S5 G6 B8 71 <span class='hide-on-mobile'>lI vy</span>
         </blockquote>
       </div>
 
