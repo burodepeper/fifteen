@@ -25,7 +25,7 @@
 - [ ] `a`: circle with small stem
 - [ ] `g`: old-fashioned g
 
-## Improve distinction from ASCII characters
+## Improve distinction between ASCII characters and Cyrillic/Greek
 
 - [ ] `A`
 - [ ] `B`
@@ -58,7 +58,7 @@
 
 ## Webfonts
 
-- [ ] Automate buildings subsets with a limited character set to reduce the size of the downloads
+- [ ] Automate building subsets with a limited character set to reduce the size of the downloads
 
 ## Maintenance
 
