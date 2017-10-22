@@ -3,22 +3,22 @@
 ## Kerning
 
 - [ ] Consecutive `###`
-- [ ] `sp`, `sh`
-- [ ] `Wi`
-- [ ] `pp`
+- [x] `sp`, `sh`
+- [x] `Wi`
+- [x] `pp` opportunity
 - [ ] `□■`
-- [ ] `rA` `yA` `vA` `wA` `oA`
-- [ ] `eV` `oV` `oY`
-- [ ] `Fo`
-- [ ] `Li`
-- [ ] `Gl`
-- [ ] `Ke`
-- [ ] `As`
-- [ ] `COUNT`
-- [ ] `LAZY`
-- [ ] `SEVEN`
-- [ ] `ГД`
-- [ ] `n-W`
+- [x] `rA` `yA` `vA` `wA` `oA`
+- [x] `eV` `oV` `oY`
+- [x] `Fo`
+- [x] `Li`
+- [x] `Gl`
+- [x] `Ke`
+- [x] `As`
+- [x] `COUNT`
+- [x] `LAZY`
+- [x] `SEVEN`
+- [x] `ГД`
+- [x] `n-W`
 
 ## Alternate glyphs
 
