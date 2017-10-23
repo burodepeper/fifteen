@@ -2,7 +2,7 @@
 
 ## Kerning
 
-- [ ] Consecutive `###`
+- [x] Consecutive `###`
 - [x] `sp`, `sh`
 - [x] `Wi`
 - [x] `pp` opportunity
@@ -27,38 +27,38 @@
 
 ## Improve distinction between ASCII characters and Cyrillic/Greek
 
-- [ ] `A`
-- [ ] `B`
-- [ ] `E`
-- [ ] `3`
-- [ ] `K`
-- [ ] `M`
-- [ ] `N`
-- [ ] `H`
-- [ ] `O`
-- [ ] `P`
-- [ ] `C`
-- [ ] `T`
-- [ ] `X`
-- [ ] `Y`
-- [ ] `S`
-- [ ] `Z`
-- [ ] `I`
-- [ ] `a`
-- [ ] `e`
-- [ ] `o`
-- [ ] `p`
-- [ ] `c`
-- [ ] `x`
-- [ ] `s`
-- [ ] `i`
-- [ ] `j`
-- [ ] `y`
-- [ ] `u`
+- [ ] `A` vs `А`
+- [ ] `B` vs `В`
+- [ ] `E` vs `Е`
+- [ ] `3` vs `З`
+- [ ] `K` vs `К`
+- [ ] `M` vs `М`
+- [ ] `N` vs `Ν`
+- [ ] `H` vs `Н`
+- [ ] `O` vs `О`
+- [ ] `P` vs `Р`
+- [ ] `C` vs `С`
+- [ ] `T` vs `Т`
+- [ ] `X` vs `Х`
+- [ ] `Y` vs `Υ`
+- [ ] `S` vs `Ѕ`
+- [ ] `Z` vs `Ζ`
+- [ ] `I` vs `Ι`
+- [ ] `a` vs `α` vs `а`
+- [ ] `e` vs `е`
+- [ ] `o` vs `о`
+- [ ] `p` vs `р` vs `ρ`
+- [ ] `c` vs `с`
+- [ ] `x` vs `х`
+- [ ] `s` vs `ѕ`
+- [ ] `i` vs `ι` vs `ί` vs `і`
+- [ ] `j` vs `ј`
+- [ ] `y` vs `у` vs `У`
+- [ ] `u` vs `υ`
 
 ## Webfonts
 
-- [ ] Automate building subsets with a limited character set to reduce the size of the downloads
+- [ ] Automate build subsets with a limited character set to reduce the size of the downloads
 
 ## Maintenance
 
