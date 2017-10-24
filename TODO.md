@@ -2,28 +2,19 @@
 
 ## Kerning
 
-- [x] Consecutive `###`
-- [x] `sp`, `sh`
-- [x] `Wi`
-- [x] `pp` opportunity
 - [ ] `□■`
-- [x] `rA` `yA` `vA` `wA` `oA`
-- [x] `eV` `oV` `oY`
-- [x] `Fo`
-- [x] `Li`
-- [x] `Gl`
-- [x] `Ke`
-- [x] `As`
-- [x] `COUNT`
-- [x] `LAZY`
-- [x] `SEVEN`
-- [x] `ГД`
-- [x] `n-W`
+- [x] `L_F` vs `L_T` vs `L_Y` vs `L_V` (SOCIAL_VIMEO)
+- [x] `m/u` vs `r/s`
+- [x] `AA` as in `ROOSEGAARDE`
+- [x] `llb` as in `fallback`
+- [x] `IN` as in `POINTS` or `MEETING`
 
 ## Alternate glyphs
 
 - [ ] `a`: circle with small stem
 - [ ] `g`: old-fashioned g
+- [ ] `0`: filled, similar to the one in Hack
+- [ ] `0`: with a period inside
 
 ## Improve distinction between ASCII characters and Cyrillic/Greek
 
@@ -55,11 +46,14 @@
 - [ ] `j` vs `ј`
 - [ ] `y` vs `у` vs `У`
 - [ ] `u` vs `υ`
+- [ ] Add example to demo page: `CONTEXT` vs `СОΝТЕХТ`
+
+## Glyph improvements
+
+- [ ] Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
+- [ ] Adjust position of underscore so it fits in somewhere in between x-height baseline and capitals baseline
+- [ ] Set parameters for position and size of the underline
 
 ## Webfonts
 
-- [ ] Automate build subsets with a limited character set to reduce the size of the downloads
-
-## Maintenance
-
-- [ ] Set parameters for position and size of the underline
+- [ ] Automatically build subsets with a limited character set to reduce the size of the webfont downloads
