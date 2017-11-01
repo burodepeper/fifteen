@@ -2,12 +2,15 @@
 
 ## Kerning
 
-- [ ] `□■`
+- [x] `□■`
 - [x] `L_F` vs `L_T` vs `L_Y` vs `L_V` (SOCIAL_VIMEO)
 - [x] `m/u` vs `r/s`
 - [x] `AA` as in `ROOSEGAARDE`
 - [x] `llb` as in `fallback`
 - [x] `IN` as in `POINTS` or `MEETING`
+- [x] `OJ` as in PROJECT
+- [x] `ST` as in HOSTNAME
+- [ ] `Di` and `Da` as in Display and Daan
 
 ## Alternate glyphs
 
@@ -18,23 +21,23 @@
 
 ## Improve distinction between ASCII characters and Cyrillic/Greek
 
-- [ ] `A` vs `А`
-- [ ] `B` vs `В`
-- [ ] `E` vs `Е`
+- [x] `A` vs `А`
+- [x] `B` vs `В`
+- [x] `E` vs `Е`
 - [ ] `3` vs `З`
-- [ ] `K` vs `К`
-- [ ] `M` vs `М`
-- [ ] `N` vs `Ν`
-- [ ] `H` vs `Н`
+- [x] `K` vs `К`
+- [x] `M` vs `М`
+- [x] `N` vs `Ν`
+- [x] `H` vs `Н`
 - [ ] `O` vs `О`
-- [ ] `P` vs `Р`
+- [x] `P` vs `Р`
 - [ ] `C` vs `С`
-- [ ] `T` vs `Т`
-- [ ] `X` vs `Х`
-- [ ] `Y` vs `Υ`
+- [x] `T` vs `Т`
+- [x] `X` vs `Х`
+- [x] `Y` vs `Υ`
 - [ ] `S` vs `Ѕ`
-- [ ] `Z` vs `Ζ`
-- [ ] `I` vs `Ι`
+- [x] `Z` vs `Ζ`
+- [x] `I` vs `Ι`
 - [ ] `a` vs `α` vs `а`
 - [ ] `e` vs `е`
 - [ ] `o` vs `о`
@@ -46,6 +49,7 @@
 - [ ] `j` vs `ј`
 - [ ] `y` vs `у` vs `У`
 - [ ] `u` vs `υ`
+- [ ] `∪` union vs `u` ASCII-u
 - [ ] Add example to demo page: `CONTEXT` vs `СОΝТЕХТ`
 
 ## Glyph improvements

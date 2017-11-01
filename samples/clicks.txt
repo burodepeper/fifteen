@@ -1,0 +1,66 @@
+Sources:
+- https://en.wikipedia.org/wiki/Dental_clicks
+- https://en.wikipedia.org/wiki/Lateral_clicks
+- https://en.wikipedia.org/wiki/Palatal_clicks
+- https://en.wikipedia.org/wiki/Retroflex_clicks
+- https://en.wikipedia.org/wiki/Alveolar_clicks
+
+DENTAL CLICKS
+
+Zulu	icici	[iːǀíːǀi] = [iːʇíːʇi]	earring
+ukuchaza	[úɠuˈǀʰáːza̤] = [úɠuˈʇʰáːza̤]	to fascinate
+isigcino	[ísiᶢǀʱǐ̤ːno] = [ísiʇ̬ʱǐ̤ːno]	end
+incwancwa	[iᵑǀwáːᵑǀwa] = [iʇ̃wáːʇ̃wa]	sour corn meal
+ingcosi	[iᵑǀʱǒ̤ːsi] = [iʇ̃ʱǒ̤ːsi]	a bit
+Hadza	cinambo	[ǀinambo] = [ʇinambo]	firefly
+cheta	[ǀʰeta] = [ʇʰeta]	to be happy
+minca	[miᵑǀa] = [miʇ̃a]	to smack one's lips
+tacce	[taᵑǀˀe] = [taʇ̃ˀe]	rope
+Khoekhoe	ǀgurub	[ǀȕɾȕp] = [ʇȕɾȕp]	dry autumn leaves
+ǀnam	[ǀnȁm̀] = [ʇ̃ȁm̀]	to love
+ǀHōǂgaeb	[ᵑ̊ǀʰȍòǂàè̯p] = [ʇ̥̃ʰȍòǂàè̯p]	November
+ǀoroǀoro	[ᵑǀˀòɾőᵑǀˀòɾȍ] = [ʇ̃ˀòɾőʇ̃ˀòɾȍ]	to wear s.t. out
+ǀkhore	[ǀ͡χòɾe̋] = [ʇ͡χòɾe̋]	to divine, prophesize
+
+LATERAL CLICKS
+
+ǃKung	nǁan	[ᵑǁàŋ] = [ʖ̃àŋ]	'marama bean'
+Hadza	exekeke	[ʔeǁekeke] = [ʔeʖekeke]	'to listen'
+naxhi	[naǁʰi] = [naʖʰi]	'to crowd'
+konxa	[koᵑǁa] = [koʖ̃a]	'to be a pair'
+slaxxa	[ɬaᵑǁˀa] = [ɬaʖ̃ˀa]	'a split, fork'
+Xhosa	isiXhosa	[isiǁʰosa] = [isiʖʰosa]	'Xhosa language'	Contrasts tenuis, murmured, aspirated, and nasal lateral clicks.
+!Xóõ	ǁnáã	[ᵑǁɑ́ɑ̃] = [ʖ̃ɑ́ɑ̃]	'grewia berry'
+Zulu	xoxa	[ǁɔ́ːǁa] = [ʖɔ́ːʖa]	'to converse'
+
+PALATAL CLICKS
+
+Khoekhoe	ǂKhoesaob	ǂ͡χòe̯̋sàȍ̯p	July
+Taa	ǂnûm	ᵑǂûm = ǂ̃ûm	two
+ǂHaba	ǂHaba	ǂʰabá	(endonym)
+Naro	tcháó-kg'am
+(çháó-kg'am)	ǂʰáó̯kχʼam	to be disappointed
+Yeyi		kuǂʔapara	to smash up
+
+RETROFLEX CLICKS
+
+/ǃ̬˞ ˡú/ (g‼ú)
+
+ALVEOLAR CLICKS
+
+!Kung	nǃan	[ᵑǃáŋ] = [ʗ̃áŋ]	'inside'
+Hadza	laqo	[laǃo] = [laʗo]	'to trip'
+keqhena	[keǃʰena] = [keʗʰena]	'to be slow'
+henqee	[ɦeᵑǃeʔe] = [ɦeʗ̃eʔe]	'dead leopard'
+teqqe	[teᵑǃˀe] = [teʗ̃ˀe]	'to carry'
+Sandawe	gqokomi	[ǃ̬okomi] = [ʗ̬okomi]	'greater kudu'	may have a slapped release: [ǃ̬͡¡okomi] = [ʗ̬͡¡okomi]
+Sotho	ho qoqa	[hoǃɔǃɑ] = [hoʗɔʗɑ]	'to examine'	Contrasts with murmured, aspirated, and alveolar nasal clicks. See Sotho phonology
+Xhosa	iqanda	[iǃanda] = [iʗanda]	'egg'	Contrasts with murmured, aspirated, and alveolar nasal clicks
+ǃXóõ	ǃqhàà	[ǃ͡qʰɑ̀ː] = [ʗ͡qʰɑ̀ː]	'water'	An aspirated linguo-pulmonic stop
+Zulu	iqaqa	[iːǃáːǃa] = [iːʗáːʗa]	'polecat'	Contrasts with murmured, aspirated, and alveolar nasal clicks.
+
+BILABIAL CLICKS
+
+ǂHoan	ʘoa	'two'
+Damin	m!i	ʘ̃i	'vegetable'
+Taa	ʘàa	'child'

@@ -1,0 +1,59 @@
+function () {
+function() {
+function(){
+
+function(alpha, beta)
+function(GAMMA, DELTA)
+function("epsilon", "dzeta")
+function('eta', 'theta')
+function(`iota`, `${kappa}`)
+function(567, 890)
+function([one, two, three])
+function({ "key": value })
+function((a, b) => { return (function(a, b) {})()})
+function(() => { method(); })
+function(()=>{method()})
+(function(()=>{method()}))();
+
+f(x, y = 42, ...z)
+f(x+y)
+f(x + y)
+f(!condition)
+f(!(function())){}
+Class.method();
+Class::method();
+Class->method();
+def function(self):
+
+[one, two, three]
+[123, 456, 789]
+["apples", "bananas"]
+[{ name: "Alice" }, { name: "Bob" }]
+matches[2].method()
+matches["index"]->function()
+
+for ($i = 0; $i < count($num); $i++) {
+[Symbol.iterator]() {
+const { previous, next } = getItems(-1, 1);
+let [r, g, b] = separateColorValues("#0033CC");
+[...fibonacci(1000)]
+]).then(data => {
+
+(()) ({}) ([])
+{()} {{}} {[]}
+[()] [{}] [[]]
+(+) (-) (=) (->) (<-) (<>) (=>) (<=) ()-> ()=> (|)
+[+] [-] [=] [->] [<-] [<>] [=>] [<=] []-> []=> [|]
+{+} {-} {=} {->} {<-} {<>} {=>} {<=} {}-> {}=> {|}
+().() (); (),() ().method
+[].[] []; [],[] [].method
+{}.{} {}; {},{} {}.method
+
+:-) :) :( ;) ;-)
+
+/([a-zA-Z0-9]+)/
+/([a-zA-Z0-9])/
+/([a-zA-Z0-9]{3,})/
+/([a-zA-Z0-9]{2,5})/
+/(\s\d{3})/
+/\{%(TEXT|MARKDOWN):([^%]+)%\}/
