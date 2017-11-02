@@ -2,7 +2,10 @@
 
 ## Kerning
 
-- [ ] `Di` and `Da` as in Display and Daan
+- [ ] `iv` in `Jived`
+- [ ] `ex` in `vexingly`
+- [ ] `rød` in `Blåbærgrød`
+- [ ] `vl` in `vlakbij`
 
 ## Alternate glyphs
 
