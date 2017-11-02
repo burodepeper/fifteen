@@ -10,7 +10,11 @@
 - [x] `IN` as in `POINTS` or `MEETING`
 - [x] `OJ` as in PROJECT
 - [x] `ST` as in HOSTNAME
-- [ ] `Di` and `Da` as in Display and Daan
+- [x] `Di` and `Da` as in Display and Daan
+- [ ] `iv` in `Jived`
+- [ ] `ex` in `vexingly`
+- [ ] `rød` in `Blåbærgrød`
+- [ ] `vl` in `vlakbij`
 
 ## Alternate glyphs
 
