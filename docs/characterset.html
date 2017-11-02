@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="initial-scale=1, user-scalable=no">
+    <title>fifteen | character set</title>
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/fifteen/build/web/Fifteen-Web.full.css'>
+    <link rel='stylesheet' href='reset.css'>
+    <link rel='stylesheet' href='styles.css'>
+    <style type='text/css'>
+    .wrapper {
+      width: 655px;
+    }
+
+    .letter-header {
+      font-size: 30px;
+      line-height: 1.33333;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    .letters + .letter-header {
+      margin-top: 30px;
+    }
+
+    .letter-box {
+      background: #f2f2f2;
+      display: inline-block;
+      margin: 0 1px 15px 0;
+      text-align: center;
+      width: 40px;
+      font-family: "Fifteen";
+      font-weight: 400;
+    }
+
+      .letter-box:nth-child(16n) {
+        margin-right: 0;
+      }
+
+    .letter {
+      font-size: 30px;
+      line-height: 1.33333;
+      background: #e5e5e5;
+    }
+
+      .excluded.letter-box .letter {
+        color: rgba(0, 0, 0, 0.1);
+        background: transparent;
+      }
+
+    .label {
+      font-size: 15px;
+      line-height: 1.5;
+      padding: 0 5px;
+      color: rgba(0, 0, 0, 0.5);
+    }
+
+      .excluded.letter-box .label {
+        color: rgba(0, 0, 0, 0.1);
+      }
+    </style>
+  </head>
+  <body>
+    <div class='wrapper'>
+      <div class='block' id='characters'></div>
+    </div>
+    <script>
+
+    const ranges = [
+      ['0020', '007f', 'Basic Latin'],
+      ['0080', '00ff', 'Latin-1 Supplement'],
+      ['0100', '017f', 'Latin Extended-A'],
+      // ['0180', '024f', 'Latin Extended-B'],
+      // ['0250', '02af', 'IPA Extensions'],
+      // ['02b0', '02ff', 'Spacing Modifier Letters'],
+      ['0370', '03ff', 'Greek and Coptic'],
+      ['0400', '04ff', 'Cyrillic'],
+      // ['0500', '052f', 'Cyrillic Supplement'],
+      // ['1d00', '1d7f', 'Phonetic Extensions'],
+      // ['1d80', '1dbf', 'Phonetic Extensions Supplement'],
+      // ['1e00', '1eff', 'Latin Extended Additional'],
+      ['2000', '206f', 'General Punctuation'],
+      ['2070', '209f', 'Superscripts and Subscripts'],
+      ['20a0', '20cf', 'Currency Symbols'],
+      ['2100', '214f', 'Letterlike Symbols'],
+      ['2150', '218f', 'Number Forms'],
+      ['2190', '21ff', 'Arrows'],
+      ['2200', '22ff', 'Mathematical Operators'],
+      ['2300', '23ff', 'Miscellaneous Technical'],
+      // ['2400', '243f', 'Control Pictures'],
+      ['2500', '257f', 'Box Drawing'],
+      ['2580', '259f', 'Block Elements'],
+      ['25a0', '25ff', 'Geometric Shapes'],
+      ['2600', '26ff', 'Miscellaneous Symbols'],
+      // ['2700', '27bf', 'Dingbats'],
+      // ['27c0', '27ef', 'Miscellaneous Mathematical Symbols-A'],
+      ['27f0', '27ff', 'Supplemental Arrows-A'],
+      // ['2900', '297f', 'Supplemental Arrows-B'],
+      // ['2980', '29ff', 'Miscellaneous Mathematical Symbols-B'],
+      // ['2a00', '2aff', 'Supplemental Mathematical Operators'],
+      // ['2b00', '2bff', 'Miscellaneous Symbols and Arrows'],
+      // ['2c60', '2c7f', 'Latin Extended-C'],
+      // ['2e00', '2e7f', 'Supplemental Punctuation'],
+      // ['a720', 'a7ff', 'Latin Extended-D'],
+      // ['ab30', 'ab6f', 'Latin Extended-E']
+    ]
+
+    const exclude = [
+      ['0020', '007f'],
+      ['0081', '008d', '008f', '0090', '009d', '00a0', '00ad'],
+      ['0370-0383', '038b', '038d', '03a2', '03d0-03ff'],
+      ['0460-04ff'],
+      ['2000-200f', '2028-202f', '205f-206f'],
+      ['2072-2073', '208f', '209d-209f'],
+      ['20bb', '20c0-20cf'],
+      ['210b', '210c', '210e', '210f', '2110-2112', '2118', '211b', '211c', '211f', '2123', '2128', '212c', '212d', '2130', '2131', '2133', '2135-2138', '213d', '214c', '214f'],
+      ['2187-2188', '218a-218f'],
+      ['2397-23b9'],
+      ['23f0-23f7', '23fb-23ff'],
+      ['2600-2604', '260e-260f', '2614-2615', '2618-261f', '262b', '262c', '2648-265f', '2661', '2662', '2664', '2667', '2670-2679', '267c-267d', '2692-2698', '269a', '269d', '26aa-26ab', '26b0-26b1', '26b9-26d3', '26d5-26e1', '26e3-26ff']
+    ]
+
+    const container = document.getElementById('characters')
+
+    for (const range in ranges) {
+      let [begin, end, name] = ranges[range]
+      begin = parseInt(begin, 16)
+      end = parseInt(end, 16)
+
+      const subheader = document.createElement('div')
+      subheader.classList.add('letter-header')
+      subheader.textContent = name
+      container.appendChild(subheader)
+
+      const letters = document.createElement('div')
+      letters.classList.add('letters')
+      container.appendChild(letters)
+
+      for (let i = begin; i <= end; i++) {
+        const unicode = i.toString(16).padStart(4, '0')
+
+        const letter = document.createElement('div')
+        letter.classList.add('letter')
+        letter.innerHTML = '&#x' + unicode
+
+        const label = document.createElement('div')
+        label.classList.add('label')
+        label.textContent = unicode
+
+        const letterBox = document.createElement('span')
+        letterBox.classList.add('letter-box')
+
+        for (let e in exclude) {
+          let tokens = exclude[e]
+
+          for (let filter in tokens) {
+            filter = tokens[filter]
+            if (filter.length === 9) {
+              const [excludeFrom, excludeTo] = filter.split('-')
+              if (unicode >= excludeFrom && unicode <= excludeTo) {
+                letterBox.classList.add('excluded')
+              }
+            } else {
+              if (unicode === filter) {
+                letterBox.classList.add('excluded')
+              }
+            }
+          }
+        }
+
+        letterBox.appendChild(letter)
+        letterBox.appendChild(label)
+        letters.appendChild(letterBox)
+      }
+    }
+
+    </script>
+  </body>
+</html>
