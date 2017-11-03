@@ -100,13 +100,14 @@
 @lc_o: cdeoq
 @lc_f: f
 @lc_g: g
-@lc_i: ijt
+@lc_i: ij
 @lc_l: l
 @lc_n: mnr
 @lc_p: p
 @lc_s: s
+@lc_t: t
 @lc_u: u
 @lc_v: vw
 @lc_x: x
-@kc_y: y
+@lc_y: y
 @lc_z: z
