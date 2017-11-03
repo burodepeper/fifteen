@@ -1,17 +1,18 @@
 # TODO
 
+## Bugs
+
+- [ ] Verify whether Chrome ignores (negative) kerning in consecutive inline elements, i.e. <span>r</span><span>.</span>. Otherwise, it is a bug in Atom.
+
 ## Kerning
 
-- [ ] `iv` in `Jived`
-- [ ] `ex` in `vexingly`
-- [ ] `rød` in `Blåbærgrød`
-- [ ] `vl` in `vlakbij`
+- [ ] ...
 
 ## Alternate glyphs
 
 - [ ] `a`: circle with small stem
 - [x] `g`: old-fashioned g
-- [ ] `0`: filled, similar to the one in Hack
+- [x] `0`: filled, similar to the one in Hack
 - [ ] `0`: with a period inside
 
 ## Improve distinction between ASCII characters and Cyrillic/Greek
@@ -39,7 +40,7 @@
 - [ ] Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
 - [ ] Adjust position of underscore so it fits in somewhere in between x-height baseline and capitals baseline
 - [ ] Set parameters for position and size of the underline
-- [x] Box Drawing and Block Elements in 10:15 grid
+- [ ] Box Drawing in 10:15 grid
 
 ## Webfonts
 
