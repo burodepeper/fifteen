@@ -6,7 +6,34 @@
 
 ## Kerning
 
-- [ ] ...
+- [ ] Eva
+- [ ] ASTO
+- [ ] BISTÅ
+- [ ] CHŁONNOŚĆ
+- [ ] CZUŁOŚĆ
+- [ ] ÉLJAGANGUR
+- [ ] HLÝDDI
+- [ ] JÆTTESTUE
+- [ ] KJAFTSTOPP
+- [ ] KRVAV
+- [ ] ŁUBUDU
+- [ ] LUNEDÌ
+- [ ] ŁYKO
+- [ ] LYXVILLOR
+- [ ] MÅGEHØG
+- [ ] SÁTTATILLAGA
+- [ ] TÖLVUÞRJÓTUR and ALVEOLAR
+- [ ] ÞVAG
+- [ ] Glib
+- [ ] quiz
+- [ ] Quiz
+- [ ] ďábelské
+- [ ] Doch
+- [ ] Taxi
+- [ ] Falsches
+- [ ] Paß
+- [ ] Kæmi
+- [ ]
 
 ## Alternate glyphs
 
