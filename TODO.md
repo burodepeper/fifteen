@@ -1,5 +1,30 @@
 # TODO
 
+## Character development (hehe)
+
+Generally, I do not tend to work very structured, so every subset contains characters I'm not entirely satisfied with. The list below contains the areas that still need 'real' work.
+
+- [ ] Italics
+- [ ] Greek
+  - [ ] `epsilon` (U+03B5)
+  - [ ] `kaiSymbol` (U+03D7) and `KaiSymbol` (U+03CF)
+  - [ ] Kerning
+- [ ] Cyrillic
+  - [ ] `U-cy` (U+0423)
+  - [ ] `ze-cy` (U+0437)
+  - [ ] Kerning
+- [ ] Currency Symbols
+- [ ] Letterlike Symbols
+- [ ] Number Forms
+- [ ] Arrows
+- [ ] Mathematical Operators
+- [ ] Miscellaneous Technical
+- [ ] Box Drawing
+- [ ] Block Elements
+- [ ] Geometric Shapes
+- [ ] Miscellaneous Symbols
+- [ ] Supplemental Arrows-A
+
 ## Bugs
 
 - [ ] Verify whether Chrome ignores (negative) kerning in consecutive inline elements, i.e. <span>r</span><span>.</span>. Otherwise, it is a bug in Atom.
@@ -33,7 +58,7 @@
 - [ ] Falsches
 - [ ] Paß
 - [ ] Kæmi
-- [ ]
+- [ ] Atom
 
 ## Alternate glyphs
 
