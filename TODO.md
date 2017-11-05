@@ -15,7 +15,7 @@ Generally, I do not tend to work very structured, so every subset contains chara
   - [ ] Kerning
 - [ ] Currency Symbols
 - [ ] Letterlike Symbols
-- [ ] Number Forms
+- [x] Number Forms
 - [ ] Arrows
 - [ ] Mathematical Operators
 - [ ] Miscellaneous Technical
@@ -30,6 +30,8 @@ Generally, I do not tend to work very structured, so every subset contains chara
 - [ ] Verify whether Chrome ignores (negative) kerning in consecutive inline elements, i.e. <span>r</span><span>.</span>. Otherwise, it is a bug in Atom.
 
 ## Kerning
+
+A list of awkward kerning pairs I come across during my digital travels.
 
 - [ ] Eva
 - [ ] ASTO
@@ -63,36 +65,12 @@ Generally, I do not tend to work very structured, so every subset contains chara
 ## Alternate glyphs
 
 - [ ] `a`: circle with small stem
-- [x] `g`: old-fashioned g
-- [x] `0`: filled, similar to the one in Hack
 - [ ] `0`: with a period inside
 
-## Improve distinction between ASCII characters and Cyrillic/Greek
+## General improvements / experiments
 
-- [ ] `3` vs `З`
-- [ ] `O` vs `О`
-- [ ] `C` vs `С`
-- [ ] `S` vs `Ѕ`
-- [ ] `a` vs `α` vs `а`
-- [ ] `e` vs `е`
-- [ ] `o` vs `о`
-- [ ] `p` vs `р` vs `ρ`
-- [ ] `c` vs `с`
-- [ ] `x` vs `х`
-- [ ] `s` vs `ѕ`
-- [ ] `i` vs `ι` vs `ί` vs `і`
-- [ ] `j` vs `ј`
-- [ ] `y` vs `у` vs `У`
-- [ ] `u` vs `υ`
-- [ ] `∪` union vs `u` ASCII-u
-- [ ] Add example to demo page: `CONTEXT` vs `СОΝТЕХТ`
-
-## Glyph improvements
-
-- [ ] Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
-- [ ] Adjust position of underscore so it fits in somewhere in between x-height baseline and capitals baseline
+- [ ] Experiment: Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
 - [ ] Set parameters for position and size of the underline
-- [ ] Box Drawing in 10:15 grid
 
 ## Webfonts
 
@@ -100,7 +78,7 @@ Generally, I do not tend to work very structured, so every subset contains chara
 
 -----
 
-# KERNING
+# KERNING PAIRS, work in progress
 
 ## RIGHT
 
