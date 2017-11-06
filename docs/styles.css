@@ -68,31 +68,38 @@ strong {
   margin: 0 auto;
 }
 
-  .weights.sample .thin {
+  .weights.sample .thin,
+  .weight-100 {
     font-weight: 100;
   }
 
-  .weights.sample .extra-light {
+  .weights.sample .extra-light,
+  .weight-200 {
     font-weight: 200;
   }
 
-  .weights.sample .light {
+  .weights.sample .light,
+  .weight-300 {
     font-weight: 300;
   }
 
-  .weights.sample .regular {
+  .weights.sample .regular,
+  .weight-400 {
     font-weight: 400;
   }
 
-  .weights.sample .medium {
+  .weights.sample .medium,
+  .weight-500 {
     font-weight: 500;
   }
 
-  .weights.sample .semi-bold {
+  .weights.sample .semi-bold,
+  .weight-600 {
     font-weight: 600;
   }
 
-  .weights.sample .bold {
+  .weights.sample .bold,
+  .weight-700 {
     font-weight: 700;
   }
 
