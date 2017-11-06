@@ -15,7 +15,6 @@ Generally, I do not tend to work very structured, so every subset contains chara
   - [ ] Kerning
 - [ ] Currency Symbols
 - [ ] Letterlike Symbols
-- [x] Number Forms
 - [ ] Arrows
 - [ ] Mathematical Operators
 - [ ] Miscellaneous Technical
@@ -33,34 +32,7 @@ Generally, I do not tend to work very structured, so every subset contains chara
 
 A list of awkward kerning pairs I come across during my digital travels.
 
-- [ ] Eva
-- [ ] ASTO
-- [ ] BISTÅ
-- [ ] CHŁONNOŚĆ
-- [ ] CZUŁOŚĆ
-- [ ] ÉLJAGANGUR
-- [ ] HLÝDDI
-- [ ] JÆTTESTUE
-- [ ] KJAFTSTOPP
-- [ ] KRVAV
-- [ ] ŁUBUDU
-- [ ] LUNEDÌ
-- [ ] ŁYKO
-- [ ] LYXVILLOR
-- [ ] MÅGEHØG
-- [ ] SÁTTATILLAGA
-- [ ] TÖLVUÞRJÓTUR and ALVEOLAR
-- [ ] ÞVAG
-- [ ] Glib
-- [ ] quiz
-- [ ] Quiz
-- [ ] ďábelské
-- [ ] Doch
-- [ ] Taxi
-- [ ] Falsches
-- [ ] Paß
-- [ ] Kæmi
-- [ ] Atom
+- [ ] ...
 
 ## Alternate glyphs
 
