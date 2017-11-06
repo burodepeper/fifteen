@@ -32,7 +32,38 @@ Generally, I do not tend to work very structured, so every subset contains chara
 
 A list of awkward kerning pairs I come across during my digital travels.
 
-- [ ] ...
+- [ ] bęcwał
+- [ ] beijing
+- [ ] bezład
+- [ ] bødestraf
+- [ ] burggraaf
+- [ ] chłonność
+- [ ] ciselør
+- [ ] czułość
+- [ ] dhidi
+- [ ] drieërlei
+- [ ] eðlisfræði
+- [ ] einkaaðili
+- [ ] fußballländerspiel
+- [ ] halløj
+- [ ] hlátrasköll
+- [ ] igiełka
+- [ ] ijsvrij
+- [ ] indywiduum
+- [ ] määräilijä
+- [ ] mämmi
+- [ ] Mjini
+- [ ] mułła
+- [ ] nedløbsrør
+- [ ] odpływ
+- [ ] pług
+- [ ] polyvinvyl
+- [ ] rååål
+- [ ] skilji
+- [ ] töölö
+- [ ] upplýsingatækni
+- [ ] þangað
+- [ ] kaiSymbol
 
 ## Alternate glyphs
 
