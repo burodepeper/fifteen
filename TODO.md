@@ -9,10 +9,6 @@ Generally, I do not tend to work very structured, so every subset contains chara
   - [ ] `epsilon` (U+03B5)
   - [ ] `kaiSymbol` (U+03D7) and `KaiSymbol` (U+03CF)
   - [ ] Kerning
-- [ ] Cyrillic
-  - [ ] `U-cy` (U+0423)
-  - [ ] `ze-cy` (U+0437)
-  - [ ] Kerning
 - [ ] Currency Symbols
 - [ ] Letterlike Symbols
 - [ ] Arrows
@@ -67,6 +63,8 @@ A list of awkward kerning pairs I come across during my digital travels.
 - [ ] Где
 - [ ] Также
 - [ ] МакКлинток
+- [ ] getMainText
+- [ ] Чайковский (Tchaikovsky)
 
 ## Alternate glyphs
 
