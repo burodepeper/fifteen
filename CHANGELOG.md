@@ -10,3 +10,4 @@
 - Enlarged `ringcomb` and `ringcombbelow` for improved readability at small sizes
 - Completed _Latin Extended Additional_ subset, except for U+1EFA to U+1EFF
 - Improved kerning
+- Added remaining _Arrows_ weight variants
