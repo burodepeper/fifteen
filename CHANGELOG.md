@@ -11,3 +11,4 @@
 - Completed _Latin Extended Additional_ subset, except for U+1EFA to U+1EFF
 - Improved kerning
 - Added remaining _Arrows_ weight variants
+- Added remaining _Block Elements_ weights variants
