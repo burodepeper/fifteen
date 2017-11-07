@@ -64,6 +64,9 @@ A list of awkward kerning pairs I come across during my digital travels.
 - [ ] upplýsingatækni
 - [ ] þangað
 - [ ] kaiSymbol
+- [ ] Где
+- [ ] Также
+- [ ] МакКлинток
 
 ## Alternate glyphs
 
@@ -74,6 +77,7 @@ A list of awkward kerning pairs I come across during my digital travels.
 
 - [ ] Experiment: Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
 - [ ] Set parameters for position and size of the underline
+- [ ] Add anchors specific for `cedilla` so glyphs like `Ḩ` (U+1E28) and `ḩ` (U+1E29) can be automatically aligned
 
 ## Webfonts
 
