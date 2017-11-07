@@ -12,15 +12,49 @@
       width: 655px;
     }
 
+    .block {}
+
+      .block + .block {
+        margin-top: 60px;
+      }
+
+    #interface {
+      position: sticky;
+      top: 0; left: 0; right: 0;
+      background: #fff;
+    }
+
+      .widget {
+        position: relative;
+      }
+
+        .weight-watcher {
+          padding: 10px 0;
+        }
+
+        .weight-watcher ul {
+          display: flex;
+          justify-content: center;
+        }
+
+        .weight-watcher li {
+
+        }
+
+        .weight-watcher li:not(:last-child) {
+          margin-right: 20px;
+        }
+
     .letter-header {
       font-size: 30px;
       line-height: 1.33333;
       margin-bottom: 15px;
       text-align: center;
+      font-weight: 400;
     }
 
     .letters + .letter-header {
-      margin-top: 30px;
+      margin-top: 45px;
     }
 
     .letter-box {
@@ -30,7 +64,7 @@
       text-align: center;
       width: 40px;
       font-family: "Fifteen Web", "Fifteen", "Times New Roman", serif;;
-      font-weight: 400;
+      /*font-weight: 400;*/
     }
 
       .letter-box:nth-child(16n) {
@@ -53,6 +87,7 @@
       line-height: 1.5;
       padding: 0 5px;
       color: rgba(0, 0, 0, 0.5);
+      font-weight: 400;
     }
 
       .excluded.letter-box .label {
@@ -62,6 +97,7 @@
   </head>
   <body>
     <div class='wrapper'>
+      <div class='block interface' id='interface'></div>
       <div class='block' id='characters'></div>
     </div>
     <script>
@@ -176,6 +212,13 @@
       }
     }
 
+    const weights = [100, 200, 300, 400, 500, 600, 700]
+
+    </script>
+
+    <script src='js/weight-watcher.js'></script>
+    <script>
+    new WeightWatcher()
     </script>
   </body>
 </html>
