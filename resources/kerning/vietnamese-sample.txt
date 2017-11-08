@@ -32,3 +32,11 @@ The abstract of a scientific paper.  (Prepared by Raphaël Montelatici.)
  tương thích với ngôn ngữ ban đầu, và các đặc tính lập trình chuyên sâu
  của nó (các giá trị hàm, các ngoại lệ, các modules tham biến hóa, các
  đối tượng).
+
+---
+Trăm năm trong cõi người ta,
+Chữ tài chữ mệnh khéo là ghét nhau.
+Trải qua một cuộc bể dâu,
+Những điều trông thấy mà đau đớn lòng.
+Lạ gì bỉ sắc tư phong,
+Trời xanh quen thói má hồng đánh ghen.
