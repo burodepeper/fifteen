@@ -4,6 +4,7 @@
 
 Generally, I do not tend to work very structured, so every subset contains characters I'm not entirely satisfied with. The list below contains the areas that still need 'real' work.
 
+- [ ] Larger diacritics, larger distance from parent character
 - [ ] Italics
 - [ ] Greek
   - [ ] `epsilon` (U+03B5)

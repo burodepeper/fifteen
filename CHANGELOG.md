@@ -12,3 +12,5 @@
 - Improved kerning
 - Added remaining _Arrows_ weight variants
 - Added remaining _Block Elements_ weights variants
+- [WIP] Enlarged diacritics and cleaned up comb glyphs
+- Added Glyphs.app filters in /resources/filters
