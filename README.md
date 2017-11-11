@@ -46,6 +46,7 @@ Check the [TODO](https://github.com/burodepeper/fifteen/tree/master/TODO.md) for
 ### Known issues
 
 - Glyphs with (complex) diacritics will most likely be clipped in certain software, especially on Windows.
+- Many text editors do not support kerning in proportionally sized fonts.
 
 ---
 
