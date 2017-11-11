@@ -14,3 +14,4 @@
 - Added remaining _Block Elements_ weights variants
 - [WIP] Enlarged diacritics and cleaned up comb glyphs
 - Added Glyphs.app filters in /resources/filters
+- Added _Supplemental Arrows-A_ subset

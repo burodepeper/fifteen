@@ -1,0 +1,16 @@
+anticlockwiseGappedCircleArrow
+clockwiseGappedCircleArrow
+upQuadrupleArrow
+downQuadrupleArrow
+rightCircledPlusArrow
+leftLongArrow
+rightlongArrow
+leftRightLongArrow
+leftLongDoubleArrow
+rightLongDoubleArrow
+leftRightLongDoubleArrow
+leftLongFromBarArrow
+rightLongFromBarArrow
+leftLongDoubleFromBarArrow
+rightLongDoubleFromBarArrow
+rightLongSquiggleArrow
