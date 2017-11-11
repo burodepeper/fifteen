@@ -1,7 +1,7 @@
 {
 .appVersion = "1082";
 copyright = "Copyright © 2017 by David van Gemeren. All rights reserved.";
-date = "2017-11-08 09:50:16 +0000";
+date = "2017-11-11 00:28:23 +0000";
 designer = "David van Gemeren";
 designerURL = "https://www.burodepeper.nl";
 familyName = Fifteen;
@@ -33,6 +33,14 @@ value = -400;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -150;
 }
 );
 descender = -400;
@@ -81,6 +89,14 @@ value = -400;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -150;
 }
 );
 descender = -400;
@@ -127,6 +143,14 @@ value = -400;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = underlineThickness;
+value = 150;
+},
+{
+name = underlinePosition;
+value = -150;
 }
 );
 descender = -400;
@@ -154,7 +178,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2017-11-07 10:32:58 +0000";
+lastChange = "2017-11-11 00:24:37 +0000";
 layers = (
 {
 anchors = (
@@ -23524,7 +23548,7 @@ unicode = 2184;
 {
 color = 5;
 glyphname = d;
-lastChange = "2017-11-10 17:19:06 +0000";
+lastChange = "2017-11-11 00:25:26 +0000";
 layers = (
 {
 components = (
@@ -27138,7 +27162,7 @@ unicode = 1E96;
 {
 color = 5;
 glyphname = i;
-lastChange = "2017-11-10 17:25:21 +0000";
+lastChange = "2017-11-11 00:25:26 +0000";
 layers = (
 {
 components = (
@@ -164959,7 +164983,7 @@ width = 300;
 {
 export = 0;
 glyphname = _shadedark;
-lastChange = "2017-11-11 00:13:31 +0000";
+lastChange = "2017-11-11 00:20:44 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -164967,10 +164991,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 825 LINE",
-"275 825 LINE",
-"275 1075 LINE",
-"25 1075 LINE"
+"0 1025 LINE",
+"0 875 LINE",
+"75 875 LINE",
+"75 800 LINE",
+"225 800 LINE",
+"225 875 LINE",
+"300 875 LINE",
+"300 1025 LINE",
+"225 1025 LINE",
+"225 1100 LINE",
+"75 1100 LINE",
+"75 1025 LINE"
 );
 }
 );
@@ -164982,10 +165014,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 825 LINE",
-"275 825 LINE",
-"275 1075 LINE",
-"25 1075 LINE"
+"0 1025 LINE",
+"0 875 LINE",
+"75 875 LINE",
+"75 800 LINE",
+"225 800 LINE",
+"225 875 LINE",
+"300 875 LINE",
+"300 1025 LINE",
+"225 1025 LINE",
+"225 1100 LINE",
+"75 1100 LINE",
+"75 1025 LINE"
 );
 }
 );
@@ -164997,10 +165037,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 825 LINE",
-"275 825 LINE",
-"275 1075 LINE",
-"25 1075 LINE"
+"0 1025 LINE",
+"0 875 LINE",
+"75 875 LINE",
+"75 800 LINE",
+"225 800 LINE",
+"225 875 LINE",
+"300 875 LINE",
+"300 1025 LINE",
+"225 1025 LINE",
+"225 1100 LINE",
+"75 1100 LINE",
+"75 1025 LINE"
 );
 }
 );

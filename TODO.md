@@ -16,7 +16,7 @@ Generally, I do not tend to work very structured, so every subset contains chara
 - [ ] Mathematical Operators
 - [ ] Miscellaneous Technical
 - [x] Box Drawing
-- [ ] Block Elements
+- [x] Block Elements
 - [ ] Geometric Shapes
 - [ ] Miscellaneous Symbols
 - [ ] Supplemental Arrows-A
@@ -39,7 +39,7 @@ A list of awkward kerning pairs I come across during my digital travels.
 ## General improvements / experiments
 
 - [ ] Experiment: Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
-- [ ] Set parameters for position and size of the underline
+- [x] Set parameters for position and size of the underline
 - [ ] Add anchors specific for `cedilla` so glyphs like `Ḩ` (U+1E28) and `ḩ` (U+1E29) can be automatically aligned
 
 ## Webfonts
