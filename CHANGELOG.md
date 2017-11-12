@@ -16,3 +16,4 @@
 - Added Glyphs.app filters in /resources/filters
 - Added _Supplemental Arrows-A_ subset
 - Added _Greek Extended_ subset
+- Added script to generate all ASCII pairs
