@@ -19,7 +19,7 @@ Generally, I do not tend to work very structured, so every subset contains chara
 - [x] Block Elements
 - [ ] Geometric Shapes
 - [ ] Miscellaneous Symbols
-- [ ] Supplemental Arrows-A
+- [x] Supplemental Arrows-A
 
 ## Bugs
 
