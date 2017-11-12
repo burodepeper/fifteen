@@ -15,3 +15,4 @@
 - [WIP] Enlarged diacritics and cleaned up comb glyphs
 - Added Glyphs.app filters in /resources/filters
 - Added _Supplemental Arrows-A_ subset
+- Added _Greek Extended_ subset
