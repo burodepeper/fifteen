@@ -17,3 +17,6 @@
 - Added _Supplemental Arrows-A_ subset
 - Added _Greek Extended_ subset
 - Added script to generate all ASCII pairs
+- Added _IPA Extensions_ subset
+- Added _Ogham_ subset
+- Added _Runic_ subset, only Regular so far
