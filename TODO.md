@@ -29,7 +29,7 @@ Generally, I do not tend to work very structured, so every subset contains chara
 
 A list of awkward kerning pairs I come across during my digital travels.
 
-- [ ] ...
+- [ ] `ig` in digital
 
 ## Alternate glyphs
 
