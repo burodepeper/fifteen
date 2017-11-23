@@ -1,5 +1,5 @@
 body {
-  font: 15px/20px "Fifteen-Web", sans-serif;
+  font: 15px/20px "Fifteen", "Fifteen-Web", sans-serif;
 }
 
 h1 {
@@ -23,7 +23,18 @@ a {
 
 strong {
   font-weight: 700;
-  text-decoration: underline;
+}
+
+em {
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+p + p {
+  margin-top: 20px;
 }
 
 .wrapper {
@@ -43,6 +54,13 @@ strong {
     margin-top: 10px;
   }
 
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  background: white;
+  padding: 10px 0;
+}
+
 .site-links {
   text-align: center;
 }
@@ -52,6 +70,10 @@ strong {
 }
 
 .sample {
+}
+
+.italic {
+  font-style: italic;
 }
 
 .large.sample {
