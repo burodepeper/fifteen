@@ -4,7 +4,7 @@
 
 Generally, I do not tend to work very structured, so every subset contains characters I'm not entirely satisfied with. The list below contains the areas that still need 'real' work.
 
-- [ ] Larger diacritics, larger distance from parent character
+- [x] Larger diacritics, larger distance from parent character
 - [ ] Italics
 - [ ] Greek
   - [ ] `epsilon` (U+03B5)
@@ -12,12 +12,12 @@ Generally, I do not tend to work very structured, so every subset contains chara
   - [ ] Kerning
 - [ ] Currency Symbols
 - [ ] Letterlike Symbols
-- [ ] Arrows
+- [x] Arrows
 - [ ] Mathematical Operators
 - [ ] Miscellaneous Technical
 - [x] Box Drawing
 - [x] Block Elements
-- [ ] Geometric Shapes
+- [x] Geometric Shapes
 - [ ] Miscellaneous Symbols
 - [x] Supplemental Arrows-A
 
@@ -44,7 +44,7 @@ A list of awkward kerning pairs I come across during my digital travels.
 
 ## Webfonts
 
-- [ ] Automatically build subsets with a limited character set to reduce the size of the webfont downloads
+- [x] Automatically build subsets with a limited character set to reduce the size of the webfont downloads
 
 -----
 
