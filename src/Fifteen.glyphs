@@ -1,10 +1,7 @@
 {
 .appVersion = "1089";
-DisplayStrings = (
-"autonomie teef\012Thin Italic\012Extra Light French\012Light Spanish\012Regular Dutch\012Medium Canadian\012Semibold American\012Bold German\012/Upsilon/Phi \012"
-);
 copyright = "Copyright © 2017 by David van Gemeren. All rights reserved.";
-date = "2017-11-11 00:28:23 +0000";
+date = "2017-11-24 02:15:28 +0000";
 designer = "David van Gemeren";
 designerURL = "https://www.burodepeper.nl";
 familyName = Fifteen;
@@ -181,7 +178,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2017-11-23 23:49:24 +0000";
+lastChange = "2017-11-24 02:11:22 +0000";
 layers = (
 {
 anchors = (
@@ -16342,7 +16339,7 @@ unicode = 024A;
 {
 color = 5;
 glyphname = R;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:10:39 +0000";
 layers = (
 {
 anchors = (
@@ -25648,7 +25645,7 @@ unicode = 028F;
 {
 color = 5;
 glyphname = a;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-24 02:12:20 +0000";
 layers = (
 {
 anchors = (
@@ -30282,7 +30279,7 @@ unicode = 023C;
 {
 color = 5;
 glyphname = d;
-lastChange = "2017-11-23 23:49:24 +0000";
+lastChange = "2017-11-24 02:11:22 +0000";
 layers = (
 {
 components = (
@@ -35256,7 +35253,7 @@ unicode = 01BA;
 {
 color = 5;
 glyphname = f;
-lastChange = "2017-11-23 23:50:43 +0000";
+lastChange = "2017-11-24 02:10:30 +0000";
 layers = (
 {
 anchors = (
@@ -35590,7 +35587,7 @@ unicode = 02A9;
 {
 color = 5;
 glyphname = g;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:10:34 +0000";
 layers = (
 {
 components = (
@@ -36827,7 +36824,7 @@ unicode = 021D;
 {
 color = 5;
 glyphname = h;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:10:34 +0000";
 layers = (
 {
 anchors = (
@@ -38335,7 +38332,7 @@ unicode = 0195;
 {
 color = 5;
 glyphname = i;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:12:50 +0000";
 layers = (
 {
 components = (
@@ -40886,7 +40883,7 @@ unicode = 029E;
 {
 color = 5;
 glyphname = l;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:10:34 +0000";
 layers = (
 {
 components = (
@@ -47194,7 +47191,7 @@ unicode = 0153;
 {
 color = 5;
 glyphname = p;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:10:34 +0000";
 layers = (
 {
 components = (
@@ -50404,7 +50401,7 @@ unicode = 017F;
 {
 color = 5;
 glyphname = t;
-lastChange = "2017-11-23 23:49:44 +0000";
+lastChange = "2017-11-24 02:11:00 +0000";
 layers = (
 {
 components = (
@@ -219870,10 +219867,10 @@ numbersign = 50;
 "@MMK_L_lc_f" = {
 "@MMK_R_-" = -100;
 "@MMK_R__" = -150;
-"@MMK_R_lc_a" = -50;
+"@MMK_R_lc_a" = -100;
 "@MMK_R_lc_b" = 50;
 "@MMK_R_lc_g" = -100;
-"@MMK_R_lc_i" = -50;
+"@MMK_R_lc_i" = -100;
 "@MMK_R_lc_l" = -150;
 "@MMK_R_lc_o" = -100;
 "@MMK_R_lc_s" = -50;
@@ -219955,6 +219952,7 @@ slash = -50;
 "@MMK_R_a" = -50;
 "@MMK_R_el-cy" = -50;
 "@MMK_R_lc_a" = -50;
+"@MMK_R_lc_f" = -50;
 "@MMK_R_lc_g" = -50;
 "@MMK_R_lc_i" = -100;
 "@MMK_R_lc_j" = -50;
@@ -220232,6 +220230,7 @@ slash = -50;
 };
 "@MMK_L_uc_C" = {
 "@MMK_R_-" = -100;
+"@MMK_R_lc_a" = -100;
 "@MMK_R_lc_b" = 50;
 "@MMK_R_lc_n" = 50;
 "@MMK_R_lc_o" = -50;
@@ -220275,6 +220274,7 @@ grave = -50;
 "@MMK_R_lc_n" = 50;
 "@MMK_R_lc_o" = -50;
 "@MMK_R_lc_s" = -50;
+"@MMK_R_lc_t" = -50;
 "@MMK_R_lc_v" = -50;
 "@MMK_R_period" = -50;
 "@MMK_R_uc_Eth" = -50;
@@ -220870,10 +220870,10 @@ numbersign = 50;
 "@MMK_L_lc_f" = {
 "@MMK_R_-" = -100;
 "@MMK_R__" = -150;
-"@MMK_R_lc_a" = -50;
+"@MMK_R_lc_a" = -100;
 "@MMK_R_lc_b" = 50;
 "@MMK_R_lc_g" = -100;
-"@MMK_R_lc_i" = -50;
+"@MMK_R_lc_i" = -100;
 "@MMK_R_lc_l" = -150;
 "@MMK_R_lc_o" = -100;
 "@MMK_R_lc_s" = -50;
@@ -220955,6 +220955,7 @@ slash = -50;
 "@MMK_R_a" = -50;
 "@MMK_R_el-cy" = -50;
 "@MMK_R_lc_a" = -50;
+"@MMK_R_lc_f" = -50;
 "@MMK_R_lc_g" = -50;
 "@MMK_R_lc_i" = -100;
 "@MMK_R_lc_j" = -50;
@@ -220978,7 +220979,6 @@ grave = -250;
 lambda = -200;
 lslash = -50;
 slash = -100;
-"@MMK_R_lc_f" = -50;
 };
 "@MMK_L_lc_q" = {
 "@MMK_R_-" = 50;
@@ -221241,6 +221241,7 @@ slash = -50;
 "@MMK_R_uc_O" = -50;
 grave = -50;
 slash = -50;
+"@MMK_R_lc_a" = -100;
 };
 "@MMK_L_uc_F" = {
 "@MMK_R_-" = -100;
@@ -221284,6 +221285,7 @@ grave = -50;
 "@MMK_R_uc_J" = -100;
 "@MMK_R_uc_O" = -50;
 grave = -100;
+"@MMK_R_lc_t" = -50;
 };
 "@MMK_L_uc_L" = {
 "@MMK_R_-" = -200;
@@ -221871,10 +221873,10 @@ numbersign = 50;
 "@MMK_L_lc_f" = {
 "@MMK_R_-" = -100;
 "@MMK_R__" = -150;
-"@MMK_R_lc_a" = -50;
+"@MMK_R_lc_a" = -100;
 "@MMK_R_lc_b" = 50;
 "@MMK_R_lc_g" = -100;
-"@MMK_R_lc_i" = -50;
+"@MMK_R_lc_i" = -100;
 "@MMK_R_lc_l" = -150;
 "@MMK_R_lc_o" = -100;
 "@MMK_R_lc_s" = -50;
@@ -221956,6 +221958,7 @@ slash = -50;
 "@MMK_R_a" = -50;
 "@MMK_R_el-cy" = -50;
 "@MMK_R_lc_a" = -50;
+"@MMK_R_lc_f" = -50;
 "@MMK_R_lc_g" = -50;
 "@MMK_R_lc_i" = -100;
 "@MMK_R_lc_j" = -50;
@@ -222233,6 +222236,7 @@ slash = -50;
 };
 "@MMK_L_uc_C" = {
 "@MMK_R_-" = -100;
+"@MMK_R_lc_a" = -100;
 "@MMK_R_lc_b" = 50;
 "@MMK_R_lc_n" = 50;
 "@MMK_R_lc_o" = -50;
@@ -222276,6 +222280,7 @@ grave = -50;
 "@MMK_R_lc_n" = 50;
 "@MMK_R_lc_o" = -50;
 "@MMK_R_lc_s" = -50;
+"@MMK_R_lc_t" = -50;
 "@MMK_R_lc_v" = -50;
 "@MMK_R_period" = -50;
 "@MMK_R_uc_Eth" = -50;
@@ -222699,5 +222704,5 @@ manufacturer = "David van Gemeren";
 manufacturerURL = "https://github.com/burodepeper";
 unitsPerEm = 1500;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }
