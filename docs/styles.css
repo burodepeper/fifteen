@@ -46,6 +46,12 @@ p + p {
   margin-bottom: 60px;
 }
 
+.block.image {}
+  .block.image img {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
 .site-header {
   text-align: center;
 }
