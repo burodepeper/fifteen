@@ -1,5 +1,8 @@
 {
 .appVersion = "1089";
+DisplayStrings = (
+"autonomie teef\012Thin Italic\012Extra Light French\012Light Spanish\012Regular Dutch\012Medium Canadian\012Semibold American\012Bold German\012/Upsilon/Phi \012"
+);
 copyright = "Copyright © 2017 by David van Gemeren. All rights reserved.";
 date = "2017-11-11 00:28:23 +0000";
 designer = "David van Gemeren";
@@ -178,7 +181,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:24 +0000";
 layers = (
 {
 anchors = (
@@ -11868,7 +11871,7 @@ unicode = 0141;
 {
 color = 5;
 glyphname = M;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -16339,7 +16342,7 @@ unicode = 024A;
 {
 color = 5;
 glyphname = R;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 anchors = (
@@ -28192,7 +28195,7 @@ unicode = 01E3;
 {
 color = 5;
 glyphname = b;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -30279,7 +30282,7 @@ unicode = 023C;
 {
 color = 5;
 glyphname = d;
-lastChange = "2017-11-14 07:04:05 +0000";
+lastChange = "2017-11-23 23:49:24 +0000";
 layers = (
 {
 components = (
@@ -35253,7 +35256,7 @@ unicode = 01BA;
 {
 color = 5;
 glyphname = f;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:50:43 +0000";
 layers = (
 {
 anchors = (
@@ -35587,7 +35590,7 @@ unicode = 02A9;
 {
 color = 5;
 glyphname = g;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -36824,7 +36827,7 @@ unicode = 021D;
 {
 color = 5;
 glyphname = h;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 anchors = (
@@ -38332,7 +38335,7 @@ unicode = 0195;
 {
 color = 5;
 glyphname = i;
-lastChange = "2017-11-14 07:03:17 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -40883,7 +40886,7 @@ unicode = 029E;
 {
 color = 5;
 glyphname = l;
-lastChange = "2017-11-21 18:38:52 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -47191,7 +47194,7 @@ unicode = 0153;
 {
 color = 5;
 glyphname = p;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -50401,7 +50404,7 @@ unicode = 017F;
 {
 color = 5;
 glyphname = t;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:44 +0000";
 layers = (
 {
 components = (
@@ -85115,7 +85118,7 @@ unicode = 03A4;
 {
 color = 5;
 glyphname = Upsilon;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:46 +0000";
 layers = (
 {
 components = (
@@ -85245,7 +85248,7 @@ unicode = 03A5;
 {
 color = 5;
 glyphname = Phi;
-lastChange = "2017-11-14 06:59:35 +0000";
+lastChange = "2017-11-23 23:49:46 +0000";
 layers = (
 {
 components = (
@@ -220975,6 +220978,7 @@ grave = -250;
 lambda = -200;
 lslash = -50;
 slash = -100;
+"@MMK_R_lc_f" = -50;
 };
 "@MMK_L_lc_q" = {
 "@MMK_R_-" = 50;
