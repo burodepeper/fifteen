@@ -1,5 +1,8 @@
 {
-.appVersion = "1089";
+.appVersion = "1091";
+DisplayStrings = (
+o
+);
 copyright = "Copyright © 2017 by David van Gemeren. All rights reserved.";
 date = "2017-11-24 02:15:28 +0000";
 designer = "David van Gemeren";
@@ -108298,7 +108301,7 @@ unicode = 0036;
 {
 color = 5;
 glyphname = seven;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 18:05:32 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -108306,13 +108309,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"215 -150 LINE",
+"300 -150 LINE",
 "700 750 LINE",
 "700 850 LINE",
 "100 850 LINE",
 "100 750 LINE",
-"585 750 LINE",
-"100 -150 LINE"
+"590 750 LINE",
+"190 -150 LINE"
 );
 }
 );
@@ -108324,13 +108327,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"265 -150 LINE",
+"350 -150 LINE",
 "700 700 LINE",
 "700 850 LINE",
 "100 850 LINE",
 "100 700 LINE",
-"530 700 LINE",
-"100 -150 LINE"
+"540 700 LINE",
+"190 -150 LINE"
 );
 }
 );
@@ -108342,13 +108345,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"155 -150 LINE",
+"250 -150 LINE",
 "700 800 LINE",
 "700 850 LINE",
 "100 850 LINE",
 "100 800 LINE",
-"640 800 LINE",
-"100 -150 LINE"
+"645 800 LINE",
+"195 -150 LINE"
 );
 }
 );
@@ -108774,9 +108777,9 @@ rightKerningGroup = number;
 unicode = 0039;
 },
 {
-color = 5;
+color = 4;
 glyphname = zero.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -108810,9 +108813,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = one.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -108846,9 +108849,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = two.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -108882,9 +108885,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = three.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -108918,9 +108921,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = four.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -108954,9 +108957,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = five.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -108990,9 +108993,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = six.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -109026,9 +109029,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = seven.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -109062,9 +109065,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = eight.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -109098,9 +109101,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = nine.lf;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:27 +0000";
 layers = (
 {
 components = (
@@ -109514,9 +109517,9 @@ leftKerningGroup = number;
 rightKerningGroup = number;
 },
 {
-color = 5;
+color = 4;
 glyphname = zero.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109552,9 +109555,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = zerosuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = one.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109590,9 +109593,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = onesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = two.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109628,9 +109631,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = twosuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = zeroinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109670,9 +109673,9 @@ rightMetricsKey = zerosuperior;
 unicode = 2080;
 },
 {
-color = 5;
+color = 4;
 glyphname = oneinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109712,9 +109715,9 @@ rightMetricsKey = onesuperior;
 unicode = 2081;
 },
 {
-color = 5;
+color = 4;
 glyphname = twoinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109754,9 +109757,9 @@ rightMetricsKey = twosuperior;
 unicode = 2082;
 },
 {
-color = 5;
+color = 4;
 glyphname = threeinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109796,9 +109799,9 @@ rightMetricsKey = threesuperior;
 unicode = 2083;
 },
 {
-color = 5;
+color = 4;
 glyphname = fourinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109838,9 +109841,9 @@ rightMetricsKey = foursuperior;
 unicode = 2084;
 },
 {
-color = 5;
+color = 4;
 glyphname = fiveinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109880,9 +109883,9 @@ rightMetricsKey = fivesuperior;
 unicode = 2085;
 },
 {
-color = 5;
+color = 4;
 glyphname = sixinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109922,9 +109925,9 @@ rightMetricsKey = sixsuperior;
 unicode = 2086;
 },
 {
-color = 5;
+color = 4;
 glyphname = seveninferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -109964,9 +109967,9 @@ rightMetricsKey = sevensuperior;
 unicode = 2087;
 },
 {
-color = 5;
+color = 4;
 glyphname = eightinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110006,9 +110009,9 @@ rightMetricsKey = eightsuperior;
 unicode = 2088;
 },
 {
-color = 5;
+color = 4;
 glyphname = nineinferior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110048,9 +110051,9 @@ rightMetricsKey = ninesuperior;
 unicode = 2089;
 },
 {
-color = 5;
+color = 4;
 glyphname = three.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110086,9 +110089,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = threesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = four.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110124,9 +110127,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = foursuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = five.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110162,9 +110165,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = fivesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = six.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110200,9 +110203,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = sixsuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = seven.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110238,9 +110241,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = sevensuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = eight.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110276,9 +110279,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = eightsuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = nine.subs;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110314,9 +110317,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = ninesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = zero.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110352,9 +110355,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = zerosuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = one.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110390,9 +110393,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = onesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = two.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110428,9 +110431,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = twosuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = three.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110466,9 +110469,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = threesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = four.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110504,9 +110507,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = foursuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = five.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110542,9 +110545,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = fivesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = six.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110580,9 +110583,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = sixsuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = seven.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110618,9 +110621,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = sevensuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = eight.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110656,9 +110659,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = eightsuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = nine.dnom;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110694,9 +110697,9 @@ rightKerningGroup = inferior;
 rightMetricsKey = ninesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = zero.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110732,9 +110735,9 @@ rightKerningGroup = superior;
 rightMetricsKey = zerosuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = one.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110770,9 +110773,9 @@ rightKerningGroup = superior;
 rightMetricsKey = onesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = two.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110808,9 +110811,9 @@ rightKerningGroup = superior;
 rightMetricsKey = twosuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = three.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110846,9 +110849,9 @@ rightKerningGroup = superior;
 rightMetricsKey = threesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = four.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110884,9 +110887,9 @@ rightKerningGroup = superior;
 rightMetricsKey = foursuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = five.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110922,9 +110925,9 @@ rightKerningGroup = superior;
 rightMetricsKey = fivesuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = six.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110960,9 +110963,9 @@ rightKerningGroup = superior;
 rightMetricsKey = sixsuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = seven.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -110998,9 +111001,9 @@ rightKerningGroup = superior;
 rightMetricsKey = sevensuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = eight.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -111036,9 +111039,9 @@ rightKerningGroup = superior;
 rightMetricsKey = eightsuperior;
 },
 {
-color = 5;
+color = 4;
 glyphname = nine.numr;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 17:56:20 +0000";
 layers = (
 {
 components = (
@@ -111823,7 +111826,7 @@ unicode = 2075;
 {
 color = 5;
 glyphname = sixsuperior;
-lastChange = "2017-11-21 22:07:40 +0000";
+lastChange = "2017-11-25 18:01:39 +0000";
 layers = (
 {
 components = (
@@ -111841,29 +111844,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"100 550 LINE",
-"150 550 LINE",
-"150 850 LINE",
-"100 850 LINE"
+"150 650 LINE",
+"150 874 OFFCURVE",
+"326 1050 OFFCURVE",
+"550 1050 CURVE",
+"550 1100 LINE",
+"298 1100 OFFCURVE",
+"100 902 OFFCURVE",
+"100 650 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"525 1030 LINE",
-"480 1075 OFFCURVE",
-"420 1100 OFFCURVE",
-"350 1100 CURVE SMOOTH",
-"210 1100 OFFCURVE",
-"100 990 OFFCURVE",
-"100 850 CURVE",
-"150 850 LINE",
-"150 960 OFFCURVE",
-"240 1050 OFFCURVE",
-"350 1050 CURVE SMOOTH",
-"405 1050 OFFCURVE",
-"455 1030 OFFCURVE",
-"490 990 CURVE"
+"100 550 LINE",
+"150 550 LINE",
+"150 650 LINE",
+"100 650 LINE"
 );
 }
 );
@@ -111885,29 +111882,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"100 550 LINE",
-"200 550 LINE",
-"200 850 LINE",
-"100 850 LINE"
+"200 650 LINE",
+"200 845 OFFCURVE",
+"355 1000 OFFCURVE",
+"550 1000 CURVE",
+"550 1100 LINE",
+"300 1100 OFFCURVE",
+"100 900 OFFCURVE",
+"100 650 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"525 1030 LINE",
-"480 1075 OFFCURVE",
-"420 1100 OFFCURVE",
-"350 1100 CURVE SMOOTH",
-"210 1100 OFFCURVE",
-"100 990 OFFCURVE",
-"100 850 CURVE",
-"200 850 LINE",
-"200 935 OFFCURVE",
-"265 1000 OFFCURVE",
-"350 1000 CURVE SMOOTH",
-"390 1000 OFFCURVE",
-"430 985 OFFCURVE",
-"455 955 CURVE"
+"100 550 LINE",
+"200 550 LINE",
+"200 650 LINE",
+"100 650 LINE"
 );
 }
 );
@@ -111929,29 +111920,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"100 550 LINE",
-"250 550 LINE",
-"250 850 LINE",
-"100 850 LINE"
+"250 650 LINE",
+"250 818 OFFCURVE",
+"382 950 OFFCURVE",
+"550 950 CURVE",
+"550 1100 LINE",
+"298 1100 OFFCURVE",
+"100 902 OFFCURVE",
+"100 650 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"530 1025 LINE",
-"485 1070 OFFCURVE",
-"420 1100 OFFCURVE",
-"350 1100 CURVE SMOOTH",
-"210 1100 OFFCURVE",
-"100 990 OFFCURVE",
-"100 850 CURVE",
-"250 850 LINE",
-"250 905 OFFCURVE",
-"295 950 OFFCURVE",
-"350 950 CURVE SMOOTH",
-"375 950 OFFCURVE",
-"400 940 OFFCURVE",
-"420 920 CURVE"
+"100 550 LINE",
+"250 550 LINE",
+"250 650 LINE",
+"100 650 LINE"
 );
 }
 );
@@ -112273,36 +112258,138 @@ unicode = 2078;
 {
 color = 5;
 glyphname = ninesuperior;
-lastChange = "2017-11-14 06:59:36 +0000";
+lastChange = "2017-11-25 18:00:39 +0000";
 layers = (
 {
 components = (
 {
-name = sixsuperior;
-transform = "{-1, 0, 0, -1, 700, 1400}";
+name = _halfcircle_500;
+transform = "{0, -1, -1, 0, 1100, 1200}";
+},
+{
+name = _halfcircle_500;
+transform = "{0, 1, -1, 0, 1100, 500}";
 }
 );
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
+paths = (
+{
+closed = 1;
+nodes = (
+"600 850 LINE",
+"550 850 LINE",
+"550 550 LINE",
+"600 550 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"175 370 LINE",
+"220 325 OFFCURVE",
+"280 300 OFFCURVE",
+"350 300 CURVE SMOOTH",
+"490 300 OFFCURVE",
+"600 410 OFFCURVE",
+"600 550 CURVE",
+"550 550 LINE",
+"550 440 OFFCURVE",
+"460 350 OFFCURVE",
+"350 350 CURVE SMOOTH",
+"295 350 OFFCURVE",
+"245 370 OFFCURVE",
+"210 410 CURVE"
+);
+}
+);
 width = 700;
 },
 {
 components = (
 {
-name = sixsuperior;
-transform = "{-1, 0, 0, -1, 700, 1400}";
+name = _halfcircle_500;
+transform = "{0, -1, -1, 0, 1100, 1200}";
+},
+{
+name = _halfcircle_500;
+transform = "{0, 1, -1, 0, 1100, 500}";
 }
 );
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
+paths = (
+{
+closed = 1;
+nodes = (
+"600 850 LINE",
+"500 850 LINE",
+"500 550 LINE",
+"600 550 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"175 370 LINE",
+"220 325 OFFCURVE",
+"280 300 OFFCURVE",
+"350 300 CURVE SMOOTH",
+"490 300 OFFCURVE",
+"600 410 OFFCURVE",
+"600 550 CURVE",
+"500 550 LINE",
+"500 465 OFFCURVE",
+"435 400 OFFCURVE",
+"350 400 CURVE SMOOTH",
+"310 400 OFFCURVE",
+"270 415 OFFCURVE",
+"245 445 CURVE"
+);
+}
+);
 width = 700;
 },
 {
 components = (
 {
-name = sixsuperior;
-transform = "{-1, 0, 0, -1, 700, 1400}";
+name = _halfcircle_500;
+transform = "{0, -1, -1, 0, 1100, 1200}";
+},
+{
+name = _halfcircle_500;
+transform = "{0, 1, -1, 0, 1100, 500}";
 }
 );
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
+paths = (
+{
+closed = 1;
+nodes = (
+"600 850 LINE",
+"450 850 LINE",
+"450 550 LINE",
+"600 550 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"170 375 LINE",
+"215 330 OFFCURVE",
+"280 300 OFFCURVE",
+"350 300 CURVE SMOOTH",
+"490 300 OFFCURVE",
+"600 410 OFFCURVE",
+"600 550 CURVE",
+"450 550 LINE",
+"450 495 OFFCURVE",
+"405 450 OFFCURVE",
+"350 450 CURVE SMOOTH",
+"325 450 OFFCURVE",
+"300 460 OFFCURVE",
+"280 480 CURVE"
+);
+}
+);
 width = 700;
 }
 );
@@ -221233,6 +221320,7 @@ slash = -50;
 };
 "@MMK_L_uc_C" = {
 "@MMK_R_-" = -100;
+"@MMK_R_lc_a" = -100;
 "@MMK_R_lc_b" = 50;
 "@MMK_R_lc_n" = 50;
 "@MMK_R_lc_o" = -50;
@@ -221241,7 +221329,6 @@ slash = -50;
 "@MMK_R_uc_O" = -50;
 grave = -50;
 slash = -50;
-"@MMK_R_lc_a" = -100;
 };
 "@MMK_L_uc_F" = {
 "@MMK_R_-" = -100;
@@ -221277,6 +221364,7 @@ grave = -50;
 "@MMK_R_lc_n" = 50;
 "@MMK_R_lc_o" = -50;
 "@MMK_R_lc_s" = -50;
+"@MMK_R_lc_t" = -50;
 "@MMK_R_lc_v" = -50;
 "@MMK_R_period" = -50;
 "@MMK_R_uc_Eth" = -50;
@@ -221285,7 +221373,6 @@ grave = -50;
 "@MMK_R_uc_J" = -100;
 "@MMK_R_uc_O" = -50;
 grave = -100;
-"@MMK_R_lc_t" = -50;
 };
 "@MMK_L_uc_L" = {
 "@MMK_R_-" = -200;
