@@ -1,7 +1,7 @@
 {
-.appVersion = "1089";
+.appVersion = "1091";
 copyright = "Copyright © 2017 by David van Gemeren. All rights reserved.";
-date = "2017-11-11 00:28:23 +0000";
+date = "2017-11-26 16:26:22 +0000";
 designer = "David van Gemeren";
 designerURL = "https://www.burodepeper.nl";
 familyName = Fifteen;
@@ -228147,5 +228147,5 @@ manufacturer = "David van Gemeren";
 manufacturerURL = "https://github.com/burodepeper";
 unitsPerEm = 1500;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }
