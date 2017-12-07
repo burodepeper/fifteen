@@ -31,6 +31,8 @@ A list of awkward kerning pairs I come across during my digital travels.
 
 - [x] `ig` in digital
 - [x] `rT` in TeamMemberTeamRole
+- [x] `Li` in multiLinguage
+- [ ] `mg` in img
 
 ## Alternate glyphs
 
