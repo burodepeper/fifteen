@@ -4283,17 +4283,43 @@ rightMetricsKey = O;
 unicode = 00D5;
 },
 {
-color = 4;
+color = 5;
 glyphname = OE;
-lastChange = "2017-12-07 18:18:43 +0000";
+lastChange = "2017-12-08 09:54:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{900, -150}";
+},
+{
+name = top;
+position = "{900, 850}";
+},
+{
+name = topleft;
+position = "{600, 850}";
+}
+);
 components = (
 {
-name = O;
+name = _halfcircle_1000;
 }
 );
 hints = (
+{
+horizontal = 1;
+place = "{-150, 100}";
+},
+{
+horizontal = 1;
+place = "{300, 100}";
+},
+{
+horizontal = 1;
+place = "{750, 100}";
+},
 {
 horizontal = 1;
 origin = "{1, 0}";
@@ -4301,13 +4327,17 @@ target = "{1, 3}";
 },
 {
 horizontal = 1;
-origin = "{2, 0}";
-target = "{2, 3}";
+origin = "{3, 0}";
+target = "{3, 3}";
 },
 {
 horizontal = 1;
 origin = "{0, 0}";
 target = "{0, 3}";
+},
+{
+origin = "{1, 0}";
+target = "{2, 1}";
 }
 );
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -4316,8 +4346,8 @@ paths = (
 closed = 1;
 nodes = (
 "600 750 LINE",
-"1500 750 LINE",
-"1500 850 LINE",
+"1100 750 LINE",
+"1100 850 LINE",
 "600 850 LINE"
 );
 },
@@ -4325,30 +4355,65 @@ nodes = (
 closed = 1;
 nodes = (
 "600 -150 LINE",
-"1500 -150 LINE",
-"1500 -50 LINE",
+"1100 -150 LINE",
+"1100 -50 LINE",
 "600 -50 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"1050 300 LINE",
-"1350 300 LINE",
-"1350 400 LINE",
-"1050 400 LINE"
+"600 -150 LINE",
+"700 -150 LINE",
+"700 850 LINE",
+"600 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 300 LINE",
+"1000 300 LINE",
+"1000 400 LINE",
+"600 400 LINE"
 );
 }
 );
-width = 1575;
+width = 1175;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{900, -150}";
+},
+{
+name = top;
+position = "{900, 850}";
+},
+{
+name = topleft;
+position = "{600, 850}";
+}
+);
 components = (
 {
-name = O;
+name = _halfcircle_1000;
 }
 );
 hints = (
+{
+horizontal = 1;
+place = "{-150, 150}";
+},
+{
+horizontal = 1;
+place = "{275, 150}";
+},
+{
+horizontal = 1;
+place = "{700, 150}";
+},
 {
 horizontal = 1;
 origin = "{1, 0}";
@@ -4356,13 +4421,17 @@ target = "{1, 3}";
 },
 {
 horizontal = 1;
-origin = "{2, 0}";
-target = "{2, 3}";
+origin = "{3, 0}";
+target = "{3, 3}";
 },
 {
 horizontal = 1;
 origin = "{0, 0}";
 target = "{0, 3}";
+},
+{
+origin = "{1, 0}";
+target = "{2, 1}";
 }
 );
 layerId = "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7";
@@ -4371,8 +4440,8 @@ paths = (
 closed = 1;
 nodes = (
 "600 700 LINE",
-"1500 700 LINE",
-"1500 850 LINE",
+"1100 700 LINE",
+"1100 850 LINE",
 "600 850 LINE"
 );
 },
@@ -4380,30 +4449,65 @@ nodes = (
 closed = 1;
 nodes = (
 "600 -150 LINE",
-"1500 -150 LINE",
-"1500 0 LINE",
+"1100 -150 LINE",
+"1100 0 LINE",
 "600 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
+"600 -150 LINE",
+"750 -150 LINE",
+"750 850 LINE",
+"600 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 275 LINE",
 "1000 275 LINE",
-"1350 275 LINE",
-"1350 425 LINE",
-"1000 425 LINE"
+"1000 425 LINE",
+"600 425 LINE"
 );
 }
 );
-width = 1575;
+width = 1175;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{900, -150}";
+},
+{
+name = top;
+position = "{900, 850}";
+},
+{
+name = topleft;
+position = "{600, 850}";
+}
+);
 components = (
 {
-name = O;
+name = _halfcircle_1000;
 }
 );
 hints = (
+{
+horizontal = 1;
+place = "{-150, 50}";
+},
+{
+horizontal = 1;
+place = "{325, 50}";
+},
+{
+horizontal = 1;
+place = "{800, 50}";
+},
 {
 horizontal = 1;
 origin = "{1, 0}";
@@ -4411,13 +4515,17 @@ target = "{1, 3}";
 },
 {
 horizontal = 1;
-origin = "{2, 0}";
-target = "{2, 3}";
+origin = "{3, 0}";
+target = "{3, 3}";
 },
 {
 horizontal = 1;
 origin = "{0, 0}";
 target = "{0, 3}";
+},
+{
+origin = "{1, 0}";
+target = "{2, 1}";
 }
 );
 layerId = "833FD172-3601-4257-8297-A103CE2A393F";
@@ -4426,8 +4534,8 @@ paths = (
 closed = 1;
 nodes = (
 "600 800 LINE",
-"1500 800 LINE",
-"1500 850 LINE",
+"1100 800 LINE",
+"1100 850 LINE",
 "600 850 LINE"
 );
 },
@@ -4435,22 +4543,31 @@ nodes = (
 closed = 1;
 nodes = (
 "600 -150 LINE",
-"1500 -150 LINE",
-"1500 -100 LINE",
+"1100 -150 LINE",
+"1100 -100 LINE",
 "600 -100 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"1075 325 LINE",
-"1350 325 LINE",
-"1350 375 LINE",
-"1075 375 LINE"
+"600 -150 LINE",
+"650 -150 LINE",
+"650 850 LINE",
+"600 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 325 LINE",
+"1000 325 LINE",
+"1000 375 LINE",
+"600 375 LINE"
 );
 }
 );
-width = 1575;
+width = 1175;
 }
 );
 leftKerningGroup = O;
