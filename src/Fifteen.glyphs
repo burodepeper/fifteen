@@ -1,5 +1,8 @@
 {
 .appVersion = "1095";
+DisplayStrings = (
+VOLVO
+);
 copyright = "Copyright © 2017 by David van Gemeren. All rights reserved.";
 date = "2017-11-26 16:26:29 +0000";
 designer = "David van Gemeren";
@@ -3871,7 +3874,7 @@ unicode = 00D1;
 {
 color = 5;
 glyphname = O;
-lastChange = "2017-12-08 12:01:01 +0000";
+lastChange = "2017-12-08 19:25:35 +0000";
 layers = (
 {
 anchors = (
@@ -6039,7 +6042,7 @@ unicode = 00D9;
 {
 color = 5;
 glyphname = V;
-lastChange = "2017-12-08 12:02:16 +0000";
+lastChange = "2017-12-08 19:25:37 +0000";
 layers = (
 {
 anchors = (
@@ -223538,6 +223541,9 @@ equal = -150;
 numbersign = {
 numbersign = -200;
 };
+"@MMK_L_L" = {
+"@MMK_R_V" = -150;
+};
 };
 "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5" = {
 "@MMK_L_equal" = {
@@ -223556,6 +223562,9 @@ equal = -150;
 numbersign = {
 numbersign = -200;
 };
+"@MMK_L_L" = {
+"@MMK_R_V" = -150;
+};
 };
 "DCFDD359-D3A1-4A9B-975E-26381AFB2AA7" = {
 "@MMK_L_equal" = {
@@ -223573,6 +223582,9 @@ equal = -150;
 };
 numbersign = {
 numbersign = -200;
+};
+"@MMK_L_L" = {
+"@MMK_R_V" = -150;
 };
 };
 };
