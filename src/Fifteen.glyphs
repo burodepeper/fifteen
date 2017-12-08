@@ -26315,7 +26315,7 @@ unicode = 0066;
 {
 color = 5;
 glyphname = g;
-lastChange = "2017-12-07 16:15:47 +0000";
+lastChange = "2017-12-08 09:56:32 +0000";
 layers = (
 {
 components = (
@@ -28697,7 +28697,7 @@ unicode = 00DF;
 {
 color = 5;
 glyphname = t;
-lastChange = "2017-12-08 09:47:17 +0000";
+lastChange = "2017-12-08 09:56:32 +0000";
 layers = (
 {
 components = (
@@ -119625,7 +119625,7 @@ unicode = 00A1;
 {
 color = 5;
 glyphname = question;
-lastChange = "2017-12-07 19:25:35 +0000";
+lastChange = "2017-12-08 09:55:51 +0000";
 layers = (
 {
 components = (
@@ -124769,9 +124769,9 @@ width = 400;
 unicode = 2019;
 },
 {
-color = 4;
+color = 5;
 glyphname = guillemetleft;
-lastChange = "2017-11-26 18:40:52 +0000";
+lastChange = "2017-12-08 10:00:53 +0000";
 layers = (
 {
 components = (
@@ -124819,9 +124819,9 @@ width = 900;
 unicode = 00AB;
 },
 {
-color = 4;
+color = 5;
 glyphname = guillemetright;
-lastChange = "2017-11-26 18:40:52 +0000";
+lastChange = "2017-12-08 10:00:53 +0000";
 layers = (
 {
 components = (
@@ -124857,9 +124857,9 @@ width = 900;
 unicode = 00BB;
 },
 {
-color = 4;
+color = 5;
 glyphname = guilsinglleft;
-lastChange = "2017-11-26 18:42:03 +0000";
+lastChange = "2017-12-08 10:00:53 +0000";
 layers = (
 {
 layerId = "926D8932-2CBE-4DA1-A7EC-AA50FD678EE5";
@@ -124867,12 +124867,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"430 100 LINE",
-"285 350 LINE",
-"430 600 LINE",
-"310 600 LINE",
-"165 350 LINE",
-"310 100 LINE"
+"495 100 LINE",
+"245 350 LINE",
+"495 600 LINE",
+"355 600 LINE",
+"105 350 LINE",
+"355 100 LINE"
 );
 }
 );
@@ -124884,12 +124884,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"460 100 LINE",
-"315 350 LINE",
-"460 600 LINE",
-"280 600 LINE",
-"135 350 LINE",
-"280 100 LINE"
+"530 100 LINE",
+"280 350 LINE",
+"530 600 LINE",
+"320 600 LINE",
+"70 350 LINE",
+"320 100 LINE"
 );
 }
 );
@@ -124901,12 +124901,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"400 100 LINE",
-"255 350 LINE",
-"400 600 LINE",
-"340 600 LINE",
-"195 350 LINE",
-"340 100 LINE"
+"460 100 LINE",
+"210 350 LINE",
+"460 600 LINE",
+"390 600 LINE",
+"140 350 LINE",
+"390 100 LINE"
 );
 }
 );
@@ -124916,9 +124916,9 @@ width = 600;
 unicode = 2039;
 },
 {
-color = 4;
+color = 5;
 glyphname = guilsinglright;
-lastChange = "2017-11-26 18:42:03 +0000";
+lastChange = "2017-12-08 10:00:53 +0000";
 layers = (
 {
 components = (
@@ -130269,7 +130269,7 @@ unicode = 00F7;
 {
 color = 5;
 glyphname = equal;
-lastChange = "2017-12-06 13:48:16 +0000";
+lastChange = "2017-12-08 09:55:47 +0000";
 layers = (
 {
 components = (
@@ -130405,7 +130405,7 @@ unicode = 2260;
 {
 color = 5;
 glyphname = greater;
-lastChange = "2017-12-06 13:48:14 +0000";
+lastChange = "2017-12-08 09:55:47 +0000";
 layers = (
 {
 components = (
