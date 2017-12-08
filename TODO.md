@@ -39,6 +39,10 @@ A list of awkward kerning pairs I come across during my digital travels.
 - [ ] `a`: circle with small stem
 - [ ] `0`: with a period inside
 
+## Ligatures
+
+- [ ] A rare variant of the ł glyph is a cursive double-ł ligature, used in words such as Jagiełło or Ałłach (archaic: Allah), where the strokes at the top of the letters are joined into a single stroke.
+
 ## General improvements / experiments
 
 - [ ] Experiment: Draw spaces besides a 'normal' space (non-breaking space for instance) as a very thin box
