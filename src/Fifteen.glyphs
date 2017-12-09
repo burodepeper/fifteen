@@ -636,7 +636,7 @@ unicode = 00C3;
 {
 color = 5;
 glyphname = AE;
-lastChange = "2017-12-08 12:02:25 +0000";
+lastChange = "2017-12-09 10:04:05 +0000";
 layers = (
 {
 anchors = (
@@ -678,8 +678,8 @@ nodes = (
 closed = 1;
 nodes = (
 "255 300 LINE",
-"900 300 LINE",
-"900 400 LINE",
+"950 300 LINE",
+"950 400 LINE",
 "255 400 LINE"
 );
 },
@@ -735,8 +735,8 @@ nodes = (
 closed = 1;
 nodes = (
 "300 275 LINE",
-"900 275 LINE",
-"900 425 LINE",
+"950 275 LINE",
+"950 425 LINE",
 "300 425 LINE"
 );
 },
@@ -792,8 +792,8 @@ nodes = (
 closed = 1;
 nodes = (
 "235 325 LINE",
-"900 325 LINE",
-"900 375 LINE",
+"950 325 LINE",
+"950 375 LINE",
 "235 375 LINE"
 );
 },
@@ -3718,9 +3718,9 @@ rightMetricsKey = L;
 unicode = 0141;
 },
 {
-color = 5;
+color = 4;
 glyphname = M;
-lastChange = "2017-12-08 18:34:26 +0000";
+lastChange = "2017-12-09 10:03:28 +0000";
 layers = (
 {
 components = (
@@ -3757,9 +3757,9 @@ rightMetricsKey = H;
 unicode = 004D;
 },
 {
-color = 5;
+color = 4;
 glyphname = N;
-lastChange = "2017-12-08 19:17:25 +0000";
+lastChange = "2017-12-09 10:03:28 +0000";
 layers = (
 {
 components = (
@@ -6556,9 +6556,9 @@ width = 800;
 unicode = 0178;
 },
 {
-color = 5;
+color = 4;
 glyphname = Z;
-lastChange = "2017-12-08 11:37:30 +0000";
+lastChange = "2017-12-09 10:03:28 +0000";
 layers = (
 {
 anchors = (
