@@ -2,7 +2,7 @@
 
 Website: https://burodepeper.github.io/fifteen/
 
-Fifteen is a proportionally sized typeface optimized for source code. It was initially developed as an experiment in font metrics and has since evolved as my personal typeface for both source code and identity. As such, it is still very much under active construction and receives frequent updates.
+Fifteen is a proportional typeface optimized for source code. It was initially developed as an experiment in font metrics and has since evolved as my personal typeface for both source code and identity. As such, it is still very much under active construction and receives frequent updates.
 
 ---
 
@@ -43,18 +43,25 @@ If you run into any issue, or if you have a suggestion on how to improve fifteen
 
 Check the [TODO](https://github.com/burodepeper/fifteen/tree/master/TODO.md) for additional specifics.
 
-### Known issues
+### Known (and possible) issues
 
-- Glyphs with (complex) diacritics will most likely be clipped in certain software, especially on Windows.
-- Many text editors do not support kerning in proportionally sized fonts.
+- Most complex/combined diacritics (such as Ȫ, ǚ, ẩ or ễ) fall outside their glyph boxes by design, but will unfortunately be clipped in certain software that doesn't support that. This is mostly an issue on Windows, though an average user won't likely run into this.
+- Many editors do not support kerning. Kerning allows a type designer to adjust the default horizontal space between two adjacent characters. In monospaced typefaces, kerning is by definition not used. In proportional typefaces, kerning is used sparingly to prevent certain combinations of characters from looking weirdly spaced together.
+- Many code editors base their word wrapping on a number of characters per line, which makes sense for fixed-width fonts, but not so much for variable-width fonts. This wrapping can be too tight, which results in unpredictable line breaks, or too wide, which results in possible horizontal overflow.
+
+#### Known issues per editor
+
+- **Atom**: Word wrapping is too wide
+- **Sublime Text (3)**: Glyph box clipping, no kerning
+- **Visual Studio Code**: Word wrapping is too narrow
 
 ---
 
-## Development and contributions
+## Contributions and development requirements
 
-Because of the personal nature of this project, I am open, but also somewhat reluctant towards (substantial) contributions. Suggestions of whatever kind are _very welcome_!
+If you are interested in contributing to this project, please get in touch first. Due to the nature of this project, some guidance might be prudent to prevent your efforts from being wasted.
 
-Fifteen is designed and developed using [Glyphs](https://www.glyphsapp.com) which is a prerequisite for working from source.
+Fifteen is designed and developed using [Glyphs](https://www.glyphsapp.com) which is a prerequisite for working and building from source.
 
 ---
 
@@ -62,6 +69,6 @@ Fifteen is designed and developed using [Glyphs](https://www.glyphsapp.com) whic
 
 Fifteen is released under the [MIT License](LICENSE). I'm looking into switching to using the Open Font License, but that shouldn't change anything.
 
-While not strictly part of the license, if you intend to use Fifteen in a commercial project, a voluntary donation towards further development of fifteen, or a charity focused on the environment, is welcomed.
+While not strictly part of the license, if you intend to use Fifteen in a commercial project, a voluntary donation towards further development of fifteen, or towards a charity focused on the environment, is welcomed.
 
-If you end up using fifteen in whatever capacity, I'd very much like to hear about it.
+If you end up using fifteen in whatever capacity, I'd very much like to hear about it, because that would be awesome! ;)
