@@ -28,3 +28,9 @@ Wisła, WISŁA, (Vistula)
 Michał, MICHAŁ, (Michael)
 złoty, ZŁOTY, (zloty / golden)
 la gondoła, LA GONDOŁA
+
+## L with caron
+
+podnikateľ
+Ján Figeľ
+Ľudovít Štúr
