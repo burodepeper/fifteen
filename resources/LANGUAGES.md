@@ -1,11 +1,44 @@
 - Cyrillic
+  - Bulgarian
+  - Russian
 - Greek
-- Icelandic
-- Vietnamese
+  - Monotonic
+  - Polytonic
+- Latin
+  - Dutch
+  - Icelandic
+  - Vietnamese
 
-----------
+--------------------------------------------------------------------------------
 
 # Cyrillic
+
+## Bulgarian
+
+> Article 1 of the Universal Declaration of Human Rights
+> Source: https://www.omniglot.com/writing/bulgarian.htm
+
+Всички хора се раждат свободни и равни по достойнство и права. Tе са надарени
+с разум и съвест и следва да се отнасят помежду си в дух на братство.
+
+> Pangrams
+> Source: http://clagnut.com/blog/2380/#Bulgarian
+
+Ах чудна българска земьо, полюшвай цъфтящи жита.
+Жълтата дюля беше щастлива, че пухът, който цъфна, замръзна като гьон.
+За миг бях в чужд плюшен скърцащ фотьойл.
+Вкъщи не яж сьомга с фиде без ракийка и хапка люта чушчица!
+Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.
+Шугав льохман, държащ птицечовка без сейф и ютия.
+Я, пазачът Вальо уж бди, а скришом хапва кюфтенца зад щайгите.
+Хълцайки много, въздесъщият позьор, Юрий жабока, фучеше.
+Гномът Доцьо приключи спящ в шейна за жаби.
+Щиглецът се яде само пържен в юфка без чушки и хвойна.
+Фучейки и хълцайки, кьоравият грухтящ шопар жадно стъпка зюмбюлите
+Хълцащ змей плюе шофьор стигнал чуждия бивак.
+Щурчо Цоньо хапваше ловджийско кюфте с бяла гъмза.
+
+## Russian
 
 > Modern Russian, from Pushkin's ‘The Bronze Horseman’:
 
@@ -41,6 +74,26 @@
 
 Се повѣсти времѧньных лѣт ‧ ѿкуду єсть пошла руская земѧ ‧ кто въ києвѣ нача
 первѣє кнѧжит ‧ и ѿкуду руская землѧ стала єсть.
+
+## Serbian
+
+> Article 1 of the Universal Declaration of Human Rights
+> Source: https://www.omniglot.com/writing/serbian.htm
+
+Сва људска бића рађају се слободна и једнака у достојанству и правима. Она су
+обдарена разумом и свешћу и треба једни према другима да поступају у духу
+братства.
+
+## Ukrainian
+
+> Article 1 of the Universal Declaration of Human Rights
+> Source: https://www.omniglot.com/writing/ukrainian.htm
+
+Всі люди народжуються вільними і рівними у своїй гідності та правах. Вони
+наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі
+братерства.
+
+--------------------------------------------------------------------------------
 
 # Greek
 
@@ -85,17 +138,48 @@
 
 > The beginning of Apology by Plato exemplifies Attic Greek from the Classical period of Ancient Greek:
 
-Ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα· ἐγὼ δ' οὖν καὶ αὐτὸς ὑπ' αὐτῶν ὀλίγου ἐμαυτοῦ ἐπελαθόμην, οὕτω πιθανῶς ἔλεγον. Καίτοι ἀληθές γε ὡς ἔπος εἰπεῖν οὐδὲν εἰρήκασιν.
+Ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα·
+ἐγὼ δ' οὖν καὶ αὐτὸς ὑπ' αὐτῶν ὀλίγου ἐμαυτοῦ ἐπελαθόμην, οὕτω πιθανῶς ἔλεγον.
+Καίτοι ἀληθές γε ὡς ἔπος εἰπεῖν οὐδὲν εἰρήκασιν.
 
-# Icelandic
+--------------------------------------------------------------------------------
 
-Staf þann er flestir menn kalla þ þann kalla ég af því heldur þe að þá er það atkvæði hans í hverju máli sem eftir lifir nafnsins er úr er tekinn raddarstafur úr nafni hans, sem alla hefi ég samhljóðendur samda í það mark nú sem ég reit snemma í þeirra umræðu. Skal þ standa fyrri í stafrófi en titull þó að ég hafi síðar umræðu um hann því að hann er síðast í fundinn, en af því fyrr um titul að hann var áður í stafrófi og ég lét hann þeim fylgja í umræðu eru honum líkir þarfnast sína jartein. Höfuðstaf þe-sins rita ég hvergi nema í vers upphafi því að hans atkvæði má eigi æxla þótt hann standi eftir raddarstaf í samstöfun.
+# Latin
 
-# Vietnamese
+## Dutch
 
-Source: https://github.com/jech/cedilla/blob/master/vietnamese-sample.text
+> Article 1 of the Universal Declaration of Human Rights
+> Source: https://www.omniglot.com/writing/dutch.htm
+
+Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn
+begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest
+van broederschap te gedragen.
+
+aa, aai, ai, au, auw, ee, eeuw, ei, eu, ie, ieuw, ij, oe, oei, oi, oo, ooi, ou, ouw, ui, uu, uw
+
+## Icelandic
+
+Staf þann er flestir menn kalla þ þann kalla ég af því heldur þe að þá er það
+atkvæði hans í hverju máli sem eftir lifir nafnsins er úr er tekinn
+raddarstafur úr nafni hans, sem alla hefi ég samhljóðendur samda í það mark nú
+sem ég reit snemma í þeirra umræðu. Skal þ standa fyrri í stafrófi en titull þó
+að ég hafi síðar umræðu um hann því að hann er síðast í fundinn, en af því fyrr
+um titul að hann var áður í stafrófi og ég lét hann þeim fylgja í umræðu eru
+honum líkir þarfnast sína jartein. Höfuðstaf þe-sins rita ég hvergi nema í vers
+upphafi því að hans atkvæði má eigi æxla þótt hann standi eftir raddarstaf í
+samstöfun.
+
+> Article 1 of the Universal Declaration of Human Rights
+> Source: https://www.omniglot.com/writing/icelandic.htm
+
+Hver maður er borinn frjáls og jafn öðrum að virðingu og réttindum. Menn eru
+gæddir vitsmunum og samvisku, og ber þeim að breyta bróðurlega hverjum við
+annan.
+
+## Vietnamese
 
 > Vietnamese, from a translation of Goerge Orwell's 1984. (Prepared by François-René Rideau.)
+> Source: https://github.com/jech/cedilla/blob/master/vietnamese-sample.text
 
 Đó là một ngày tháng tư sáng lạnh, vừa lúc đồng hồ điểm báo mười ba trăm.
 Cằm rụt xuống ngực để mong tránh gió ác, Winston Smith lướt nhanh qua cửa kính
