@@ -1,0 +1,186 @@
+Source: https://github.com/source-foundry/code-corpora
+
+
+CHARACTERS
+- with a significant number of occurences
+- ordered by number of occurences
+- only visible ASCII characters, except for the last one, the middle dot
+
+    e t r n i a s o l c d u f p , m
+    _ 0 . ( ) h g x b = / 1 y " E v
+    : S A T 2 * R ; w - { } O I C k
+    3 6 4 L ' D P N M 5 \ 8 F [ ] >
+    H $ 7 9 B U V & < G q # @ W ! |
+    + Q j z X K % Y ` ? Z J ^ ~ ·
+
+
+OTHER CHARACTERS
+- with a minor number of occurences
+- characters that fall outside of the scope of Fifteen, such as Arabic and CJK characters, are excluded from this segment
+
+    ƞ © Ǆ ∕ ☺ ☹ ± ǀ Ƅ – Ð ● ǃ ø Ã Ë
+    É Ǉ ² ɟ é ǁ ɺ ☻ ƀ ԣ Ƈ Ā ɾ Ĉ α ƃ
+    ǆ ι × Ɓ ĉ ” “ ¡ ŋ ȉ Ѓ Ł Ġ å ʈ ü
+    Ȉ Ӱ Đ ɉ ʉ ǲ Љ Ϝ Ę ö Н λ ε р щ Ѵ
+    á ç À Ƀ ȃ İ ѵ Ǐ Ͷ π ½
+
+
+ALPHANUMERIC PAIRS (top 25%)
+- the first batch, 25 pairs, makes up ~25%
+- the whole set makes up ~75%
+
+    in re er st te nt on es at th
+    se en or le ti et he tr ar al
+    co de me ed ct
+
+    an it ri ng ta is nd as io ns
+    ec if ra ro un ur to ne pe 00
+    0x il li rr ce lo ea nc ch ac
+    rn ma tu ll ge ue ca ic el am
+    ss pa ut ou si ve fi fo om ad
+    ex la ha na id pr od pt ru em
+    di ot mp rt rg ck ul im ol bl
+    va ef ts hi ni of lu ag no rs
+    ap po yp oc ty op us ff be Co
+    ig oo x0 pl ab 64 fu ie gs cl
+    sh ui ke os ai mo dd bu Re ho
+    su lt ow pu In Ar da fa qu ry
+    xt ls ld ew 32 go wi ze iz uc
+    tt ep ir ee um ay sa eg Op oi
+    sc sp ob so pp nu do St eq ub
+    x1 mi wa rm bj ba rc up mm 16
+    iv ak cr fe MO bo og Ma Th by
+    Se OV 10 je ia tc ev Te sy 20
+    gi ip nf br cu gn ey tp ly uf
+    fl au fr Va 12 pi rd ht RE ER
+    ib ov IN 11 ds vo Li vi oa OR
+    xp NS yt Ty Ad Er ys
+
+
+COMBINATION PAIRS
+- combinations of an alphanumeric and a non-alphanumeric character
+- this set covers ~50% of all such pairs
+
+    \x e. t_ t. e_ e( 0, t( s. .A
+    e, _s r( e) s[ _t v. (s d_ _c
+    t) 1, .c _i t, n( s( r_ _p s,
+    r) n. e: s) 2, _r (c s_ g( r.
+    f( _a T_ d( _f d, d. (t p. p_
+    _e t: 0\ (v (i g. _d 0. 0) 0]
+    y( .T .s l( 3, n_ 1) d) 4, _l
+    g_ [0 E_ r, 1] _m .g 5, _n (p
+    _S m. v_ .P [1 1. e; $t (S 8,
+    .S .r s- (x S_ l_ f. .t (r s:
+    _b x) (f _o k_ (e 6, _0 e" .p
+    y) (a d: _u (b n" %s n, o_ .h
+    _1 (n y_ 0; \n l. -1 c. e' .e
+    n) l, .F 9, .E .O b. t; 2) 7,
+    .a D$ p( ,0 _R #i 0( s" y. .U
+    _C t- e- m) .i 2. (d h_ m_ c_
+    l) [i f, .n (M (m (o .0 .N n'
+    g) 's %d
+
+- The same list, but then grouped/sorted
+
+    \x \n
+    e. t. s. v. n. r. d. p. g. 0. m. 1. f. l. c. b. y. 2.
+    t_ e_ d_ r_ s_ T_ p_ n_ g_ E_ v_ S_ l_ k_ o_ y_ h_ m_ c_
+    e( t( r( n( s( g( f( d( y( l( p( 0(
+    0, e, 1, t, s, 2, d, 3, 4, r, 5, 8, 6, n, l, 9, 7, f,
+    .A .c .T .s .g .P .S .r .t .p .h .e .F .E .O .a .U .i .n .0 .N
+    _s _t _c _i _p _r _a _f _e _d _l _m _n _S _b _o _0 _u _1 _R _C
+    e) t) r) s) 0) 1) d) x) y) n) 2) m) l) g)
+    s[
+    (s (c (t (v (i (p (S (x (r (f (e (a (b (n (d (M (m (o
+    e: t: s: d:
+    0\
+    0] 1]
+    [0 [1 [i
+    e; 0; t;
+    $t
+    s- t- e-
+    e" n" s"
+    %s %d
+    -1
+    e' n'
+    D$
+    ,0
+    #i
+    's
+
+
+PUNCTUATION
+- sequences of non-alphanumeric characters
+- this set cover ~86% of all such occurences
+
+    _ . , ( ) = { } * :
+    // \ " ; [ $ - ' ); ->
+    := ] ", # / < @ () | !=
+    */ + > == ), % && (" }, ::
+    & /* )) ', (); "\ ` __ ]; ($
+    (& [] /** [' ! ") => ? ). ('
+    || ]) (! :( _, {@ '] )); << ],
+
+
+KEYWORDS
+- first batch (28 keywords) covers ~15%
+- full set (566 keywords) covers ~50%
+
+    if the return to is of for int in this
+    and err func name struct nil string Args end type
+    true void be break value new case that
+
+    not array or data file const The public with error
+    static x00 var function it size self len path else
+    class get by false com result code as test from
+    id google AddArg import key bool on an char got
+    byte are set list def runtime mem we object param
+    common AuxInt Type can include Op buf do ptr match
+    uint32 out fmt use This int64 16 post unsigned will
+    user no uintptr If base 10 request info want flags
+    all SB default 00 v0 add args NULL message options
+    uint16 state assert index SYS License should lock at range
+    Errorf long go x1 32 testCase Uses map clobber entry
+    testing x0 collect time ret source next line link define
+    wp cpu url uint64 null arg 64 count offset method
+    reset cond current has src have THE bytes typ package
+    since int32 context idx e1 obj empty length when ssa
+    but foo used version http which start buffer init one
+    read so task only php OR types number unsafe call
+    text any throws FP plan9 equal private may output module
+    first node Pos val format Name values returns failed fd
+    20 Value trace check sym must found cache make String
+    tt 255 copy off org field hash gnu Pointer EQ
+    block ok you Copyright parent free dir each config mode
+    input page AX REG option Exception action Aux append header
+    switch write comment os ID rq Override fn R1 table
+    continue was io ctx IS strings content sha1 stack str
+    update uint8 sys response NewValue0 other BPF OF i0 event
+    form EXPECT interface after v1 tag cmd status LICENSE dst
+    11 Reg given instance 12 crypto reflect last req item
+    under before Go Returns into Printf address ref 15 while
+    expected run All R0 queue print re addr linux NOT
+    Use create old final element s1 op using template See
+    sizeof query then TYPE endif filter frame style prefix env
+    order commit tree mod internal bit pos image app files
+    attr ctxt expect nr same mask reserved res 30 r0
+    FILE more max log goto ERROR target np see up
+    We its rights body done MOVW group host R2 without
+    strbuf ANY None DATA root R3 v2 s0 01 syscall
+    token require license NSString wanted params java git CX lo
+    build bar mutex irq Authors raw try 31 errors names
+    Error non To handler reg Object hi flag title SP
+    It example inline menu head 0x00 memory For msg rcu
+    0x0 div register debug there THIS work does R4 alloc
+    thread R8 command URL html parse ap need load remove
+    find MOVL directory 24 called invalid MOVD defined show author
+    03 x2 util fields H9 headers R9 distributed AND net
+    sched MOVQ BY AT DX Block defer either zero Fatalf
+    bits BSD unicode returned extension DO p0 keys desc R6
+    like callback Set process WP label super than IN governed
+    tg unlock objects filename sub where namespace domain isset R5
+    elements two Test asm TEXT You access level global off2
+    throw date child extends int8 section R12 tmp let arguments
+    property argv delete int16 Errno DI local ast part binary
+    tests protobuf EDIT term specific List put File off1 www
+    std optional server NO meta mapping pid CALL
